@@ -1,0 +1,377 @@
+name,lanes,road_capacity_from_conversion,highway,oneway
+West 40th Street,,3,primary,yes
+Lincoln Tunnel,,3,primary,yes
+Lincoln Tunnel Approach,,3,secondary,yes
+East 50th Street,,3,secondary,yes
+West 55th Street,,1,unclassified,yes
+West 35th Street,,1,unclassified,yes
+Lincoln Tunnel,,3,secondary,yes
+9th Avenue,,3,secondary,yes
+East 58th Street,,1,residential,yes
+Park Avenue,,3,secondary,yes
+East 64th Street,,1,residential,yes
+Shubert Alley,,1,pedestrian,
+Beekman Place,,1,residential,
+West 33rd Street,1,1,unclassified,yes
+Penn Plaza,,3,secondary,yes
+Tudor City Place,,1,residential,yes
+East 59th Street,,1,residential,yes
+East 56th Street,,1,residential,yes
+East 45th Street,,3,secondary,yes
+West 27th Street,1,1,unclassified,yes
+Lincoln Tunnel Expressway,2,4,motorway_link,yes
+West 41st Street,,1,unclassified,yes
+Grand Army Plaza,,3,secondary,
+East 42nd Street,,3,primary,
+West 58th Street,,1,residential,yes
+FDR Drive,3,4,motorway,yes
+West 29th Street,,1,unclassified,yes
+Tunnel Exit Street,,1,residential,yes
+East 43rd Street,,1,residential,
+East 43rd Street,,1,residential,yes
+East 67th Street,,1,residential,yes
+West 53rd Street,,3,secondary,yes
+West 57th Street,,3,primary,no
+East 60th Street,,3,secondary,yes
+East 66th Street,,3,secondary,yes
+West 38th Street,,1,unclassified,yes
+East 52nd Street,,1,residential,yes
+East 65th Street,,3,secondary,yes
+West Drive,,1,unclassified,yes
+12th Avenue,4,4,trunk,yes
+Broadway,,1,unclassified,yes
+7th Avenue,,3,secondary,yes
+West 28th Street,,1,unclassified,yes
+Doris C. Freedman Place,,3,secondary,yes
+Mitchell Place,,1,residential,yes
+West 34th Street,6,3,primary,no
+1st Avenue,,3,primary,yes
+West 48th Street,,1,residential,yes
+East Drive,,1,unclassified,
+West 36th Street,,3,secondary,yes
+West 44th Street,,1,unclassified,yes
+East 36th Street,,3,secondary,yes
+East 46th Street,,3,secondary,yes
+West 50th Street,,3,secondary,yes
+West 37th Street,,3,secondary,yes
+East 44th Street,,1,residential,yes
+West 43rd Street,,1,unclassified,yes
+East 44th Street,,1,residential,yes
+Gen. Douglas MacArthur Plaza,,3,secondary,yes
+Grand Army Plaza,,3,secondary,yes
+East 41st Street,,1,unclassified,yes
+East 40th Street,,1,unclassified,yes
+Central Park-Center Drive,,1,unclassified,yes
+FDR Drive,3,4,motorway,yes
+East 53rd Street,,3,secondary,yes
+Central Park-Center Drive,,1,unclassified,yes
+West 49th Street,,3,secondary,yes
+West 47th Street,,1,residential,yes
+West 40th Street,,3,primary,
+East 47th Street,,1,residential,yes
+West 32nd Street,,1,unclassified,yes
+East 51st Street,,1,residential,
+West 45th Street,,3,secondary,yes
+Central Park South,,3,secondary,no
+East 48th Street,,1,residential,yes
+East 38th Street,,1,unclassified,yes
+Sutton Place South,,3,secondary,yes
+East 62nd Street,,1,residential,yes
+East 63rd Street,,2,tertiary,yes
+Vanderbilt Avenue,,1,residential,yes
+FDR Drive,3,4,motorway,yes
+East 54th Street,,3,secondary,yes
+East 57th Street,,3,primary,
+West 31st Street,,3,secondary,yes
+FDR Drive,3,4,motorway,yes
+West 41st Street,,3,secondary,yes
+West 30th Street,,3,secondary,yes
+West 30th Street,,3,secondary,yes
+East 59th Street,,3,primary,no
+East 51st Street,,1,residential,yes
+West 45th Street,,3,secondary,yes
+11th Avenue,,3,primary,
+Lincoln Tunnel Expressway,2,4,motorway,yes
+Lincoln Tunnel Expressway,2,4,motorway,yes
+Lincoln Tunnel Expressway,2,4,motorway,yes
+West 46th Street,,3,secondary,yes
+11th Avenue,,3,primary,yes
+car parking,,1,service,yes
+West 37th Street,,3,secondary,yes
+West 37th Street,,3,secondary,yes
+West 38th Street,,1,unclassified,yes
+West 38th Street,,1,unclassified,yes
+West 38th Street,,1,unclassified,yes
+West 38th Street,,1,unclassified,yes
+East 49th Street,,3,secondary,yes
+Broadway,,3,secondary,yes
+Broadway,,1,pedestrian,no
+Lincoln Tunnel Approach,,3,primary,yes
+Broadway,,1,pedestrian,no
+Park Avenue,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+car parking,,1,service,yes
+Park Avenue,,3,secondary,yes
+car parking,,1,service,yes
+car parking,,1,service,yes
+car parking,,1,service,
+car parking,,1,service,yes
+car parking,,1,service,yes
+East 52nd Street,,1,residential,
+Queensboro Bridge (Lower Level/Outer Roadway),1,4,motorway,yes
+West 39th Street,,1,unclassified,yes
+West 39th Street,,1,unclassified,yes
+West 41st Street,,1,unclassified,yes
+Park Avenue,,3,secondary,yes
+West 30th Street,,3,secondary,yes
+East 60th Street,,3,secondary,yes
+West 49th Street,,3,secondary,yes
+Queensboro Bridge (Upper Level),2,4,motorway_link,yes
+West 43rd Street,,1,unclassified,yes
+FDR Drive,3,4,motorway,yes
+East 58th Street,,3,secondary,yes
+East 41st Street,,1,unclassified,
+Park Avenue,,3,secondary,yes
+East 60th Street,,2,tertiary,yes
+West 34th Street,6,3,primary,no
+West 39th Street,,1,unclassified,yes
+West 39th Street,,1,unclassified,yes
+Lincoln Tunnel Expressway,2,4,motorway,reversible
+Lincoln Tunnel Expressway,2,4,motorway,yes
+Lincoln Tunnel Expressway,1,4,motorway,yes
+West 40th Street,,1,unclassified,yes
+Lincoln Tunnel Expressway,1,4,motorway,yes
+Lincoln Tunnel Expressway,1,4,motorway,yes
+car parking,,1,service,yes
+Lincoln Tunnel Expressway,1,4,motorway,yes
+West 52nd Street,1,1,residential,yes
+East 50th Street,,1,residential,yes
+10th Avenue,,3,secondary,yes
+East 54th Street,,3,secondary,yes
+East 60th Street,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+East 53rd Street,,3,secondary,yes
+West 46th Street,,3,secondary,yes
+East 46th Street,,3,secondary,yes
+East 49th Street,,3,secondary,yes
+East 50th Street,,3,secondary,yes
+West 37th Street,,3,secondary,yes
+West 36th Street,,3,secondary,yes
+East 45th Street,,3,secondary,yes
+West 45th Street,,3,secondary,yes
+11th Avenue,,3,secondary,yes
+West 51st Street,1,1,residential,yes
+West 58th Street,,1,residential,yes
+West 47th Street,,1,residential,yes
+West 50th Street,,3,secondary,yes
+Lincoln Tunnel,2,4,motorway,yes
+West 45th Street,,3,secondary,yes
+West 31st Street,,3,secondary,yes
+West 46th Street,,3,secondary,yes
+West 46th Street,,3,secondary,yes
+West 47th Street,,1,residential,yes
+West 42nd Street,,3,primary,
+East 63rd Street,,1,residential,yes
+West 44th Street,,1,unclassified,yes
+2nd Avenue,,3,primary,yes
+West 44th Street,,1,unclassified,yes
+Lincoln Tunnel Expressway,2,4,motorway_link,yes
+West 54th Street,,3,secondary,yes
+West 43rd Street,,1,unclassified,yes
+Rockefeller Plaza,,1,pedestrian,no
+West 53rd Street,,3,secondary,yes
+Dyer Avenue,3,3,primary,yes
+1st Avenue,,3,primary,yes
+West 37th Street,,3,secondary,yes
+West 37th Street,,3,secondary,yes
+West 38th Street,,1,unclassified,yes
+West 38th Street,,1,unclassified,yes
+1st Avenue,,3,primary,yes
+1st Avenue,,3,primary,yes
+11th Avenue,,3,primary,no
+1st Avenue,,3,primary,yes
+West 36th Street,,3,secondary,yes
+West 35th Street,,1,unclassified,yes
+Park Avenue,,3,secondary,yes
+East 37th Street,,3,secondary,yes
+Vanderbilt Avenue,,1,residential,no
+1st Avenue,,3,primary,yes
+Dyer Avenue,,3,primary,yes
+East 43rd Street,,1,residential,yes
+East 55th Street,,1,unclassified,yes
+Lincoln Tunnel Expressway,2,4,motorway,yes
+West 39th Street,,1,unclassified,-1
+West 40th Street,,1,unclassified,yes
+West 40th Street,,1,unclassified,yes
+West 41st Street,,1,unclassified,yes
+West 41st Street,,3,secondary,yes
+West 39th Street,,1,unclassified,yes
+Lincoln Tunnel Expressway,2,4,motorway,reversible
+Lincoln Tunnel Expressway,2,4,motorway,reversible
+Lincoln Tunnel Expressway,2,4,motorway,yes
+East 48th Street,,1,residential,yes
+car parking,,1,service,yes
+Lincoln Tunnel Expressway,1,4,motorway,yes
+12th Avenue,4,4,trunk,yes
+East 50th Street,,1,residential,
+6th Avenue,,3,secondary,yes
+West 31st Street,,3,secondary,yes
+Grand Army Plaza,,1,residential,yes
+Herald Square,,1,pedestrian,
+Seagram Building Plaza,,1,pedestrian,
+8th Avenue,,3,secondary,yes
+8th Avenue,,3,secondary,yes
+8th Avenue,,3,secondary,yes
+8th Avenue,,3,secondary,yes
+East 57th Street,,3,primary,
+Central Park Drive,,1,unclassified,yes
+6th Avenue,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+Park Avenue,,3,secondary,yes
+Dyer Avenue,4,3,primary,
+Dyer Avenue,1,3,primary,yes
+2nd Avenue,,3,secondary,yes
+8th Avenue,,3,secondary,yes
+East 61st Street,,1,residential,yes
+6½ Avenue,,1,pedestrian,no
+8th Avenue,,3,secondary,yes
+9th Avenue,,3,secondary,yes
+9th Avenue,,3,secondary,yes
+East 65th Street,,3,secondary,yes
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+East 59th Street,,1,residential,yes
+West 43rd Street,,1,unclassified,yes
+7th Avenue,,3,secondary,yes
+7th Avenue,,3,secondary,yes
+West 42nd Street,,3,primary,no
+West 48th Street,,1,residential,yes
+West 48th Street,,1,residential,yes
+Central Park South,,3,secondary_link,yes
+West 42nd Street,,3,primary,no
+West 42nd Street,,3,primary,no
+East 61st Street,,1,residential,yes
+News Corp. Plaza,,1,pedestrian,
+Broadway,,1,unclassified,yes
+East 65th Street,,3,secondary,yes
+12th Avenue,4,4,trunk,yes
+West 57th Street,,3,primary,no
+East 59th Street,,1,residential,yes
+East Drive,,1,unclassified,
+Lexington Avenue,,3,secondary,yes
+Central Park South,,3,secondary,no
+11th Avenue,,3,secondary,
+Central Park South,,3,secondary_link,yes
+2nd Avenue,,3,secondary,yes
+8th Avenue,,3,secondary,yes
+East 65th Street,,3,secondary,yes
+East 68th Street,,1,residential,yes
+Columbus Circle,,3,secondary,yes
+10th Avenue,,3,secondary,yes
+East 55th Street,,1,unclassified,yes
+1st Avenue,,3,primary,yes
+Lincoln Tunnel Expressway,2,4,motorway,yes
+1st Avenue,,3,primary,yes
+Queensboro Bridge (Upper Level),2,4,motorway_link,yes
+Madison Avenue,,3,secondary,yes
+Madison Avenue,,3,secondary,yes
+1st Avenue,,3,primary,yes
+1st Avenue,,3,primary,yes
+West 42nd Street,,3,primary,no
+12th Avenue,4,4,trunk,yes
+East 48th Street,,1,residential,yes
+2nd Avenue,,3,primary,yes
+2nd Avenue,,3,primary,yes
+East 50th Street,,3,secondary,yes
+East 49th Street,,3,secondary,yes
+Madison Avenue,,3,secondary,yes
+12th Avenue,4,4,trunk,yes
+West 57th Street,,3,primary,no
+Penn Plaza,,3,secondary,yes
+2nd Avenue,,3,secondary,yes
+West 50th Street,3,3,secondary,yes
+12th Avenue,4,4,trunk,yes
+Lexington Avenue,,3,secondary,yes
+3rd Avenue,,3,primary,yes
+8th Avenue,,3,secondary,yes
+East 60th Street,,2,tertiary,yes
+West 34th Street,6,3,primary,no
+West 41st Street,,1,unclassified,yes
+West 41st Street,,1,unclassified,yes
+West 54th Street,4,3,secondary,yes
+2nd Avenue,,3,secondary,yes
+5th Avenue,,3,secondary,yes
+7th Avenue,,3,secondary,yes
+5th Avenue,,3,secondary,yes
+Central Park South,,3,secondary,no
+5th Avenue,,3,secondary,yes
+West 43rd Street,,1,unclassified,yes
+West 43rd Street,,1,unclassified,yes
+1st Avenue,,3,primary,yes
+1st Avenue,,3,primary,yes
+2nd Avenue,,3,primary,yes
+East 39th Street,,1,unclassified,yes
+East 39th Street,,1,unclassified,yes
+East 40th Street,,1,unclassified,yes
+East 40th Street,,1,unclassified,yes
+East 40th Street,,1,unclassified,yes
+East 48th Street,,1,residential,yes
+East 48th Street,,1,residential,yes
+East 51st Street,,1,residential,yes
+East 54th Street,,3,secondary,yes
+East 54th Street,,3,secondary,yes
+East 55th Street,,1,unclassified,yes
+East 55th Street,,1,unclassified,yes
+West 39th Street,,1,unclassified,yes
+West 40th Street,,1,unclassified,yes
+West 40th Street,,1,unclassified,yes
+West 43rd Street,,1,unclassified,yes
+West 43rd Street,,1,unclassified,yes
+West 44th Street,,1,unclassified,yes
+West 44th Street,,1,unclassified,yes
+West 48th Street,,1,residential,yes
+West 48th Street,,1,residential,yes
+West 51st Street,,1,residential,yes
+West 51st Street,3,1,residential,yes
+West 54th Street,,3,secondary,yes
+West 54th Street,2,3,secondary,yes
+3rd Avenue,,3,primary,yes
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+6½ Avenue,,1,pedestrian,no
+West 56th Street,,1,residential,yes
+West 34th Street,6,3,primary,no
+West 35th Street,,1,unclassified,yes
+West 35th Street,,1,unclassified,yes
+West 41st Street,,3,secondary,yes
+Dyer Avenue,,3,primary,yes
+West 40th Street,,1,unclassified,yes
+West 33rd Street,,1,unclassified,yes
+West 33rd Street,,1,unclassified,yes
+West 34th Street,6,3,primary,no
+Lincoln Tunnel Expressway,2,4,motorway_link,yes
+Lincoln Tunnel Expressway,2,4,motorway_link,yes
+Broadway,,1,unclassified,yes
+West 58th Street,,1,residential,yes
+West 58th Street,,1,residential,yes
+Lincoln Tunnel,2,4,motorway,reversible
+Lincoln Tunnel,2,4,motorway,yes
+West 54th Street,3,3,secondary,yes
+West 54th Street,3,3,secondary,yes
+7th Avenue,,3,primary,yes
+West 54th Street,3,3,secondary,yes
+West 54th Street,2,3,secondary,yes
+West 54th Street,2,3,secondary,yes
+West 54th Street,,3,secondary,yes
