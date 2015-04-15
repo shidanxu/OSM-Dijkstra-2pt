@@ -3,7 +3,7 @@ import csv
 
 
 # change here to change the file you want to edit, make sure it is under data/
-filename = "quito"
+filename = "newyorkmidtown"
 
 
 # This is the road conversion, feel free to modify or add
@@ -84,6 +84,8 @@ def parseWays(ways):
 						plotting_points.append(reference[identity][1])
 					else:
 						print reference[identity]
+				else:
+					print "MISSING"
 		else:
 			continue
 #            print description
@@ -106,6 +108,8 @@ with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
 p = XMLParser(ways_callback=parseWays, nodes_callback = parseNodes)
 
 p.parse('data/' + filename)
+
+print "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 p.parse('data/' + filename)
 
 with open ('processed/roads_' + filename + '_coordinates.csv', 'wb') as f:
