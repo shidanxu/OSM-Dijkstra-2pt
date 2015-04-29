@@ -1,10 +1,11 @@
 from imposm.parser.xml.parser import XMLParser
 from geopy.distance import vincenty
 import csv
+import utilities
 
 
 # change here to change the file you want to edit, make sure it is under data/
-filename = "newyorkmidtown"
+filename = "cambridgema"
 
 
 # This is the road conversion, feel free to modify or add
@@ -34,6 +35,9 @@ array = []
 
 road_capacity = {}
 
+regions = {}
+
+
 # This method is not called since we parse nodes instead of roads, but can
 # be implemented in the future to count # of stores.
 
@@ -54,10 +58,11 @@ def parseNodes(nodes):
 # This is the main method to parse roads.
 def parseWays(ways):
 	mapping = {}
-	distance = 0.0
+	
 	
 	# Each entry in ways is in this format: id, {some description dictionary}, [coordinates]
 	for id, description, coordinates in ways:
+		distance = 0.0
 		# print coordinates
 		# They also include some places, for now if an entry has 'highway' and 'name' we know for sure it is a road.
 		if ('highway' in description):
@@ -67,6 +72,7 @@ def parseWays(ways):
 
 			
 			name = description['name'] if 'name' in description else ""
+
 			try:
 				lanes = int(description['lanes']) if 'lanes' in description else ""
 			except ValueError:
@@ -95,6 +101,18 @@ def parseWays(ways):
 				print "MISSING"
 				break
 
+			# current_point = reference[coordinates[0]][1]
+
+			# if coordinates[-1] in reference:
+			# 	last_point = reference[coordinates[-1]][1]
+			# else:
+			# 	print "MISSING"
+			# 	break
+
+			# distance = vincenty(last_point, current_point).km
+
+			# if len(coordinates) > 10:
+			# 	print name
 			for identity in coordinates:
 				if (identity in reference):
 					# print reference[identity]
@@ -102,7 +120,7 @@ def parseWays(ways):
 						last_point = current_point
 						current_point = reference[identity][1]
 
-						# print vincenty(last_point, current_point)
+						# print vincenty(last_point, current_point).km
 
 						distance += vincenty(last_point, current_point).km
 
@@ -114,9 +132,17 @@ def parseWays(ways):
 					# print len(reference)
 					# continue
 					print "MISSING", identity
+
+			# print distance, road_capacity_from_conversion
+			capacity = distance * road_capacity_from_conversion
+			if oneway != "yes":
+				capacity *= 2
+			
+			road_capacity[id] = capacity
+			mapping[id].append(distance)
+			mapping[id].append(road_capacity[id])
 		# else:
 			# print description
-			road_capacity[id] = distance * road_capacity_from_conversion
 
 
 	# Write to output file when done
@@ -130,7 +156,7 @@ def parseWays(ways):
 # Write headers, then parse
 with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
 	writer = csv.writer(f)
-	header = ["name", "lanes", "road_capacity_from_conversion", "highway", "oneway"]
+	header = ["name", "lanes", "road_capacity_from_conversion", "highway", "oneway", "distance", "road_capacity"]
 	w = writer.writerow(header)
 # Here ways_callback tells us which method we are calling for the ways we found. Change to nodes_callback = yourmethod if want to process stores
 p = XMLParser(ways_callback=parseWays, nodes_callback = parseNodes, coords_callback = coords_callback)
@@ -144,17 +170,17 @@ print "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
 p.parse('data/' + filename)
 # print len(reference)
-summary = 0
+total_road_capacity = 0
 for item in road_capacity:
-	print road_capacity[item]
-	summary += road_capacity[item]
-print "Total road capacity: ", summary
+	# print road_capacity[item]
+	total_road_capacity += road_capacity[item]
+print "Total road capacity: ", total_road_capacity, "km2"
 
+# print "Total nodes missing: ", num_missing
 
 with open ('processed/roads_' + filename + '_coordinates.csv', 'wb') as f:
 	writer = csv.writer(f)
 	for coordinate in plotting_points:
 		writer.writerow(coordinate)
-
 
 # print array

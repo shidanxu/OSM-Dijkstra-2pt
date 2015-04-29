@@ -1,1375 +1,1375 @@
-name,lanes,road_capacity_from_conversion,highway,oneway
-Arnold Circle,1,1,residential,
-Harold Place,1,1,residential,
-Rumeal Robinson Way,1,1,residential,
-Cardinal Medeiros Avenue,3,3,secondary,
-Brookline Street,1,3,secondary,yes
-Lopez Avenue,2,1,residential,
-Scouting Way,1,1,residential,
-Plymouth Street,2,1,residential,yes
-Hancock Street,2,1,residential,yes
-Chestnut Street,1,1,residential,
-Hayward Street,2,1,residential,
-Harvard Street,2,2,tertiary,
-Pearl Street,1,2,tertiary,yes
-Soden Place,1,1,residential,
-Chestnut Street,1,1,residential,yes
-Pacific Street,2,1,residential,
-Bell Court,2,1,service,
-Saint Paul Street,,1,residential,
-,2,1,service,
-Galileo Galilei Way,2,3,secondary,yes
-Kinnaird Street,1,1,residential,yes
-Dickinson Street,1,1,residential,
-Perry Street,1,1,residential,yes
-Jay Street,2,1,residential,yes
-Hurley Street,2,1,residential,
-Hampshire Street,2,3,secondary,
-,1,1,service,yes
-Auburn Street,1,1,residential,yes
-Pacific Street,2,2,tertiary,no
-Bent Street,2,1,residential,yes
-Kinnaird Street,,1,residential,
-,,1,service,
-Amherst Street,,1,residential,
-,,1,residential,
-,,1,service,
-Washington Court,1,1,residential,
-Allston Court,1,1,residential,
-Amherst Street,,1,residential,
-Wadsworth Street,2,1,residential,no
-Fulkerson Street,2,2,tertiary,
-Rollins Court,1,1,residential,
-Osborn Street,2,1,residential,
-Moore Street,2,1,residential,
-Emmett Place,1,1,residential,
-Marvin Place,1,1,residential,
-Columbia Terrace,2,1,residential,
-Land Boulevard,2,4,trunk,yes
-Danforth Street,2,1,residential,
-Columbia Street,2,3,secondary,
-McTernan Street,1,1,residential,yes
-,1,4,trunk_link,yes
-Lee Street,2,1,residential,yes
-Tudor Street,2,1,residential,
-Massachusetts Avenue,3,3,primary,
-Speridakis Terrace,2,1,residential,
-Green Street,2,1,residential,yes
-Market Street,2,1,residential,
-Lawrence Street,1,1,residential,yes
-Davis Street,2,1,residential,
-Harvard Street,2,2,tertiary,yes
-Portsmouth Street,2,1,residential,yes
-Potter Street,2,1,residential,
-Prince Street,1,1,residential,yes
-Lopez Street,2,1,residential,yes
-Percy Place,1,1,residential,
-Hamilton Street,2,1,residential,no
-Sellers Street,2,1,residential,yes
-Sixth Street,2,2,tertiary,
-Reardon Street,2,1,residential,
-Bigelow Street,2,1,residential,yes
-Fifth Street,2,1,residential,
-Sidney Street,2,3,secondary,yes
-Bishop Allen Drive,2,2,tertiary,
-Endicott Street,2,1,residential,
-Cottage Court,1,1,residential,
-Fairmont Street,1,1,residential,yes
-,2,1,service,
-,,1,service,no
-Windsor Street,2,1,residential,
-Second Street,2,1,residential,
-Richardson Street,1,1,residential,
-Vandine Street,2,1,residential,
-Austin Park,2,1,residential,
-Third Street,2,3,secondary,
-Cherry Street,2,1,residential,yes
-Fiske Place,2,1,residential,
-Charles Street,2,2,tertiary,
-Bent Street,2,1,residential,
-,2,4,trunk_link,yes
-Amesbury Street,2,1,residential,
-Ashburton Place,1,1,residential,
-Talbot Street,2,1,residential,
-Cambridgeside Place,,2,tertiary,
-Berkshire Place,1,1,residential,
-Pine Street,2,1,residential,yes
-,1,4,trunk_link,yes
-Peters Street,2,1,residential,
-Berkshire Place,1,1,residential,
-Munroe Street,2,1,residential,yes
-Pleasant Place,2,1,residential,
-Broadway,2,3,secondary,yes
-Land Boulevard,2,4,trunk,yes
-Inman Street,2,1,unclassified,yes
-Pleasant Street,1,1,residential,yes
-Temple Street,2,1,residential,yes
-Bishop Allen Drive,2,2,tertiary,yes
-Purrington Street,2,1,service,no
-Suffolk Street,2,1,residential,yes
-Laurel Street,2,1,residential,
-Kinnaird Street,2,1,residential,
-Amherst Street,2,1,residential,no
-School Street,2,1,residential,yes
-Jay Street,2,1,residential,
-Salem Street,2,1,residential,yes
-Cambridge Parkway,2,1,residential,yes
-Union Street,2,1,residential,yes
-Portland Street,2,3,secondary,
-Lilac Court,1,1,residential,
-Fifth Street,2,1,residential,
-Third Street,2,3,secondary,
-Prospect Street,2,3,secondary,
-Douglass Street,2,1,residential,yes
-Albany Street,2,3,secondary,
-Rogers Street,2,1,residential,yes
-Memorial Drive,4,4,trunk,
-Dorothy Doyle Way,2,1,residential,
-Windsor Street,2,2,tertiary,yes
-Franklin Street,2,1,residential,yes
-Main Street,2,3,secondary,yes
-Webster Avenue,2,1,residential,
-Sixth Street,2,2,tertiary,
-,,1,service,
-,,1,service,
-Rogers Street,2,1,residential,
-,,1,service,
-,,1,unclassified,
-Windsor Street,2,2,tertiary,
-,,1,service,
-,1,4,trunk_link,yes
-,,4,trunk_link,yes
-,1,4,trunk_link,yes
-Ames Street,2,2,tertiary,no
-,,1,service,
-Saint Paul Street,2,1,residential,
-Putnam Court,2,1,residential,
-Norfolk Court,1,1,residential,
-Putnam Avenue,2,3,secondary,
-Kelly Road,1,1,residential,no
-,,1,service,
-,,1,service,
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Henry Street,2,1,residential,
-Upton Street,1,1,residential,
-Sidney Street,2,3,secondary,yes
-Rogers Street,1,1,residential,
-Bent Street,2,1,residential,
-Amherst Street,2,1,residential,yes
-William Street,1,1,residential,yes
-,1,4,trunk_link,yes
-,2,4,trunk_link,yes
-Amherst Street,,1,residential,yes
-Athenaeum Street,2,1,residential,
-Village Street,1,1,service,yes
-Memorial Drive,2,4,trunk,yes
-Sciarappa Street,2,1,residential,
-Dock Street,2,1,residential,
-Worcester Street,2,1,residential,yes
-Decatur Street,1,1,residential,no
-Binney Street,2,1,residential,
-Cherry Court,1,1,residential,
-Crossland Street,1,1,residential,
-Memorial Drive,2,4,trunk,yes
-Henry Street,1,1,residential,yes
-Binney Street,,1,residential,yes
-Cross Street,2,1,service,no
-Boardman Street,2,1,residential,
-Hancock Street,2,1,residential,yes
-Washington Street,2,1,residential,yes
-First Street,2,2,tertiary,yes
-,3,4,trunk_link,yes
-Trinity Place,2,1,residential,yes
-Audrey Street,2,1,residential,
-Erie Street,2,3,secondary,no
-Pilgrim Street,1,1,service,no
-Land Boulevard,2,4,trunk,yes
-Carleton Street,2,1,residential,no
-Broad Canal Street,,1,residential,
-,1,4,trunk_link,yes
-David G. Mugar Way,2,3,secondary,yes
-Vail Court,1,1,residential,
-Fifth Street,2,1,residential,
-,,1,service,
-Sidney Place,,1,residential,yes
-Franklin Street,2,1,residential,yes
-,,1,service,
-,,1,service,
-Soden Street,1,1,residential,
-State Street,2,1,residential,yes
-Norfolk Terrace,1,1,residential,
-Grove Avenue,2,1,service,
-Waverly Street,2,3,secondary,
-Bristol Street,2,1,residential,
-Sidney Street,2,3,secondary,yes
-Erie Street,2,3,secondary,
-Eaton Street,2,1,residential,
-Erie Street,2,1,residential,yes
-Elm Street,2,1,residential,yes
-Westacott Court,,1,residential,
-Chalk Street,1,1,residential,yes
-Allston Street,2,1,residential,yes
-,,1,service,
-Storrow Drive,2,4,trunk,yes
-Bristol Street,2,1,residential,yes
-Public Alley 419,1,1,service,
-Lamson Place,1,1,residential,
-Acorn Street,2,1,residential,
-Smart Street,1,1,residential,
-Berkshire Street,2,1,residential,yes
-Prospect Street,2,3,secondary,
-Western Avenue,4,3,secondary,yes
-Massachusetts Avenue,4,3,primary,
-Massachusetts Avenue,4,3,primary,
-,,4,trunk_link,yes
-Essex Street,2,1,residential,yes
-,,1,unclassified,
-,,1,residential,
-Cottage Street,1,1,residential,yes
-Washington Street,2,1,residential,yes
-,,1,service,
-,,1,service,
-Pleasant Street,1,3,secondary,yes
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Henry Street,2,1,residential,
-Museum Way,,1,residential,
-Watson Street,2,1,residential,yes
-Valentine Street,1,1,residential,no
-Linskey Way,2,1,residential,
-Essex Street,2,2,tertiary,yes
-Clinton Street,2,1,residential,yes
-,2,4,trunk_link,yes
-Landsdowne Street,2,2,tertiary,no
-Emily Street,2,1,residential,yes
-Hastings Square,2,1,residential,
-Public Alley 441,1,1,service,
-Public Alley 418,1,1,service,
-Clarendon Street,2,3,secondary,yes
-Main Street,2,3,secondary,
-Marlborough Street,2,1,residential,yes
-Public Alley 426,1,1,service,
-West Hill Place,2,1,residential,
-Fairfield Street,2,1,residential,yes
-Public Alley 431,1,1,service,
-Green Street,2,1,residential,yes
-Granby Street,2,1,residential,yes
-Public Alley 416,1,1,service,yes
-David G. Mugar Way,,1,residential,
-Beaver Street,2,1,residential,
-Lime Street,2,1,residential,yes
-Chestnut Street,2,1,residential,yes
-,1,4,trunk_link,yes
-,1,3,primary_link,yes
-Beacon Street,4,3,secondary,yes
-Otis Place,2,1,residential,
-Sidney Street Extension,2,3,secondary,no
-,1,3,secondary_link,yes
-Public Alley 427,1,1,service,
-Public Alley 423,1,1,service,
-Commonwealth Avenue,2,3,primary,yes
-Public Alley 417,1,1,service,
-Amherst Street,2,1,residential,
-,2,4,trunk_link,yes
-Public Alley 440,1,1,service,
-Public Alley 908,1,1,service,
-Raleigh Street,1,1,residential,
-Revere Street,2,1,residential,yes
-,2,3,secondary_link,yes
-Public Alley 435,1,1,service,
-,,3,primary_link,yes
-,,1,service,
-Bay State Road,2,2,tertiary,yes
-Magazine Street,2,1,service,
-Blanche Street,1,1,residential,yes
-Franklin Street,2,1,residential,yes
-Pinckney Street,2,1,residential,yes
-Boylston Street,3,3,secondary,yes
-,1,4,trunk_link,yes
-Beaver Place,2,1,residential,yes
-,1,4,trunk_link,yes
-Brimmer Street,2,1,residential,yes
-Embankment Road,3,4,trunk,yes
-Public Alley 421,1,1,service,
-Public Alley 434,1,1,service,
-Hinsdale Mall,2,1,service,
-Back Street,1,1,residential,
-Public Alley 429,1,1,service,
-Auburn Street,1,1,residential,yes
-Pleasant Street,2,1,residential,no
-Hereford Street,2,3,secondary,yes
-Exeter Street,2,1,residential,
-,4,4,trunk_link,yes
-Charlesgate East,2,3,secondary,yes
-Dartmouth Street,2,1,residential,yes
-,1,4,trunk_link,yes
-Storrow Drive,3,4,trunk,yes
-Deerfield Street,2,1,residential,
-Massachusetts Turnpike,4,4,motorway,yes
-Saint Mary's Street,2,2,tertiary,yes
-Public Alley 433,1,1,service,
-,,1,service,
-Public Alley 415,1,1,service,yes
-Public Alley 438,1,1,service,
-Charles River Square,2,1,residential,
-Massachusetts Turnpike,4,4,motorway,yes
-Newbury Street,1,2,tertiary,yes
-Dartmouth Street,2,2,tertiary,yes
-Silber Way,2,2,tertiary,
-,1,4,trunk_link,yes
-,,1,residential,
-Silber Way,2,1,residential,
-Public Alley 439,1,1,service,
-Public Alley 420,1,1,service,
-Commonwealth Avenue,3,3,primary,yes
-Embankment Road,3,4,trunk,yes
-Public Alley 425,1,1,service,
-Public Alley 422,1,1,service,
-Public Alley 437,1,1,service,
-Public Alley 414,1,1,service,yes
-Back Street,1,1,residential,
-Saint James Avenue,2,3,primary,yes
-,,1,service,
-,,1,service,
-Marlborough Street,2,1,residential,yes
-Mount Vernon Street,2,1,residential,
-Public Alley 428,1,1,service,
-University Road,2,3,primary,
-Memorial Drive,2,4,trunk,yes
-,3,4,trunk_link,yes
-Public Alley 424,1,1,service,
-Public Alley 432,1,1,service,
-,1,4,trunk_link,yes
-Bay State Road,2,1,residential,yes
-,1,1,residential,yes
-Hereford Street,2,1,residential,
-Clarendon Street,1,3,secondary,yes
-Public Alley 436,1,1,service,
-Commonwealth Avenue,2,3,primary_link,yes
-Storrow Drive,2,4,trunk,yes
-Sidney Street,2,3,secondary,no
-Gloucester Street,2,1,residential,
-Beacon Street,4,3,secondary,
-Babbitt Street,2,1,service,
-Saint James Avenue,2,3,secondary,
-,2,4,trunk_link,yes
-,,1,service,
-Massachusetts Turnpike,4,4,motorway,yes
-Longfellow Bridge,2,4,trunk,yes
-,,1,service,
-,1,4,trunk_link,yes
-Vassar Street,2,3,secondary,
-Massachusetts Avenue,4,3,primary,
-Harvard Bridge,4,3,primary,
-Binney Street,2,3,secondary,yes
-,1,4,trunk_link,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Massachusetts Avenue,4,3,primary,
-,2,1,service,
-Waverly Street,1,3,secondary,yes
-Back Street,1,1,residential,yes
-,,1,service,
-,,1,service,
-Pilgrim Street,,1,residential,no
-,2,1,service,yes
-,1,3,primary_link,yes
-Norfolk Street,2,1,residential,yes
-,,1,service,
-,1,4,trunk_link,yes
-,,1,service,
-,,1,service,
-,1,3,primary_link,yes
-,1,3,primary_link,yes
-Carlton Street,1,3,primary,yes
-,,1,service,
-Norfolk Street,2,1,residential,yes
-,,1,service,
-,,1,service,
-Brookline Place,,1,residential,yes
-,,1,service,
-Storrow Drive,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Edwin H. Land Boulevard,2,4,trunk,yes
-Front Street,2,1,residential,yes
-,,1,service,
-Main Street,1,3,secondary,yes
-Allston Street,2,1,residential,no
-,,1,service,
-,,1,service,
-,,1,service,
-Berkeley Street,4,3,secondary,yes
-Broadway,2,3,secondary,yes
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Ames Street,2,2,tertiary,no
-,,1,service,
-Saint Mary's Street,2,2,tertiary,
-West Kendall Street,,1,unclassified,
-Carlton Street,2,3,primary,yes
-,,1,service,
-,1,4,trunk_link,yes
-,,1,service,
-,,1,service,
-Cummington Mall,2,1,service,yes
-Saint Mary's Street,2,2,tertiary,yes
-Back Street,1,1,residential,
-,,1,service,
-,,1,service,
-,1,4,trunk_link,yes
-Clark Street,2,1,residential,
-,,1,service,
-,,1,service,
-,,1,service,
-Norfolk Street,2,1,residential,yes
-,1,4,trunk_link,yes
-,1,4,trunk_link,yes
-Embankment Road,2,4,trunk,yes
-,,1,service,yes
-,,1,service,yes
-Pilgrim Street,2,1,residential,
-Pilgrim Street,,1,residential,no
-Albany Street,2,3,secondary,
-,,1,service,yes
-,2,4,trunk_link,yes
-Massachusetts Avenue,4,3,primary,
-Land Boulevard,2,4,trunk,yes
-,,1,service,
-Gloucester Street,2,1,residential,yes
-Fairfield Street,2,1,residential,
-,,1,service,
-Fort Washington Place,1,1,residential,
-,2,3,secondary_link,yes
-,,1,service,
-,2,4,trunk_link,yes
-Storrow Drive,2,4,trunk,yes
-,2,4,trunk_link,yes
-Storrow Drive,3,4,trunk,yes
-,2,4,trunk_link,yes
-,,1,service,
-Arlington Street,3,3,secondary,yes
-Beacon Street,4,3,secondary,yes
-Beacon Street,4,3,secondary,yes
-Broadway,2,3,secondary,
-Binney Street,2,3,secondary,yes
-,2,4,trunk_link,yes
-,1,4,trunk_link,yes
-Bowker Overpass,2,4,trunk,yes
-,,1,service,
-,2,4,trunk_link,yes
-Commonwealth Avenue,2,3,primary,yes
-Massachusetts Avenue,4,3,primary,
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-First Street,2,2,tertiary,yes
-Longfellow Bridge,2,4,trunk,yes
-,1,4,trunk_link,yes
-,2,4,trunk_link,yes
-Storrow Drive,1,4,trunk,yes
-,2,4,trunk_link,yes
-,2,4,trunk_link,yes
-,2,4,trunk_link,yes
-Land Boulevard,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Bowker Overpass,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Public Alley 905,1,1,service,
-Massachusetts Avenue,4,3,primary,
-River Street,2,3,secondary,yes
-Deacon Street,2,1,residential,
-Cambridge Street,2,3,primary,yes
-Binney Street,2,1,residential,yes
-Raleigh Street,2,1,residential,yes
-Land Boulevard,2,4,trunk,yes
-,1,4,trunk_link,yes
-,2,4,trunk_link,yes
-Berkeley Street,1,3,secondary,yes
-Land Boulevard,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Dartmouth Street,4,3,secondary,yes
-Galileo Galilei Way,2,3,secondary,yes
-,2,4,trunk_link,yes
-Beacon Street,4,3,secondary,yes
-Massachusetts Avenue,4,3,primary,
-Edwin H. Land Boulevard,2,4,trunk,yes
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Athenaeum Street,2,1,unclassified,no
-Binney Street,2,3,secondary,yes
-Kendall Street,,1,unclassified,-1
-Binney Street,2,3,secondary,yes
-,,1,service,
-First Street,2,2,tertiary,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,1,4,trunk_link,yes
-,,1,service,
-Main Street,2,3,secondary,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Western Avenue,4,3,secondary,yes
-Back Street,1,1,residential,
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Ames Street,1,2,tertiary,yes
-Ames Street,2,2,tertiary,yes
-Main Street,1,3,secondary,yes
-Main Street,,3,secondary,yes
-Memorial Drive,2,4,trunk,yes
-,,3,secondary_link,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Cottage Court,,1,residential,
-,,1,service,
-Waverly Street,2,3,secondary,
-,,1,service,
-Cardinal Medeiros Avenue,2,3,secondary,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Pleasant Street,1,1,residential,yes
-Erie Street,2,3,secondary,yes
-Kelly Road,1,1,residential,yes
-,,1,service,
-Massachusetts Avenue,4,3,primary,
-Monsignor O'Brien Highway,3,4,trunk,yes
-,1,4,trunk_link,yes
-Commonwealth Avenue,2,3,primary,yes
-,,1,service,
-,1,4,trunk_link,yes
-,1,4,trunk_link,yes
-,,1,service,
-Longfellow Bridge,1,4,trunk,yes
-Clarendon Street,2,3,secondary,yes
-Marlborough Street,2,1,residential,yes
-Fulkerson Street,1,2,tertiary,-1
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Galileo Galilei Way,2,3,secondary,yes
-Galileo Galilei Way,2,3,secondary,yes
-Main Street,1,3,secondary,yes
-Main Street,1,3,secondary,yes
-Amherst Street,2,1,residential,
-Amherst Street,2,1,residential,
-Vassar Street,2,3,secondary,yes
-Main Street,1,3,secondary,yes
-Vassar Street,2,3,secondary,yes
-Main Street,2,3,secondary,yes
-Main Street,1,3,secondary,yes
-Longfellow Bridge,2,4,trunk,yes
-Granby Street,2,1,residential,
-Beacon Street,4,3,secondary,yes
-Beacon Street,4,3,secondary,yes
-Wadsworth Street,2,1,residential,
-Back Street,1,1,residential,
-Storrow Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-,2,4,trunk_link,yes
-Amherst Street,2,1,residential,
-Exeter Street,2,3,secondary,yes
-Saint James Avenue,2,3,secondary,yes
-Stuart Street,2,3,secondary,yes
-Charlesgate West,2,3,secondary,yes
-,2,4,trunk_link,yes
-David G. Mugar Way,2,3,secondary,yes
-Commonwealth Avenue,2,3,primary,yes
-,2,4,trunk_link,yes
-Main Street,2,3,secondary,yes
-,2,4,trunk_link,yes
-,1,3,primary_link,yes
-,1,3,primary_link,yes
-,,1,service,
-Brimmer Street,2,1,residential,yes
-David G. Mugar Way,2,3,secondary,yes
-Otis Place,2,1,residential,
-,,1,service,
-,,1,service,
-Longfellow Bridge,1,4,trunk,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Massachusetts Avenue,4,3,primary,
-,,1,service,yes
-Vassar Street,2,3,secondary,
-Elm Street,2,1,residential,yes
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,no
-,,1,service,
-,,1,service,no
-Spring Street,2,1,residential,-1
-,,1,service,
-,2,1,service,
-Back Street,1,1,residential,
-,,1,service,
-,,1,service,
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,-1
-,,1,service,-1
-Vassar Street,2,3,secondary,
-,,1,service,
-,,1,service,
-Magazine Street,2,2,tertiary,
-,,1,service,yes
-,,1,pedestrian,
-Carlton Street,2,3,primary,yes
-Ames Street,2,2,tertiary,yes
-Ames Street,1,2,tertiary,yes
-Broadway,2,3,secondary,
-,,1,service,yes
-,,1,service,
-,,1,service,yes
-Linskey Way,2,1,residential,
-Cummington Mall,2,1,service,yes
-River Street,2,3,secondary,yes
-River Street,2,3,secondary,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-Massachusetts Avenue,3,3,primary,
-,,1,service,
-Granby Street,2,1,residential,yes
-Arnold Circle,1,1,residential,
-Harold Place,1,1,residential,
-Rumeal Robinson Way,1,1,residential,
-Cardinal Medeiros Avenue,3,3,secondary,
-Brookline Street,1,3,secondary,yes
-Lopez Avenue,2,1,residential,
-Scouting Way,1,1,residential,
-Plymouth Street,2,1,residential,yes
-Hancock Street,2,1,residential,yes
-Chestnut Street,1,1,residential,
-Hayward Street,2,1,residential,
-Harvard Street,2,2,tertiary,
-Pearl Street,1,2,tertiary,yes
-Soden Place,1,1,residential,
-Chestnut Street,1,1,residential,yes
-Pacific Street,2,1,residential,
-Bell Court,2,1,service,
-Saint Paul Street,,1,residential,
-,2,1,service,
-Galileo Galilei Way,2,3,secondary,yes
-Kinnaird Street,1,1,residential,yes
-Dickinson Street,1,1,residential,
-Perry Street,1,1,residential,yes
-Jay Street,2,1,residential,yes
-Hurley Street,2,1,residential,
-Hampshire Street,2,3,secondary,
-,1,1,service,yes
-Auburn Street,1,1,residential,yes
-Pacific Street,2,2,tertiary,no
-Bent Street,2,1,residential,yes
-Kinnaird Street,,1,residential,
-,,1,service,
-Amherst Street,,1,residential,
-,,1,residential,
-,,1,service,
-Washington Court,1,1,residential,
-Allston Court,1,1,residential,
-Amherst Street,,1,residential,
-Wadsworth Street,2,1,residential,no
-Fulkerson Street,2,2,tertiary,
-Rollins Court,1,1,residential,
-Osborn Street,2,1,residential,
-Moore Street,2,1,residential,
-Emmett Place,1,1,residential,
-Marvin Place,1,1,residential,
-Columbia Terrace,2,1,residential,
-Land Boulevard,2,4,trunk,yes
-Danforth Street,2,1,residential,
-Columbia Street,2,3,secondary,
-McTernan Street,1,1,residential,yes
-,1,4,trunk_link,yes
-Lee Street,2,1,residential,yes
-Tudor Street,2,1,residential,
-Massachusetts Avenue,3,3,primary,
-Speridakis Terrace,2,1,residential,
-Green Street,2,1,residential,yes
-Market Street,2,1,residential,
-Lawrence Street,1,1,residential,yes
-Davis Street,2,1,residential,
-Harvard Street,2,2,tertiary,yes
-Portsmouth Street,2,1,residential,yes
-Potter Street,2,1,residential,
-Prince Street,1,1,residential,yes
-Lopez Street,2,1,residential,yes
-Percy Place,1,1,residential,
-Hamilton Street,2,1,residential,no
-Sellers Street,2,1,residential,yes
-Sixth Street,2,2,tertiary,
-Reardon Street,2,1,residential,
-Bigelow Street,2,1,residential,yes
-Fifth Street,2,1,residential,
-Sidney Street,2,3,secondary,yes
-Bishop Allen Drive,2,2,tertiary,
-Endicott Street,2,1,residential,
-Cottage Court,1,1,residential,
-Fairmont Street,1,1,residential,yes
-,2,1,service,
-,,1,service,no
-Windsor Street,2,1,residential,
-Second Street,2,1,residential,
-Richardson Street,1,1,residential,
-Vandine Street,2,1,residential,
-Austin Park,2,1,residential,
-Third Street,2,3,secondary,
-Cherry Street,2,1,residential,yes
-Fiske Place,2,1,residential,
-Charles Street,2,2,tertiary,
-Bent Street,2,1,residential,
-,2,4,trunk_link,yes
-Amesbury Street,2,1,residential,
-Ashburton Place,1,1,residential,
-Talbot Street,2,1,residential,
-Cambridgeside Place,,2,tertiary,
-Berkshire Place,1,1,residential,
-Pine Street,2,1,residential,yes
-,1,4,trunk_link,yes
-Peters Street,2,1,residential,
-Berkshire Place,1,1,residential,
-Munroe Street,2,1,residential,yes
-Pleasant Place,2,1,residential,
-Broadway,2,3,secondary,yes
-Land Boulevard,2,4,trunk,yes
-Inman Street,2,1,unclassified,yes
-Pleasant Street,1,1,residential,yes
-Temple Street,2,1,residential,yes
-Bishop Allen Drive,2,2,tertiary,yes
-Purrington Street,2,1,service,no
-Suffolk Street,2,1,residential,yes
-Laurel Street,2,1,residential,
-Kinnaird Street,2,1,residential,
-Amherst Street,2,1,residential,no
-School Street,2,1,residential,yes
-Jay Street,2,1,residential,
-Salem Street,2,1,residential,yes
-Cambridge Parkway,2,1,residential,yes
-Union Street,2,1,residential,yes
-Portland Street,2,3,secondary,
-Lilac Court,1,1,residential,
-Fifth Street,2,1,residential,
-Third Street,2,3,secondary,
-Prospect Street,2,3,secondary,
-Douglass Street,2,1,residential,yes
-Albany Street,2,3,secondary,
-Rogers Street,2,1,residential,yes
-Memorial Drive,4,4,trunk,
-Dorothy Doyle Way,2,1,residential,
-Windsor Street,2,2,tertiary,yes
-Franklin Street,2,1,residential,yes
-Main Street,2,3,secondary,yes
-Webster Avenue,2,1,residential,
-Sixth Street,2,2,tertiary,
-,,1,service,
-,,1,service,
-Rogers Street,2,1,residential,
-,,1,service,
-,,1,unclassified,
-Windsor Street,2,2,tertiary,
-,,1,service,
-,1,4,trunk_link,yes
-,,4,trunk_link,yes
-,1,4,trunk_link,yes
-Ames Street,2,2,tertiary,no
-,,1,service,
-Saint Paul Street,2,1,residential,
-Putnam Court,2,1,residential,
-Norfolk Court,1,1,residential,
-Putnam Avenue,2,3,secondary,
-Kelly Road,1,1,residential,no
-,,1,service,
-,,1,service,
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Henry Street,2,1,residential,
-Upton Street,1,1,residential,
-Sidney Street,2,3,secondary,yes
-Rogers Street,1,1,residential,
-Bent Street,2,1,residential,
-Amherst Street,2,1,residential,yes
-William Street,1,1,residential,yes
-,1,4,trunk_link,yes
-,2,4,trunk_link,yes
-Amherst Street,,1,residential,yes
-Athenaeum Street,2,1,residential,
-Village Street,1,1,service,yes
-Memorial Drive,2,4,trunk,yes
-Sciarappa Street,2,1,residential,
-Dock Street,2,1,residential,
-Worcester Street,2,1,residential,yes
-Decatur Street,1,1,residential,no
-Binney Street,2,1,residential,
-Cherry Court,1,1,residential,
-Crossland Street,1,1,residential,
-Memorial Drive,2,4,trunk,yes
-Henry Street,1,1,residential,yes
-Binney Street,,1,residential,yes
-Cross Street,2,1,service,no
-Boardman Street,2,1,residential,
-Hancock Street,2,1,residential,yes
-Washington Street,2,1,residential,yes
-First Street,2,2,tertiary,yes
-,3,4,trunk_link,yes
-Trinity Place,2,1,residential,yes
-Audrey Street,2,1,residential,
-Erie Street,2,3,secondary,no
-Pilgrim Street,1,1,service,no
-Land Boulevard,2,4,trunk,yes
-Carleton Street,2,1,residential,no
-Broad Canal Street,,1,residential,
-,1,4,trunk_link,yes
-David G. Mugar Way,2,3,secondary,yes
-Vail Court,1,1,residential,
-Fifth Street,2,1,residential,
-,,1,service,
-Sidney Place,,1,residential,yes
-Franklin Street,2,1,residential,yes
-,,1,service,
-,,1,service,
-Soden Street,1,1,residential,
-State Street,2,1,residential,yes
-Norfolk Terrace,1,1,residential,
-Grove Avenue,2,1,service,
-Waverly Street,2,3,secondary,
-Bristol Street,2,1,residential,
-Sidney Street,2,3,secondary,yes
-Erie Street,2,3,secondary,
-Eaton Street,2,1,residential,
-Erie Street,2,1,residential,yes
-Elm Street,2,1,residential,yes
-Westacott Court,,1,residential,
-Chalk Street,1,1,residential,yes
-Allston Street,2,1,residential,yes
-,,1,service,
-Storrow Drive,2,4,trunk,yes
-Bristol Street,2,1,residential,yes
-Public Alley 419,1,1,service,
-Lamson Place,1,1,residential,
-Acorn Street,2,1,residential,
-Smart Street,1,1,residential,
-Berkshire Street,2,1,residential,yes
-Prospect Street,2,3,secondary,
-Western Avenue,4,3,secondary,yes
-Massachusetts Avenue,4,3,primary,
-Massachusetts Avenue,4,3,primary,
-,,4,trunk_link,yes
-Essex Street,2,1,residential,yes
-,,1,unclassified,
-,,1,residential,
-Cottage Street,1,1,residential,yes
-Washington Street,2,1,residential,yes
-,,1,service,
-,,1,service,
-Pleasant Street,1,3,secondary,yes
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Henry Street,2,1,residential,
-Museum Way,,1,residential,
-Watson Street,2,1,residential,yes
-Valentine Street,1,1,residential,no
-Linskey Way,2,1,residential,
-Essex Street,2,2,tertiary,yes
-Clinton Street,2,1,residential,yes
-,2,4,trunk_link,yes
-Landsdowne Street,2,2,tertiary,no
-Emily Street,2,1,residential,yes
-Hastings Square,2,1,residential,
-Public Alley 441,1,1,service,
-Public Alley 418,1,1,service,
-Clarendon Street,2,3,secondary,yes
-Main Street,2,3,secondary,
-Marlborough Street,2,1,residential,yes
-Public Alley 426,1,1,service,
-West Hill Place,2,1,residential,
-Fairfield Street,2,1,residential,yes
-Public Alley 431,1,1,service,
-Green Street,2,1,residential,yes
-Granby Street,2,1,residential,yes
-Public Alley 416,1,1,service,yes
-David G. Mugar Way,,1,residential,
-Beaver Street,2,1,residential,
-Lime Street,2,1,residential,yes
-Chestnut Street,2,1,residential,yes
-,1,4,trunk_link,yes
-,1,3,primary_link,yes
-Beacon Street,4,3,secondary,yes
-Otis Place,2,1,residential,
-Sidney Street Extension,2,3,secondary,no
-,1,3,secondary_link,yes
-Public Alley 427,1,1,service,
-Public Alley 423,1,1,service,
-Commonwealth Avenue,2,3,primary,yes
-Public Alley 417,1,1,service,
-Amherst Street,2,1,residential,
-,2,4,trunk_link,yes
-Public Alley 440,1,1,service,
-Public Alley 908,1,1,service,
-Raleigh Street,1,1,residential,
-Revere Street,2,1,residential,yes
-,2,3,secondary_link,yes
-Public Alley 435,1,1,service,
-,,3,primary_link,yes
-,,1,service,
-Bay State Road,2,2,tertiary,yes
-Magazine Street,2,1,service,
-Blanche Street,1,1,residential,yes
-Franklin Street,2,1,residential,yes
-Pinckney Street,2,1,residential,yes
-Boylston Street,3,3,secondary,yes
-,1,4,trunk_link,yes
-Beaver Place,2,1,residential,yes
-,1,4,trunk_link,yes
-Brimmer Street,2,1,residential,yes
-Embankment Road,3,4,trunk,yes
-Public Alley 421,1,1,service,
-Public Alley 434,1,1,service,
-Hinsdale Mall,2,1,service,
-Back Street,1,1,residential,
-Public Alley 429,1,1,service,
-Auburn Street,1,1,residential,yes
-Pleasant Street,2,1,residential,no
-Hereford Street,2,3,secondary,yes
-Exeter Street,2,1,residential,
-,4,4,trunk_link,yes
-Charlesgate East,2,3,secondary,yes
-Dartmouth Street,2,1,residential,yes
-,1,4,trunk_link,yes
-Storrow Drive,3,4,trunk,yes
-Deerfield Street,2,1,residential,
-Massachusetts Turnpike,4,4,motorway,yes
-Saint Mary's Street,2,2,tertiary,yes
-Public Alley 433,1,1,service,
-,,1,service,
-Public Alley 415,1,1,service,yes
-Public Alley 438,1,1,service,
-Charles River Square,2,1,residential,
-Massachusetts Turnpike,4,4,motorway,yes
-Newbury Street,1,2,tertiary,yes
-Dartmouth Street,2,2,tertiary,yes
-Silber Way,2,2,tertiary,
-,1,4,trunk_link,yes
-,,1,residential,
-Silber Way,2,1,residential,
-Public Alley 439,1,1,service,
-Public Alley 420,1,1,service,
-Commonwealth Avenue,3,3,primary,yes
-Embankment Road,3,4,trunk,yes
-Public Alley 425,1,1,service,
-Public Alley 422,1,1,service,
-Public Alley 437,1,1,service,
-Public Alley 414,1,1,service,yes
-Back Street,1,1,residential,
-Saint James Avenue,2,3,primary,yes
-,,1,service,
-,,1,service,
-Marlborough Street,2,1,residential,yes
-Mount Vernon Street,2,1,residential,
-Public Alley 428,1,1,service,
-University Road,2,3,primary,
-Memorial Drive,2,4,trunk,yes
-,3,4,trunk_link,yes
-Public Alley 424,1,1,service,
-Public Alley 432,1,1,service,
-,1,4,trunk_link,yes
-Bay State Road,2,1,residential,yes
-,1,1,residential,yes
-Hereford Street,2,1,residential,
-Clarendon Street,1,3,secondary,yes
-Public Alley 436,1,1,service,
-Commonwealth Avenue,2,3,primary_link,yes
-Storrow Drive,2,4,trunk,yes
-Sidney Street,2,3,secondary,no
-Gloucester Street,2,1,residential,
-Beacon Street,4,3,secondary,
-Babbitt Street,2,1,service,
-Saint James Avenue,2,3,secondary,
-,2,4,trunk_link,yes
-,,1,service,
-Massachusetts Turnpike,4,4,motorway,yes
-Longfellow Bridge,2,4,trunk,yes
-,,1,service,
-,1,4,trunk_link,yes
-Vassar Street,2,3,secondary,
-Massachusetts Avenue,4,3,primary,
-Harvard Bridge,4,3,primary,
-Binney Street,2,3,secondary,yes
-,1,4,trunk_link,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Massachusetts Avenue,4,3,primary,
-,2,1,service,
-Waverly Street,1,3,secondary,yes
-Back Street,1,1,residential,yes
-,,1,service,
-,,1,service,
-Pilgrim Street,,1,residential,no
-,2,1,service,yes
-,1,3,primary_link,yes
-Norfolk Street,2,1,residential,yes
-,,1,service,
-,1,4,trunk_link,yes
-,,1,service,
-,,1,service,
-,1,3,primary_link,yes
-,1,3,primary_link,yes
-Carlton Street,1,3,primary,yes
-,,1,service,
-Norfolk Street,2,1,residential,yes
-,,1,service,
-,,1,service,
-Brookline Place,,1,residential,yes
-,,1,service,
-Storrow Drive,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Edwin H. Land Boulevard,2,4,trunk,yes
-Front Street,2,1,residential,yes
-,,1,service,
-Main Street,1,3,secondary,yes
-Allston Street,2,1,residential,no
-,,1,service,
-,,1,service,
-,,1,service,
-Berkeley Street,4,3,secondary,yes
-Broadway,2,3,secondary,yes
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Ames Street,2,2,tertiary,no
-,,1,service,
-Saint Mary's Street,2,2,tertiary,
-West Kendall Street,,1,unclassified,
-Carlton Street,2,3,primary,yes
-,,1,service,
-,1,4,trunk_link,yes
-,,1,service,
-,,1,service,
-Cummington Mall,2,1,service,yes
-Saint Mary's Street,2,2,tertiary,yes
-Back Street,1,1,residential,
-,,1,service,
-,,1,service,
-,1,4,trunk_link,yes
-Clark Street,2,1,residential,
-,,1,service,
-,,1,service,
-,,1,service,
-Norfolk Street,2,1,residential,yes
-,1,4,trunk_link,yes
-,1,4,trunk_link,yes
-Embankment Road,2,4,trunk,yes
-,,1,service,yes
-,,1,service,yes
-Pilgrim Street,2,1,residential,
-Pilgrim Street,,1,residential,no
-Albany Street,2,3,secondary,
-,,1,service,yes
-,2,4,trunk_link,yes
-Massachusetts Avenue,4,3,primary,
-Land Boulevard,2,4,trunk,yes
-,,1,service,
-Gloucester Street,2,1,residential,yes
-Fairfield Street,2,1,residential,
-,,1,service,
-Fort Washington Place,1,1,residential,
-,2,3,secondary_link,yes
-,,1,service,
-,2,4,trunk_link,yes
-Storrow Drive,2,4,trunk,yes
-,2,4,trunk_link,yes
-Storrow Drive,3,4,trunk,yes
-,2,4,trunk_link,yes
-,,1,service,
-Arlington Street,3,3,secondary,yes
-Beacon Street,4,3,secondary,yes
-Beacon Street,4,3,secondary,yes
-Broadway,2,3,secondary,
-Binney Street,2,3,secondary,yes
-,2,4,trunk_link,yes
-,1,4,trunk_link,yes
-Bowker Overpass,2,4,trunk,yes
-,,1,service,
-,2,4,trunk_link,yes
-Commonwealth Avenue,2,3,primary,yes
-Massachusetts Avenue,4,3,primary,
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-First Street,2,2,tertiary,yes
-Longfellow Bridge,2,4,trunk,yes
-,1,4,trunk_link,yes
-,2,4,trunk_link,yes
-Storrow Drive,1,4,trunk,yes
-,2,4,trunk_link,yes
-,2,4,trunk_link,yes
-,2,4,trunk_link,yes
-Land Boulevard,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Bowker Overpass,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Public Alley 905,1,1,service,
-Massachusetts Avenue,4,3,primary,
-River Street,2,3,secondary,yes
-Deacon Street,2,1,residential,
-Cambridge Street,2,3,primary,yes
-Binney Street,2,1,residential,yes
-Raleigh Street,2,1,residential,yes
-Land Boulevard,2,4,trunk,yes
-,1,4,trunk_link,yes
-,2,4,trunk_link,yes
-Berkeley Street,1,3,secondary,yes
-Land Boulevard,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Land Boulevard,2,4,trunk,yes
-Dartmouth Street,4,3,secondary,yes
-Galileo Galilei Way,2,3,secondary,yes
-,2,4,trunk_link,yes
-Beacon Street,4,3,secondary,yes
-Massachusetts Avenue,4,3,primary,
-Edwin H. Land Boulevard,2,4,trunk,yes
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Athenaeum Street,2,1,unclassified,no
-Binney Street,2,3,secondary,yes
-Kendall Street,,1,unclassified,-1
-Binney Street,2,3,secondary,yes
-,,1,service,
-First Street,2,2,tertiary,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,1,4,trunk_link,yes
-,,1,service,
-Main Street,2,3,secondary,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Land Boulevard,2,4,trunk,yes
-Western Avenue,4,3,secondary,yes
-Back Street,1,1,residential,
-Memorial Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-Ames Street,1,2,tertiary,yes
-Ames Street,2,2,tertiary,yes
-Main Street,1,3,secondary,yes
-Main Street,,3,secondary,yes
-Memorial Drive,2,4,trunk,yes
-,,3,secondary_link,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Cottage Court,,1,residential,
-,,1,service,
-Waverly Street,2,3,secondary,
-,,1,service,
-Cardinal Medeiros Avenue,2,3,secondary,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Pleasant Street,1,1,residential,yes
-Erie Street,2,3,secondary,yes
-Kelly Road,1,1,residential,yes
-,,1,service,
-Massachusetts Avenue,4,3,primary,
-Monsignor O'Brien Highway,3,4,trunk,yes
-,1,4,trunk_link,yes
-Commonwealth Avenue,2,3,primary,yes
-,,1,service,
-,1,4,trunk_link,yes
-,1,4,trunk_link,yes
-,,1,service,
-Longfellow Bridge,1,4,trunk,yes
-Clarendon Street,2,3,secondary,yes
-Marlborough Street,2,1,residential,yes
-Fulkerson Street,1,2,tertiary,-1
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Galileo Galilei Way,2,3,secondary,yes
-Galileo Galilei Way,2,3,secondary,yes
-Main Street,1,3,secondary,yes
-Main Street,1,3,secondary,yes
-Amherst Street,2,1,residential,
-Amherst Street,2,1,residential,
-Vassar Street,2,3,secondary,yes
-Main Street,1,3,secondary,yes
-Vassar Street,2,3,secondary,yes
-Main Street,2,3,secondary,yes
-Main Street,1,3,secondary,yes
-Longfellow Bridge,2,4,trunk,yes
-Granby Street,2,1,residential,
-Beacon Street,4,3,secondary,yes
-Beacon Street,4,3,secondary,yes
-Wadsworth Street,2,1,residential,
-Back Street,1,1,residential,
-Storrow Drive,2,4,trunk,yes
-Memorial Drive,2,4,trunk,yes
-,2,4,trunk_link,yes
-Amherst Street,2,1,residential,
-Exeter Street,2,3,secondary,yes
-Saint James Avenue,2,3,secondary,yes
-Stuart Street,2,3,secondary,yes
-Charlesgate West,2,3,secondary,yes
-,2,4,trunk_link,yes
-David G. Mugar Way,2,3,secondary,yes
-Commonwealth Avenue,2,3,primary,yes
-,2,4,trunk_link,yes
-Main Street,2,3,secondary,yes
-,2,4,trunk_link,yes
-,1,3,primary_link,yes
-,1,3,primary_link,yes
-,,1,service,
-Brimmer Street,2,1,residential,yes
-David G. Mugar Way,2,3,secondary,yes
-Otis Place,2,1,residential,
-,,1,service,
-,,1,service,
-Longfellow Bridge,1,4,trunk,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,
-Massachusetts Avenue,4,3,primary,
-,,1,service,yes
-Vassar Street,2,3,secondary,
-Elm Street,2,1,residential,yes
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,no
-,,1,service,
-,,1,service,no
-Spring Street,2,1,residential,-1
-,,1,service,
-,2,1,service,
-Back Street,1,1,residential,
-,,1,service,
-,,1,service,
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,no
-,,1,service,-1
-,,1,service,-1
-Vassar Street,2,3,secondary,
-,,1,service,
-,,1,service,
-Magazine Street,2,2,tertiary,
-,,1,service,yes
-,,1,pedestrian,
-Carlton Street,2,3,primary,yes
-Ames Street,2,2,tertiary,yes
-Ames Street,1,2,tertiary,yes
-Broadway,2,3,secondary,
-,,1,service,yes
-,,1,service,
-,,1,service,yes
-Linskey Way,2,1,residential,
-Cummington Mall,2,1,service,yes
-River Street,2,3,secondary,yes
-River Street,2,3,secondary,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-Massachusetts Avenue,3,3,primary,
-,,1,service,
-Granby Street,2,1,residential,yes
+name,lanes,road_capacity_from_conversion,highway,oneway,distance,road_capacity
+Arnold Circle,1,1,residential,,0.0493727011164,0.0987454022327
+Harold Place,1,1,residential,,0.0493799407016,0.0987598814032
+Rumeal Robinson Way,1,1,residential,,0.0203327066153,0.0406654132306
+Cardinal Medeiros Avenue,3,3,secondary,,0.0501544621256,0.300926772754
+Brookline Street,1,3,secondary,yes,1.22749641963,3.68248925889
+Lopez Avenue,2,1,residential,,0.153028287789,0.306056575577
+Scouting Way,1,1,residential,,0.126077282048,0.252154564097
+Plymouth Street,2,1,residential,yes,0.369516994467,0.369516994467
+Hancock Street,2,1,residential,yes,0.21984996857,0.21984996857
+Chestnut Street,1,1,residential,,0.63374653771,1.26749307542
+Hayward Street,2,1,residential,,0.174153141955,0.348306283911
+Harvard Street,2,2,tertiary,,0.224526778175,0.898107112699
+Pearl Street,1,2,tertiary,yes,1.24266089407,2.48532178814
+Soden Place,1,1,residential,,0.0288261142506,0.0576522285012
+Chestnut Street,1,1,residential,yes,0.123952835404,0.123952835404
+Pacific Street,2,1,residential,,0.156234112643,0.312468225286
+Bell Court,2,1,service,,0.0243823568748,0.0487647137496
+Saint Paul Street,,1,residential,,0.0166618313682,0.0333236627364
+,2,1,service,,0.121569524387,0.243139048774
+Galileo Galilei Way,2,3,secondary,yes,0.00842582659183,0.0252774797755
+Kinnaird Street,1,1,residential,yes,0.358184627232,0.358184627232
+Dickinson Street,1,1,residential,,0.16784482716,0.33568965432
+Perry Street,1,1,residential,yes,0.149515440573,0.149515440573
+Jay Street,2,1,residential,yes,0.141859635709,0.141859635709
+Hurley Street,2,1,residential,,0.65702254816,1.31404509632
+Hampshire Street,2,3,secondary,,1.20460463714,7.22762782283
+,1,1,service,yes,0.150698437304,0.150698437304
+Auburn Street,1,1,residential,yes,0.395344508944,0.395344508944
+Pacific Street,2,2,tertiary,no,0.246949300571,0.987797202285
+Bent Street,2,1,residential,yes,0.342892194333,0.342892194333
+Kinnaird Street,,1,residential,,0.0285116279789,0.0570232559578
+,,1,service,,0.0159760608186,0.0319521216371
+Amherst Street,,1,residential,,0.308638968014,0.617277936029
+,,1,residential,,0.0745470338652,0.14909406773
+,,1,service,,0.0718997719462,0.143799543892
+Washington Court,1,1,residential,,0.0545463649824,0.109092729965
+Allston Court,1,1,residential,,0.0326326159964,0.0652652319928
+Amherst Street,,1,residential,,0.143643459752,0.287286919504
+Wadsworth Street,2,1,residential,no,0.0863560514824,0.172712102965
+Fulkerson Street,2,2,tertiary,,0.216040397157,0.864161588629
+Rollins Court,1,1,residential,,0.0461826125356,0.0923652250712
+Osborn Street,2,1,residential,,0.230012556014,0.460025112028
+Moore Street,2,1,residential,,0.108143412591,0.216286825182
+Emmett Place,1,1,residential,,0.0600631765855,0.120126353171
+Marvin Place,1,1,residential,,0.0413065658443,0.0826131316887
+Columbia Terrace,2,1,residential,,0.0744180740685,0.148836148137
+Land Boulevard,2,4,trunk,yes,0.0420584038741,0.168233615497
+Danforth Street,2,1,residential,,0.0626618568568,0.125323713714
+Columbia Street,2,3,secondary,,1.14219377228,6.8531626337
+McTernan Street,1,1,residential,yes,0.149329577207,0.149329577207
+,1,4,trunk_link,yes,0.177074930191,0.708299720763
+Lee Street,2,1,residential,yes,0.408699264424,0.408699264424
+Tudor Street,2,1,residential,,0.152064641515,0.304129283031
+Massachusetts Avenue,3,3,primary,,0.571201066151,3.42720639691
+Speridakis Terrace,2,1,residential,,0.11719560314,0.234391206279
+Green Street,2,1,residential,yes,1.33919972336,1.33919972336
+Market Street,2,1,residential,,0.471197631749,0.942395263498
+Lawrence Street,1,1,residential,yes,0.14908820645,0.14908820645
+Davis Street,2,1,residential,,0.108757401035,0.217514802069
+Harvard Street,2,2,tertiary,yes,0.845771252015,1.69154250403
+Portsmouth Street,2,1,residential,yes,0.118492511546,0.118492511546
+Potter Street,2,1,residential,,0.122743433663,0.245486867326
+Prince Street,1,1,residential,yes,0.175680616818,0.175680616818
+Lopez Street,2,1,residential,yes,0.156928382914,0.156928382914
+Percy Place,1,1,residential,,0.0479016429775,0.095803285955
+Hamilton Street,2,1,residential,no,0.448491600526,0.896983201052
+Sellers Street,2,1,residential,yes,0.0817326714654,0.0817326714654
+Sixth Street,2,2,tertiary,,0.230067703602,0.92027081441
+Reardon Street,2,1,residential,,0.0624089453488,0.124817890698
+Bigelow Street,2,1,residential,yes,0.299660029191,0.299660029191
+Fifth Street,2,1,residential,,0.385315127676,0.770630255351
+Sidney Street,2,3,secondary,yes,0.0951364392572,0.285409317772
+Bishop Allen Drive,2,2,tertiary,,0.523041331329,2.09216532532
+Endicott Street,2,1,residential,,0.0645544194075,0.129108838815
+Cottage Court,1,1,residential,,0.0,0.0
+Fairmont Street,1,1,residential,yes,0.331329501098,0.331329501098
+,2,1,service,,0.0751538085832,0.150307617166
+,,1,service,no,0.183710587963,0.367421175925
+Windsor Street,2,1,residential,,0.203360501694,0.406721003387
+Second Street,2,1,residential,,0.76356926589,1.52713853178
+Richardson Street,1,1,residential,,0.081536636815,0.16307327363
+Vandine Street,2,1,residential,,0.106461697181,0.212923394363
+Austin Park,2,1,residential,,0.0701996931796,0.140399386359
+Third Street,2,3,secondary,,0.719185740424,4.31511444255
+Cherry Street,2,1,residential,yes,0.372725210093,0.372725210093
+Fiske Place,2,1,residential,,0.0499556865881,0.0999113731763
+Charles Street,2,2,tertiary,,0.834890875138,3.33956350055
+Bent Street,2,1,residential,,0.176715060627,0.353430121254
+,2,4,trunk_link,yes,0.0447859026464,0.179143610586
+Amesbury Street,2,1,residential,,0.173499204501,0.346998409002
+Ashburton Place,1,1,residential,,0.0494470377654,0.0988940755308
+Talbot Street,2,1,residential,,0.062669195723,0.125338391446
+Cambridgeside Place,,2,tertiary,,0.197882183025,0.7915287321
+Berkshire Place,1,1,residential,,0.0764775377497,0.152955075499
+Pine Street,2,1,residential,yes,0.328076796582,0.328076796582
+,1,4,trunk_link,yes,0.194388757922,0.777555031687
+Peters Street,2,1,residential,,0.102462836495,0.204925672989
+Berkshire Place,1,1,residential,,0.10756467533,0.215129350659
+Munroe Street,2,1,residential,yes,0.150811286862,0.150811286862
+Pleasant Place,2,1,residential,,0.107788518583,0.215577037167
+Broadway,2,3,secondary,yes,0.901347496794,2.70404249038
+Land Boulevard,2,4,trunk,yes,0.0244577899704,0.0978311598815
+Inman Street,2,1,unclassified,yes,0.315617951419,0.315617951419
+Pleasant Street,1,1,residential,yes,0.568566572732,0.568566572732
+Temple Street,2,1,residential,yes,0.111067867523,0.111067867523
+Bishop Allen Drive,2,2,tertiary,yes,0.177379546572,0.354759093144
+Purrington Street,2,1,service,no,0.272982536742,0.545965073484
+Suffolk Street,2,1,residential,yes,0.170863968061,0.170863968061
+Laurel Street,2,1,residential,,0.106776933923,0.213553867846
+Kinnaird Street,2,1,residential,,0.118648812217,0.237297624434
+Amherst Street,2,1,residential,no,0.266310070364,0.532620140728
+School Street,2,1,residential,yes,0.209823630346,0.209823630346
+Jay Street,2,1,residential,,0.205185000684,0.410370001368
+Salem Street,2,1,residential,yes,0.0912820749564,0.0912820749564
+Cambridge Parkway,2,1,residential,yes,0.687070319678,0.687070319678
+Union Street,2,1,residential,yes,0.337596549135,0.337596549135
+Portland Street,2,3,secondary,,0.550317680138,3.30190608083
+Lilac Court,1,1,residential,,0.115530110101,0.231060220202
+Fifth Street,2,1,residential,,0.228447028879,0.456894057759
+Third Street,2,3,secondary,,0.460488294444,2.76292976666
+Prospect Street,2,3,secondary,,0.0903083485103,0.541850091062
+Douglass Street,2,1,residential,yes,0.112039642257,0.112039642257
+Albany Street,2,3,secondary,,0.405177977515,2.43106786509
+Rogers Street,2,1,residential,yes,0.191185434598,0.191185434598
+Memorial Drive,4,4,trunk,,0.690480244461,5.52384195569
+Dorothy Doyle Way,2,1,residential,,0.0758784386547,0.151756877309
+Windsor Street,2,2,tertiary,yes,0.460029023738,0.920058047476
+Franklin Street,2,1,residential,yes,1.11665199039,1.11665199039
+Main Street,2,3,secondary,yes,0.24858844093,0.745765322789
+Webster Avenue,2,1,residential,,0.458413094649,0.916826189298
+Sixth Street,2,2,tertiary,,0.463625333217,1.85450133287
+,,1,service,,0.0613228837235,0.122645767447
+,,1,service,,0.054554101519,0.109108203038
+Rogers Street,2,1,residential,,0.505993482736,1.01198696547
+,,1,service,,0.094863580415,0.18972716083
+,,1,unclassified,,0.130844799252,0.261689598504
+Windsor Street,2,2,tertiary,,0.638952633961,2.55581053584
+,,1,service,,0.0442360542363,0.0884721084726
+,1,4,trunk_link,yes,0.198585063016,0.794340252065
+,,4,trunk_link,yes,0.0416530310196,0.166612124078
+,1,4,trunk_link,yes,0.199164074907,0.796656299627
+Ames Street,2,2,tertiary,no,0.0916305975579,0.366522390232
+,,1,service,,0.0596049418968,0.119209883794
+Saint Paul Street,2,1,residential,,0.140537812558,0.281075625115
+Putnam Court,2,1,residential,,0.034436732471,0.0688734649419
+Norfolk Court,1,1,residential,,0.0781372756765,0.156274551353
+Putnam Avenue,2,3,secondary,,0.758231129011,4.54938677407
+Kelly Road,1,1,residential,no,0.0895529579088,0.179105915818
+,,1,service,,0.151619630428,0.303239260855
+,,1,service,,0.10385004883,0.207700097659
+,,1,service,,0.0722995457972,0.144599091594
+Land Boulevard,2,4,trunk,yes,0.0502443544091,0.200977417636
+Henry Street,2,1,residential,,0.135491511237,0.270983022474
+Upton Street,1,1,residential,,0.165201932025,0.33040386405
+Sidney Street,2,3,secondary,yes,0.0463098103496,0.138929431049
+Rogers Street,1,1,residential,,0.247117635317,0.494235270633
+Bent Street,2,1,residential,,0.138929966616,0.277859933232
+Amherst Street,2,1,residential,yes,0.161694751251,0.161694751251
+William Street,1,1,residential,yes,0.283107102357,0.283107102357
+,1,4,trunk_link,yes,0.0424646735378,0.169858694151
+,2,4,trunk_link,yes,0.0774027276219,0.309610910487
+Amherst Street,,1,residential,yes,0.2044963435,0.2044963435
+Athenaeum Street,2,1,residential,,0.134916146204,0.269832292408
+Village Street,1,1,service,yes,0.0701061166162,0.0701061166162
+Memorial Drive,2,4,trunk,yes,0.213836513299,0.855346053197
+Sciarappa Street,2,1,residential,,0.384547111673,0.769094223346
+Dock Street,2,1,residential,,0.0635161756703,0.127032351341
+Worcester Street,2,1,residential,yes,0.166456300475,0.166456300475
+Decatur Street,1,1,residential,no,0.157432572227,0.314865144454
+Binney Street,2,1,residential,,0.258175890852,0.516351781703
+Cherry Court,1,1,residential,,0.0313934223387,0.0627868446775
+Crossland Street,1,1,residential,,0.0667042313987,0.133408462797
+Memorial Drive,2,4,trunk,yes,0.502966238897,2.01186495559
+Henry Street,1,1,residential,yes,0.164905395516,0.164905395516
+Binney Street,,1,residential,yes,0.0373626524449,0.0373626524449
+Cross Street,2,1,service,no,0.162020176864,0.324040353728
+Boardman Street,2,1,residential,,0.0972292420997,0.194458484199
+Hancock Street,2,1,residential,yes,0.398253971171,0.398253971171
+Washington Street,2,1,residential,yes,0.278425899325,0.278425899325
+First Street,2,2,tertiary,yes,0.148065100904,0.296130201808
+,3,4,trunk_link,yes,0.377256661695,1.50902664678
+Trinity Place,2,1,residential,yes,0.118814854706,0.118814854706
+Audrey Street,2,1,residential,,0.198973493388,0.397946986776
+Erie Street,2,3,secondary,no,0.136495883492,0.818975300955
+Pilgrim Street,1,1,service,no,0.105765673781,0.211531347562
+Land Boulevard,2,4,trunk,yes,0.737232440163,2.94892976065
+Carleton Street,2,1,residential,no,0.156424087505,0.31284817501
+Broad Canal Street,,1,residential,,0.228107188313,0.456214376627
+,1,4,trunk_link,yes,0.048257361776,0.193029447104
+David G. Mugar Way,2,3,secondary,yes,0.0932424965158,0.279727489547
+Vail Court,1,1,residential,,0.0859112540058,0.171822508012
+Fifth Street,2,1,residential,,0.103765642795,0.20753128559
+,,1,service,,0.153131351204,0.306262702408
+Sidney Place,,1,residential,yes,0.0758922090739,0.0758922090739
+Franklin Street,2,1,residential,yes,0.174645486565,0.174645486565
+,,1,service,,0.196725637318,0.393451274635
+,,1,service,,0.110047862489,0.220095724979
+Soden Street,1,1,residential,,0.156612228639,0.313224457278
+State Street,2,1,residential,yes,0.307194894715,0.307194894715
+Norfolk Terrace,1,1,residential,,0.0378453416575,0.0756906833151
+Grove Avenue,2,1,service,,0.103348876538,0.206697753077
+Waverly Street,2,3,secondary,,0.230046286182,1.38027771709
+Bristol Street,2,1,residential,,0.188449503653,0.376899007307
+Sidney Street,2,3,secondary,yes,0.646070109221,1.93821032766
+Erie Street,2,3,secondary,,0.133328963167,0.799973779004
+Eaton Street,2,1,residential,,0.0698312507341,0.139662501468
+Erie Street,2,1,residential,yes,0.310463142552,0.310463142552
+Elm Street,2,1,residential,yes,0.274686131997,0.274686131997
+Westacott Court,,1,residential,,0.0905181742252,0.18103634845
+Chalk Street,1,1,residential,yes,0.171474971818,0.171474971818
+Allston Street,2,1,residential,yes,0.542058691018,0.542058691018
+,,1,service,,0.0436797192428,0.0873594384855
+Storrow Drive,2,4,trunk,yes,1.38069868127,5.52279472508
+Bristol Street,2,1,residential,yes,0.171461594138,0.171461594138
+Public Alley 419,1,1,service,,0.18691563401,0.37383126802
+Lamson Place,1,1,residential,,0.0451174025107,0.0902348050213
+Acorn Street,2,1,residential,,0.104671130425,0.209342260851
+Smart Street,1,1,residential,,0.151032442333,0.302064884665
+Berkshire Street,2,1,residential,yes,0.427487299702,0.427487299702
+Prospect Street,2,3,secondary,,0.442594593077,2.65556755846
+Western Avenue,4,3,secondary,yes,0.254779583087,0.76433874926
+Massachusetts Avenue,4,3,primary,,0.851853158293,5.11111894976
+Massachusetts Avenue,4,3,primary,,0.147731375907,0.886388255443
+,,4,trunk_link,yes,0.0438315430643,0.175326172257
+Essex Street,2,1,residential,yes,0.265991136633,0.265991136633
+,,1,unclassified,,0.141287302691,0.282574605383
+,,1,residential,,0.0796442305916,0.159288461183
+Cottage Street,1,1,residential,yes,0.316953600276,0.316953600276
+Washington Street,2,1,residential,yes,0.392248253082,0.392248253082
+,,1,service,,0.125002536066,0.250005072132
+,,1,service,,0.130651084263,0.261302168525
+Pleasant Street,1,3,secondary,yes,0.195589230816,0.586767692448
+,,1,service,,0.146986593148,0.293973186297
+Land Boulevard,2,4,trunk,yes,0.16868530109,0.674741204358
+Henry Street,2,1,residential,,0.117056533326,0.234113066653
+Museum Way,,1,residential,,0.0186193919922,0.0372387839844
+Watson Street,2,1,residential,yes,0.151618059967,0.151618059967
+Valentine Street,1,1,residential,no,0.159833515637,0.319667031274
+Linskey Way,2,1,residential,,0.2307851643,0.461570328601
+Essex Street,2,2,tertiary,yes,0.112163304816,0.224326609632
+Clinton Street,2,1,residential,yes,0.278507496767,0.278507496767
+,2,4,trunk_link,yes,0.0843187155746,0.337274862298
+Landsdowne Street,2,2,tertiary,no,0.398915527382,1.59566210953
+Emily Street,2,1,residential,yes,0.147671344648,0.147671344648
+Hastings Square,2,1,residential,,0.102568699781,0.205137399563
+Public Alley 441,1,1,service,,0.20087261127,0.401745222541
+Public Alley 418,1,1,service,,0.189115955428,0.378231910855
+Clarendon Street,2,3,secondary,yes,0.517732585635,1.55319775691
+Main Street,2,3,secondary,,0.0352580179502,0.211548107701
+Marlborough Street,2,1,residential,yes,1.2866233538,1.2866233538
+Public Alley 426,1,1,service,,0.201083423914,0.402166847828
+West Hill Place,2,1,residential,,0.0439515594832,0.0879031189664
+Fairfield Street,2,1,residential,yes,0.421474831747,0.421474831747
+Public Alley 431,1,1,service,,0.132943688447,0.265887376894
+Green Street,2,1,residential,yes,0.184325391455,0.184325391455
+Granby Street,2,1,residential,yes,0.0965693990864,0.0965693990864
+Public Alley 416,1,1,service,yes,0.170980683986,0.170980683986
+David G. Mugar Way,,1,residential,,0.0915899248259,0.183179849652
+Beaver Street,2,1,residential,,0.0604410401426,0.120882080285
+Lime Street,2,1,residential,yes,0.112533115754,0.112533115754
+Chestnut Street,2,1,residential,yes,0.227133263927,0.227133263927
+,1,4,trunk_link,yes,0.228176797376,0.912707189503
+,1,3,primary_link,yes,0.0508757368114,0.152627210434
+Beacon Street,4,3,secondary,yes,0.343402302237,1.03020690671
+Otis Place,2,1,residential,,0.0291828369586,0.0583656739171
+Sidney Street Extension,2,3,secondary,no,0.0491810494692,0.295086296815
+,1,3,secondary_link,yes,0.0408157854964,0.122447356489
+Public Alley 427,1,1,service,,0.17106460801,0.342129216019
+Public Alley 423,1,1,service,,0.188105185866,0.376210371732
+Commonwealth Avenue,2,3,primary,yes,1.74656957092,5.23970871277
+Public Alley 417,1,1,service,,0.20115546933,0.40231093866
+Amherst Street,2,1,residential,,0.0318779956183,0.0637559912366
+,2,4,trunk_link,yes,0.276175872974,1.1047034919
+Public Alley 440,1,1,service,,0.188065767268,0.376131534536
+Public Alley 908,1,1,service,,0.181133896506,0.362267793012
+Raleigh Street,1,1,residential,,0.0741879268461,0.148375853692
+Revere Street,2,1,residential,yes,0.474917122073,0.474917122073
+,2,3,secondary_link,yes,0.0309731622069,0.0929194866207
+Public Alley 435,1,1,service,,0.187521820397,0.375043640794
+,,3,primary_link,yes,0.0480421687877,0.144126506363
+,,1,service,,0.428818750886,0.857637501773
+Bay State Road,2,2,tertiary,yes,0.619561907337,1.23912381467
+Magazine Street,2,1,service,,0.0503323228738,0.100664645748
+Blanche Street,1,1,residential,yes,0.0824255469557,0.0824255469557
+Franklin Street,2,1,residential,yes,0.159823513966,0.159823513966
+Pinckney Street,2,1,residential,yes,0.595434355074,0.595434355074
+Boylston Street,3,3,secondary,yes,1.24703688389,3.74111065167
+,1,4,trunk_link,yes,0.0844595235717,0.337838094287
+Beaver Place,2,1,residential,yes,0.140824604328,0.140824604328
+,1,4,trunk_link,yes,0.167586950284,0.670347801137
+Brimmer Street,2,1,residential,yes,0.151573553573,0.151573553573
+Embankment Road,3,4,trunk,yes,0.81001435838,3.24005743352
+Public Alley 421,1,1,service,,0.206021261254,0.412042522508
+Public Alley 434,1,1,service,,0.188368885754,0.376737771507
+Hinsdale Mall,2,1,service,,0.0815976113842,0.163195222768
+Back Street,1,1,residential,,0.144555928049,0.289111856099
+Public Alley 429,1,1,service,,0.217804079258,0.435608158515
+Auburn Street,1,1,residential,yes,0.0553118404381,0.0553118404381
+Pleasant Street,2,1,residential,no,0.0205234004144,0.0410468008287
+Hereford Street,2,3,secondary,yes,0.422752370891,1.26825711267
+Exeter Street,2,1,residential,,0.060727424783,0.121454849566
+,4,4,trunk_link,yes,0.198342364884,0.793369459535
+Charlesgate East,2,3,secondary,yes,0.235906027568,0.707718082705
+Dartmouth Street,2,1,residential,yes,0.0598514192116,0.0598514192116
+,1,4,trunk_link,yes,0.112237930978,0.448951723914
+Storrow Drive,3,4,trunk,yes,1.55270592417,6.21082369669
+Deerfield Street,2,1,residential,,0.186616965144,0.373233930288
+Massachusetts Turnpike,4,4,motorway,yes,0.30741955932,1.22967823728
+Saint Mary's Street,2,2,tertiary,yes,0.0537248091659,0.107449618332
+Public Alley 433,1,1,service,,0.200952091152,0.401904182304
+,,1,service,,0.253051689651,0.506103379303
+Public Alley 415,1,1,service,yes,0.132490755992,0.132490755992
+Public Alley 438,1,1,service,,0.207994891144,0.415989782289
+Charles River Square,2,1,residential,,0.0659075016136,0.131815003227
+Massachusetts Turnpike,4,4,motorway,yes,0.263734901735,1.05493960694
+Newbury Street,1,2,tertiary,yes,1.49434610016,2.98869220031
+Dartmouth Street,2,2,tertiary,yes,0.42154576744,0.84309153488
+Silber Way,2,2,tertiary,,0.106051068548,0.424204274192
+,1,4,trunk_link,yes,0.0580226590972,0.232090636389
+,,1,residential,,0.01744606552,0.0348921310401
+Silber Way,2,1,residential,,0.0498450530305,0.099690106061
+Public Alley 439,1,1,service,,0.187755246945,0.375510493891
+Public Alley 420,1,1,service,,0.188118481354,0.376236962708
+Commonwealth Avenue,3,3,primary,yes,0.158849180623,0.476547541869
+Embankment Road,3,4,trunk,yes,0.897888342192,3.59155336877
+Public Alley 425,1,1,service,,0.188845076387,0.377690152774
+Public Alley 422,1,1,service,,0.205984851874,0.411969703748
+Public Alley 437,1,1,service,,0.207322633798,0.414645267596
+Public Alley 414,1,1,service,yes,0.217848229889,0.217848229889
+Back Street,1,1,residential,,0.247429230764,0.494858461528
+Saint James Avenue,2,3,primary,yes,0.18679204624,0.56037613872
+,,1,service,,0.0507951540542,0.101590308108
+,,1,service,,0.192712314871,0.385424629741
+Marlborough Street,2,1,residential,yes,0.212389327077,0.212389327077
+Mount Vernon Street,2,1,residential,,0.53804558844,1.07609117688
+Public Alley 428,1,1,service,,0.132665267059,0.265330534118
+University Road,2,3,primary,,0.105295948831,0.631775692985
+Memorial Drive,2,4,trunk,yes,0.187606681055,0.750426724218
+,3,4,trunk_link,yes,0.107920176193,0.431680704771
+Public Alley 424,1,1,service,,0.187134755122,0.374269510243
+Public Alley 432,1,1,service,,0.171125403444,0.342250806888
+,1,4,trunk_link,yes,0.13725824059,0.549032962361
+Bay State Road,2,1,residential,yes,0.255191466745,0.255191466745
+,1,1,residential,yes,0.208472417756,0.208472417756
+Hereford Street,2,1,residential,,0.0599563623045,0.119912724609
+Clarendon Street,1,3,secondary,yes,0.0607090238455,0.182127071537
+Public Alley 436,1,1,service,,0.188071187252,0.376142374503
+Commonwealth Avenue,2,3,primary_link,yes,0.154767123241,0.464301369722
+Storrow Drive,2,4,trunk,yes,0.391850545522,1.56740218209
+Sidney Street,2,3,secondary,no,0.376985382736,2.26191229642
+Gloucester Street,2,1,residential,,0.0606685157856,0.121337031571
+Beacon Street,4,3,secondary,,0.0293403848139,0.176042308883
+Babbitt Street,2,1,service,,0.130111924629,0.260223849258
+Saint James Avenue,2,3,secondary,,0.207640516316,1.2458430979
+,2,4,trunk_link,yes,0.0487461329131,0.194984531652
+,,1,service,,0.254609552589,0.509219105179
+Massachusetts Turnpike,4,4,motorway,yes,0.348864592471,1.39545836989
+Longfellow Bridge,2,4,trunk,yes,0.0454204795698,0.181681918279
+,,1,service,,0.0349124690038,0.0698249380076
+,1,4,trunk_link,yes,0.18706669131,0.748266765242
+Vassar Street,2,3,secondary,,0.493241949051,2.95945169431
+Massachusetts Avenue,4,3,primary,,0.00725715135122,0.0435429081073
+Harvard Bridge,4,3,primary,,0.61378859666,3.68273157996
+Binney Street,2,3,secondary,yes,0.799858924475,2.39957677343
+,1,4,trunk_link,yes,0.0633768609275,0.25350744371
+Memorial Drive,2,4,trunk,yes,0.122965153142,0.49186061257
+Memorial Drive,2,4,trunk,yes,0.183711208079,0.734844832315
+Memorial Drive,2,4,trunk,yes,0.182721776723,0.730887106894
+Massachusetts Avenue,4,3,primary,,0.464656113598,2.78793668159
+,2,1,service,,0.0361503682743,0.0723007365486
+Waverly Street,1,3,secondary,yes,0.470845280876,1.41253584263
+Back Street,1,1,residential,yes,0.184896208675,0.184896208675
+,,1,service,,0.0090436141596,0.0180872283192
+,,1,service,,0.0445341072152,0.0890682144304
+Pilgrim Street,,1,residential,no,0.0679911747122,0.135982349424
+,2,1,service,yes,0.0359604738844,0.0359604738844
+,1,3,primary_link,yes,0.131091973532,0.393275920595
+Norfolk Street,2,1,residential,yes,0.118090797895,0.118090797895
+,,1,service,,0.19184132839,0.383682656779
+,1,4,trunk_link,yes,0.153260268186,0.613041072746
+,,1,service,,0.0290599848532,0.0581199697063
+,,1,service,,0.116700352085,0.233400704171
+,1,3,primary_link,yes,0.0586288873405,0.175886662022
+,1,3,primary_link,yes,0.179162925905,0.537488777714
+Carlton Street,1,3,primary,yes,0.069922192996,0.209766578988
+,,1,service,,0.0682874681927,0.136574936385
+Norfolk Street,2,1,residential,yes,0.404527296083,0.404527296083
+,,1,service,,0.0190525247328,0.0381050494656
+,,1,service,,0.0457173248903,0.0914346497807
+Brookline Place,,1,residential,yes,0.220252310274,0.220252310274
+,,1,service,,0.0529665936066,0.105933187213
+Storrow Drive,2,4,trunk,yes,1.17019115627,4.68076462509
+Land Boulevard,2,4,trunk,yes,0.0547392998961,0.218957199584
+Edwin H. Land Boulevard,2,4,trunk,yes,0.0761223123243,0.304489249297
+Front Street,2,1,residential,yes,0.0710687561183,0.0710687561183
+,,1,service,,0.32990032733,0.659800654659
+Main Street,1,3,secondary,yes,0.143831298067,0.4314938942
+Allston Street,2,1,residential,no,0.0667710516822,0.133542103364
+,,1,service,,0.0131479735355,0.026295947071
+,,1,service,,0.101480210763,0.202960421526
+,,1,service,,0.0816225918892,0.163245183778
+Berkeley Street,4,3,secondary,yes,0.797317175944,2.39195152783
+Broadway,2,3,secondary,yes,0.623119036615,1.86935710984
+,,1,service,,0.175496279532,0.350992559065
+Land Boulevard,2,4,trunk,yes,0.0536314947837,0.214525979135
+Ames Street,2,2,tertiary,no,0.287085532728,1.14834213091
+,,1,service,,0.124622165907,0.249244331815
+Saint Mary's Street,2,2,tertiary,,0.0233370558281,0.0933482233122
+West Kendall Street,,1,unclassified,,0.0754834257603,0.150966851521
+Carlton Street,2,3,primary,yes,0.0602752535033,0.18082576051
+,,1,service,,0.059901321328,0.119802642656
+,1,4,trunk_link,yes,0.147016575226,0.588066300905
+,,1,service,,0.0792345761501,0.1584691523
+,,1,service,,0.063381698051,0.126763396102
+Cummington Mall,2,1,service,yes,0.0537610407453,0.0537610407453
+Saint Mary's Street,2,2,tertiary,yes,0.0326157750675,0.0652315501351
+Back Street,1,1,residential,,0.603738070885,1.20747614177
+,,1,service,,0.0240061079294,0.0480122158588
+,,1,service,,0.049790488553,0.0995809771061
+,1,4,trunk_link,yes,0.0419936251943,0.167974500777
+Clark Street,2,1,residential,,0.225588845026,0.451177690053
+,,1,service,,0.155745905634,0.311491811268
+,,1,service,,0.0442762800476,0.0885525600952
+,,1,service,,0.0647291556862,0.129458311372
+Norfolk Street,2,1,residential,yes,0.303123386919,0.303123386919
+,1,4,trunk_link,yes,0.0422332429414,0.168932971766
+,1,4,trunk_link,yes,0.152000680717,0.60800272287
+Embankment Road,2,4,trunk,yes,0.190574750252,0.762299001007
+,,1,service,yes,0.0690271204758,0.0690271204758
+,,1,service,yes,0.0583591793136,0.0583591793136
+Pilgrim Street,2,1,residential,,0.0592818285982,0.118563657196
+Pilgrim Street,,1,residential,no,0.0409762289445,0.0819524578891
+Albany Street,2,3,secondary,,0.717380222571,4.30428133543
+,,1,service,yes,0.0722435738842,0.0722435738842
+,2,4,trunk_link,yes,0.161258000281,0.645032001126
+Massachusetts Avenue,4,3,primary,,0.0195262569106,0.117157541464
+Land Boulevard,2,4,trunk,yes,0.181724043448,0.726896173794
+,,1,service,,0.0379673472887,0.0759346945773
+Gloucester Street,2,1,residential,yes,0.421769451146,0.421769451146
+Fairfield Street,2,1,residential,,0.0606092358913,0.121218471783
+,,1,service,,0.218896628466,0.437793256932
+Fort Washington Place,1,1,residential,,0.0773584652054,0.154716930411
+,2,3,secondary_link,yes,0.0303453652754,0.0910360958263
+,,1,service,,0.277446591131,0.554893182261
+,2,4,trunk_link,yes,0.231714392481,0.926857569925
+Storrow Drive,2,4,trunk,yes,0.201295067946,0.805180271782
+,2,4,trunk_link,yes,0.116668894013,0.466675576054
+Storrow Drive,3,4,trunk,yes,1.0290495692,4.11619827679
+,2,4,trunk_link,yes,0.156703239677,0.626812958709
+,,1,service,,0.142819420851,0.285638841701
+Arlington Street,3,3,secondary,yes,0.170937666667,0.512813000002
+Beacon Street,4,3,secondary,yes,0.0437667774136,0.131300332241
+Beacon Street,4,3,secondary,yes,0.175994580594,0.527983741782
+Broadway,2,3,secondary,,0.221684551909,1.33010731146
+Binney Street,2,3,secondary,yes,0.086233134824,0.258699404472
+,2,4,trunk_link,yes,0.120394113283,0.481576453132
+,1,4,trunk_link,yes,0.157189531676,0.628758126706
+Bowker Overpass,2,4,trunk,yes,0.223339931378,0.893359725511
+,,1,service,,0.0597613106827,0.119522621365
+,2,4,trunk_link,yes,0.225106194974,0.900424779895
+Commonwealth Avenue,2,3,primary,yes,1.75335600102,5.26006800306
+Massachusetts Avenue,4,3,primary,,0.0306818544801,0.18409112688
+,,1,service,,0.107240332767,0.214480665533
+Land Boulevard,2,4,trunk,yes,0.0926110566756,0.370444226702
+First Street,2,2,tertiary,yes,0.0620192444536,0.124038488907
+Longfellow Bridge,2,4,trunk,yes,0.0719418817623,0.287767527049
+,1,4,trunk_link,yes,0.145383509158,0.581534036631
+,2,4,trunk_link,yes,0.221892114573,0.887568458293
+Storrow Drive,1,4,trunk,yes,0.529574960451,2.11829984181
+,2,4,trunk_link,yes,0.132247156962,0.52898862785
+,2,4,trunk_link,yes,0.148490703654,0.593962814614
+,2,4,trunk_link,yes,0.0607918809427,0.243167523771
+Land Boulevard,2,4,trunk,yes,0.0521782223292,0.208712889317
+Land Boulevard,2,4,trunk,yes,0.0382169086774,0.15286763471
+Bowker Overpass,2,4,trunk,yes,0.250246914134,1.00098765653
+Land Boulevard,2,4,trunk,yes,0.0430392940454,0.172157176182
+Public Alley 905,1,1,service,,0.0826558002207,0.165311600441
+Massachusetts Avenue,4,3,primary,,0.0195498569798,0.117299141879
+River Street,2,3,secondary,yes,0.029631050605,0.088893151815
+Deacon Street,2,1,residential,,0.0776970647545,0.155394129509
+Cambridge Street,2,3,primary,yes,0.0687954645908,0.206386393772
+Binney Street,2,1,residential,yes,0.0263875679454,0.0263875679454
+Raleigh Street,2,1,residential,yes,0.0498727700738,0.0498727700738
+Land Boulevard,2,4,trunk,yes,0.310985220879,1.24394088352
+,1,4,trunk_link,yes,0.208626848428,0.834507393711
+,2,4,trunk_link,yes,0.0701726891766,0.280690756706
+Berkeley Street,1,3,secondary,yes,0.0603081694578,0.180924508374
+Land Boulevard,2,4,trunk,yes,0.0198907303914,0.0795629215656
+Land Boulevard,2,4,trunk,yes,0.0533665313026,0.21346612521
+Land Boulevard,2,4,trunk,yes,0.0787808101882,0.315123240753
+Dartmouth Street,4,3,secondary,yes,0.173163214816,0.519489644449
+Galileo Galilei Way,2,3,secondary,yes,0.487595386133,1.4627861584
+,2,4,trunk_link,yes,0.0718740158752,0.287496063501
+Beacon Street,4,3,secondary,yes,1.34239385947,4.02718157842
+Massachusetts Avenue,4,3,primary,,0.015838499792,0.0950309987517
+Edwin H. Land Boulevard,2,4,trunk,yes,0.0894555572037,0.357822228815
+,,1,service,,0.0804920754655,0.160984150931
+,,1,service,yes,0.0251921501495,0.0251921501495
+,,1,service,yes,0.0251656091686,0.0251656091686
+,,1,service,,0.0318278761657,0.0636557523314
+Memorial Drive,2,4,trunk,yes,0.198135548743,0.792542194974
+Memorial Drive,2,4,trunk,yes,0.11744223824,0.469768952958
+Memorial Drive,2,4,trunk,yes,0.198224262633,0.792897050533
+Memorial Drive,2,4,trunk,yes,0.565136795739,2.26054718296
+Athenaeum Street,2,1,unclassified,no,0.247504449316,0.495008898631
+Binney Street,2,3,secondary,yes,0.0808814579601,0.24264437388
+Kendall Street,,1,unclassified,-1,0.201251484638,0.402502969275
+Binney Street,2,3,secondary,yes,0.804822255265,2.41446676579
+,,1,service,,0.0941425534013,0.188285106803
+First Street,2,2,tertiary,,0.624709853445,2.49883941378
+,,1,service,,0.0587488286676,0.117497657335
+,,1,service,,0.0556156649412,0.111231329882
+,,1,service,,0.0589492189745,0.117898437949
+,,1,service,,0.00889293782149,0.017785875643
+,,1,service,,0.0249062547104,0.0498125094208
+,,1,service,,0.00432917809711,0.00865835619422
+,,1,service,,0.00435018485931,0.00870036971863
+,1,4,trunk_link,yes,0.0378529816035,0.151411926414
+,,1,service,,0.0776690209086,0.155338041817
+Main Street,2,3,secondary,,0.768382240927,4.61029344556
+,,1,service,,0.0185484392111,0.0370968784221
+,,1,service,,0.0556701165282,0.111340233056
+,,1,service,,0.0559650979763,0.111930195953
+,,1,service,,0.0411257967567,0.0822515935135
+,,1,service,,0.020040060048,0.040080120096
+,,1,service,,0.0563135634189,0.112627126838
+,,1,service,,0.0336830461457,0.0673660922913
+,,1,service,,0.0547533861285,0.109506772257
+,,1,service,,0.258952808179,0.517905616358
+,,1,service,,0.0927138726613,0.185427745323
+,,1,service,,0.0645362490066,0.129072498013
+,,1,service,,0.0176143573329,0.0352287146659
+,,1,service,,0.0614640066176,0.122928013235
+,,1,service,,0.0738032953131,0.147606590626
+,,1,service,,0.0607746187867,0.121549237573
+Land Boulevard,2,4,trunk,yes,0.638639335338,2.55455734135
+Western Avenue,4,3,secondary,yes,0.769045027447,2.30713508234
+Back Street,1,1,residential,,0.00781192574277,0.0156238514855
+Memorial Drive,2,4,trunk,yes,0.510516535878,2.04206614351
+Memorial Drive,2,4,trunk,yes,0.0254337527387,0.101735010955
+Ames Street,1,2,tertiary,yes,0.174693732715,0.349387465429
+Ames Street,2,2,tertiary,yes,0.0201687869663,0.0403375739325
+Main Street,1,3,secondary,yes,0.0144021879931,0.0432065639792
+Main Street,,3,secondary,yes,0.266248294913,0.798744884738
+Memorial Drive,2,4,trunk,yes,0.598740387476,2.3949615499
+,,3,secondary_link,yes,0.101361418358,0.304084255075
+,,1,service,,0.029138667001,0.0582773340021
+,,1,service,,0.0751427924676,0.150285584935
+,,1,service,,0.0176315667326,0.0352631334651
+,,1,service,,0.139774563689,0.279549127378
+,,1,service,,0.045942850183,0.091885700366
+,,1,service,,0.0369047350088,0.0738094700177
+,,1,service,,0.0640563218931,0.128112643786
+,,1,service,,0.166741389012,0.333482778024
+,,1,service,,0.0202377523313,0.0404755046625
+,,1,service,,0.044253281842,0.088506563684
+,,1,service,,0.128251081124,0.256502162249
+,,1,service,,0.0177074699271,0.0354149398542
+Cottage Court,,1,residential,,0.0418729401764,0.0837458803528
+,,1,service,,0.0108696083058,0.0217392166116
+Waverly Street,2,3,secondary,,0.0175013098138,0.105007858883
+,,1,service,,0.070082737152,0.140165474304
+Cardinal Medeiros Avenue,2,3,secondary,,0.652852691625,3.91711614975
+,,1,service,,0.0258865905262,0.0517731810525
+,,1,service,,0.12311113405,0.246222268099
+,,1,service,,0.0627709911825,0.125541982365
+,,1,service,,0.0160626372954,0.0321252745909
+Pleasant Street,1,1,residential,yes,0.131588285364,0.131588285364
+Erie Street,2,3,secondary,yes,0.0287862096675,0.0863586290024
+Kelly Road,1,1,residential,yes,0.167799891384,0.167799891384
+,,1,service,,0.0885754284875,0.177150856975
+Massachusetts Avenue,4,3,primary,,0.0114529726869,0.0687178361216
+Monsignor O'Brien Highway,3,4,trunk,yes,0.388959096372,1.55583638549
+,1,4,trunk_link,yes,0.0479137488831,0.191654995532
+Commonwealth Avenue,2,3,primary,yes,1.05763811968,3.17291435904
+,,1,service,,0.0977256588119,0.195451317624
+,1,4,trunk_link,yes,0.215474854057,0.861899416229
+,1,4,trunk_link,yes,0.0496840919084,0.198736367634
+,,1,service,,0.0830354782285,0.166070956457
+Longfellow Bridge,1,4,trunk,yes,0.0477212377499,0.190884951
+Clarendon Street,2,3,secondary,yes,0.308021536653,0.92406460996
+Marlborough Street,2,1,residential,yes,0.20598590711,0.20598590711
+Fulkerson Street,1,2,tertiary,-1,0.385648843596,1.54259537438
+,,1,service,,0.0714554913107,0.142910982621
+,,1,service,,0.0315612114482,0.0631224228963
+,,1,service,,0.169333388249,0.338666776498
+,,1,service,,0.0624225847396,0.124845169479
+,,1,service,,0.206739264315,0.41347852863
+,,1,service,,0.092300093231,0.184600186462
+,,1,service,,0.102983288959,0.205966577918
+Galileo Galilei Way,2,3,secondary,yes,0.473366323938,1.42009897181
+Galileo Galilei Way,2,3,secondary,yes,0.00913833564468,0.027415006934
+Main Street,1,3,secondary,yes,0.0090332854449,0.0270998563347
+Main Street,1,3,secondary,yes,0.00874324983808,0.0262297495142
+Amherst Street,2,1,residential,,0.0264707665986,0.0529415331972
+Amherst Street,2,1,residential,,0.0037654322636,0.0075308645272
+Vassar Street,2,3,secondary,yes,0.00534538751932,0.016036162558
+Main Street,1,3,secondary,yes,0.0154052286124,0.0462156858371
+Vassar Street,2,3,secondary,yes,0.0065044814291,0.0195134442873
+Main Street,2,3,secondary,yes,0.27697627672,0.83092883016
+Main Street,1,3,secondary,yes,0.506102567705,1.51830770312
+Longfellow Bridge,2,4,trunk,yes,0.600769475834,2.40307790333
+Granby Street,2,1,residential,,0.0418410140338,0.0836820280676
+Beacon Street,4,3,secondary,yes,0.291737190547,0.87521157164
+Beacon Street,4,3,secondary,yes,0.0252274750498,0.0756824251495
+Wadsworth Street,2,1,residential,,0.131232278445,0.26246455689
+Back Street,1,1,residential,,0.922850882599,1.8457017652
+Storrow Drive,2,4,trunk,yes,0.199701246663,0.798804986651
+Memorial Drive,2,4,trunk,yes,0.120137330868,0.480549323471
+,2,4,trunk_link,yes,0.214168301375,0.856673205498
+Amherst Street,2,1,residential,,0.194089641129,0.388179282258
+Exeter Street,2,3,secondary,yes,0.632030884093,1.89609265228
+Saint James Avenue,2,3,secondary,yes,0.187997263515,0.563991790544
+Stuart Street,2,3,secondary,yes,0.391179079027,1.17353723708
+Charlesgate West,2,3,secondary,yes,0.188186575362,0.564559726085
+,2,4,trunk_link,yes,0.0072000831443,0.0288003325772
+David G. Mugar Way,2,3,secondary,yes,0.14179718212,0.425391546361
+Commonwealth Avenue,2,3,primary,yes,0.989756475287,2.96926942586
+,2,4,trunk_link,yes,0.362447933695,1.44979173478
+Main Street,2,3,secondary,yes,0.0280408768887,0.084122630666
+,2,4,trunk_link,yes,0.0259860721454,0.103944288581
+,1,3,primary_link,yes,0.0263172794594,0.0789518383782
+,1,3,primary_link,yes,0.0157868595457,0.0473605786371
+,,1,service,,0.0705635795596,0.141127159119
+Brimmer Street,2,1,residential,yes,0.195848673464,0.195848673464
+David G. Mugar Way,2,3,secondary,yes,0.0608924685212,0.182677405563
+Otis Place,2,1,residential,,0.0316737561425,0.0633475122849
+,,1,service,,0.0357905868908,0.0715811737816
+,,1,service,,0.145768096847,0.291536193693
+Longfellow Bridge,1,4,trunk,yes,0.59792434154,2.39169736616
+,,1,service,,0.0484304630916,0.0968609261833
+,,1,service,,0.0584378484493,0.116875696899
+,,1,service,,0.0241223793132,0.0482447586265
+,,1,service,,0.110623187065,0.22124637413
+Massachusetts Avenue,4,3,primary,,0.253047558762,1.51828535257
+,,1,service,yes,0.226159819186,0.226159819186
+Vassar Street,2,3,secondary,,0.33775799411,2.02654796466
+Elm Street,2,1,residential,yes,0.112274600165,0.112274600165
+,,1,service,,0.0387538672512,0.0775077345023
+,,1,service,yes,0.0790450736335,0.0790450736335
+,,1,service,yes,0.168178037467,0.168178037467
+,,1,service,,0.0339322699613,0.0678645399226
+,,1,service,yes,0.0154397166933,0.0154397166933
+,,1,service,yes,0.149487869491,0.149487869491
+,,1,service,no,0.0318380725689,0.0636761451378
+,,1,service,,0.0912381769607,0.182476353921
+,,1,service,no,0.0467172009156,0.0934344018312
+Spring Street,2,1,residential,-1,0.241899558926,0.483799117852
+,,1,service,,0.0136741554928,0.0273483109855
+,2,1,service,,0.0214338864254,0.0428677728508
+Back Street,1,1,residential,,0.343765326899,0.687530653798
+,,1,service,,0.00956323960313,0.0191264792063
+,,1,service,,0.0326088010456,0.0652176020912
+,,1,service,no,0.0294944250962,0.0589888501925
+,,1,service,no,0.185700381692,0.371400763384
+,,1,service,no,0.035524535562,0.0710490711241
+,,1,service,no,0.094407249179,0.188814498358
+,,1,service,no,0.0249950042736,0.0499900085472
+,,1,service,no,0.029459611296,0.0589192225919
+,,1,service,-1,0.0171132117596,0.0342264235191
+,,1,service,-1,0.0172575753999,0.0345151507997
+Vassar Street,2,3,secondary,,0.944948647787,5.66969188672
+,,1,service,,0.122376090449,0.244752180899
+,,1,service,,0.177487314846,0.354974629693
+Magazine Street,2,2,tertiary,,1.25333811112,5.01335244448
+,,1,service,yes,0.0171943814527,0.0171943814527
+,,1,pedestrian,,0.159214607616,0.318429215232
+Carlton Street,2,3,primary,yes,0.028877129267,0.086631387801
+Ames Street,2,2,tertiary,yes,0.170521844878,0.341043689756
+Ames Street,1,2,tertiary,yes,0.0203932363999,0.0407864727998
+Broadway,2,3,secondary,,0.834008239887,5.00404943932
+,,1,service,yes,0.0246342481459,0.0246342481459
+,,1,service,,0.024486403716,0.0489728074321
+,,1,service,yes,0.0243593910643,0.0243593910643
+Linskey Way,2,1,residential,,0.137808233125,0.275616466249
+Cummington Mall,2,1,service,yes,0.0227741313883,0.0227741313883
+River Street,2,3,secondary,yes,0.142907765366,0.428723296097
+River Street,2,3,secondary,yes,0.702372770477,2.10711831143
+,,1,service,,0.121158667067,0.242317334135
+,,1,service,,0.015597362832,0.031194725664
+,,1,service,,0.113711075622,0.227422151244
+,,1,service,yes,0.0248450716132,0.0248450716132
+,,1,service,yes,0.0254621243896,0.0254621243896
+,,1,service,,0.0615053685437,0.123010737087
+Massachusetts Avenue,3,3,primary,,0.137332071983,0.8239924319
+,,1,service,,0.0586082923682,0.117216584736
+Granby Street,2,1,residential,yes,0.0222508592932,0.0222508592932
+Arnold Circle,1,1,residential,,0.0493727011164,0.0987454022327
+Harold Place,1,1,residential,,0.0493799407016,0.0987598814032
+Rumeal Robinson Way,1,1,residential,,0.0203327066153,0.0406654132306
+Cardinal Medeiros Avenue,3,3,secondary,,0.0501544621256,0.300926772754
+Brookline Street,1,3,secondary,yes,1.22749641963,3.68248925889
+Lopez Avenue,2,1,residential,,0.153028287789,0.306056575577
+Scouting Way,1,1,residential,,0.126077282048,0.252154564097
+Plymouth Street,2,1,residential,yes,0.369516994467,0.369516994467
+Hancock Street,2,1,residential,yes,0.21984996857,0.21984996857
+Chestnut Street,1,1,residential,,0.63374653771,1.26749307542
+Hayward Street,2,1,residential,,0.174153141955,0.348306283911
+Harvard Street,2,2,tertiary,,0.224526778175,0.898107112699
+Pearl Street,1,2,tertiary,yes,1.24266089407,2.48532178814
+Soden Place,1,1,residential,,0.0288261142506,0.0576522285012
+Chestnut Street,1,1,residential,yes,0.123952835404,0.123952835404
+Pacific Street,2,1,residential,,0.156234112643,0.312468225286
+Bell Court,2,1,service,,0.0243823568748,0.0487647137496
+Saint Paul Street,,1,residential,,0.0166618313682,0.0333236627364
+,2,1,service,,0.121569524711,0.243139049422
+Galileo Galilei Way,2,3,secondary,yes,0.00842582659183,0.0252774797755
+Kinnaird Street,1,1,residential,yes,0.358184627232,0.358184627232
+Dickinson Street,1,1,residential,,0.16784482716,0.33568965432
+Perry Street,1,1,residential,yes,0.149515440573,0.149515440573
+Jay Street,2,1,residential,yes,0.141859635709,0.141859635709
+Hurley Street,2,1,residential,,0.65702254816,1.31404509632
+Hampshire Street,2,3,secondary,,1.20460463714,7.22762782283
+,1,1,service,yes,0.150698437304,0.150698437304
+Auburn Street,1,1,residential,yes,0.395344508944,0.395344508944
+Pacific Street,2,2,tertiary,no,0.246949300571,0.987797202285
+Bent Street,2,1,residential,yes,0.342892194333,0.342892194333
+Kinnaird Street,,1,residential,,0.0285116279789,0.0570232559578
+,,1,service,,0.0159760608186,0.0319521216371
+Amherst Street,,1,residential,,0.308638968014,0.617277936029
+,,1,residential,,0.0745470338652,0.14909406773
+,,1,service,,0.0718997719462,0.143799543892
+Washington Court,1,1,residential,,0.0545463649824,0.109092729965
+Allston Court,1,1,residential,,0.0326326159964,0.0652652319928
+Amherst Street,,1,residential,,0.143643459752,0.287286919504
+Wadsworth Street,2,1,residential,no,0.0863560514824,0.172712102965
+Fulkerson Street,2,2,tertiary,,0.216040397157,0.864161588629
+Rollins Court,1,1,residential,,0.0461826125356,0.0923652250712
+Osborn Street,2,1,residential,,0.230012556014,0.460025112028
+Moore Street,2,1,residential,,0.108143412591,0.216286825182
+Emmett Place,1,1,residential,,0.0600631765855,0.120126353171
+Marvin Place,1,1,residential,,0.0413065658443,0.0826131316887
+Columbia Terrace,2,1,residential,,0.0744180740685,0.148836148137
+Land Boulevard,2,4,trunk,yes,0.0420584038741,0.168233615497
+Danforth Street,2,1,residential,,0.0626618568568,0.125323713714
+Columbia Street,2,3,secondary,,1.14219377228,6.8531626337
+McTernan Street,1,1,residential,yes,0.149329577207,0.149329577207
+,1,4,trunk_link,yes,0.182701025637,0.730804102546
+Lee Street,2,1,residential,yes,0.408699264424,0.408699264424
+Tudor Street,2,1,residential,,0.152064641515,0.304129283031
+Massachusetts Avenue,3,3,primary,,0.571201066151,3.42720639691
+Speridakis Terrace,2,1,residential,,0.11719560314,0.234391206279
+Green Street,2,1,residential,yes,1.33919972336,1.33919972336
+Market Street,2,1,residential,,0.471197631749,0.942395263498
+Lawrence Street,1,1,residential,yes,0.14908820645,0.14908820645
+Davis Street,2,1,residential,,0.108757401035,0.217514802069
+Harvard Street,2,2,tertiary,yes,0.845771252015,1.69154250403
+Portsmouth Street,2,1,residential,yes,0.118492511546,0.118492511546
+Potter Street,2,1,residential,,0.122743433663,0.245486867326
+Prince Street,1,1,residential,yes,0.175680616818,0.175680616818
+Lopez Street,2,1,residential,yes,0.156928382914,0.156928382914
+Percy Place,1,1,residential,,0.0479016429775,0.095803285955
+Hamilton Street,2,1,residential,no,0.448491600526,0.896983201052
+Sellers Street,2,1,residential,yes,0.0817326714654,0.0817326714654
+Sixth Street,2,2,tertiary,,0.230067703602,0.92027081441
+Reardon Street,2,1,residential,,0.0624089453488,0.124817890698
+Bigelow Street,2,1,residential,yes,0.299660029191,0.299660029191
+Fifth Street,2,1,residential,,0.385315127676,0.770630255351
+Sidney Street,2,3,secondary,yes,0.0951364392572,0.285409317772
+Bishop Allen Drive,2,2,tertiary,,0.523041331329,2.09216532532
+Endicott Street,2,1,residential,,0.0645544194075,0.129108838815
+Cottage Court,1,1,residential,,0.0,0.0
+Fairmont Street,1,1,residential,yes,0.331329501098,0.331329501098
+,2,1,service,,0.0751538085832,0.150307617166
+,,1,service,no,0.183710587963,0.367421175925
+Windsor Street,2,1,residential,,0.203360501694,0.406721003387
+Second Street,2,1,residential,,0.76356926589,1.52713853178
+Richardson Street,1,1,residential,,0.081536636815,0.16307327363
+Vandine Street,2,1,residential,,0.106461697181,0.212923394363
+Austin Park,2,1,residential,,0.0701996931796,0.140399386359
+Third Street,2,3,secondary,,0.719185740424,4.31511444255
+Cherry Street,2,1,residential,yes,0.372725210093,0.372725210093
+Fiske Place,2,1,residential,,0.0499556865881,0.0999113731763
+Charles Street,2,2,tertiary,,0.834890875138,3.33956350055
+Bent Street,2,1,residential,,0.176715060627,0.353430121254
+,2,4,trunk_link,yes,0.0447859026464,0.179143610586
+Amesbury Street,2,1,residential,,0.173499204501,0.346998409002
+Ashburton Place,1,1,residential,,0.0494470377654,0.0988940755308
+Talbot Street,2,1,residential,,0.062669195723,0.125338391446
+Cambridgeside Place,,2,tertiary,,0.197882183025,0.7915287321
+Berkshire Place,1,1,residential,,0.0764775377497,0.152955075499
+Pine Street,2,1,residential,yes,0.328076796582,0.328076796582
+,1,4,trunk_link,yes,0.194388757922,0.777555031687
+Peters Street,2,1,residential,,0.102462836495,0.204925672989
+Berkshire Place,1,1,residential,,0.10756467533,0.215129350659
+Munroe Street,2,1,residential,yes,0.150811286862,0.150811286862
+Pleasant Place,2,1,residential,,0.107788518583,0.215577037167
+Broadway,2,3,secondary,yes,0.901347496794,2.70404249038
+Land Boulevard,2,4,trunk,yes,0.0244577899704,0.0978311598815
+Inman Street,2,1,unclassified,yes,0.315617951419,0.315617951419
+Pleasant Street,1,1,residential,yes,0.568566572732,0.568566572732
+Temple Street,2,1,residential,yes,0.111067867523,0.111067867523
+Bishop Allen Drive,2,2,tertiary,yes,0.177379546572,0.354759093144
+Purrington Street,2,1,service,no,0.272982536742,0.545965073484
+Suffolk Street,2,1,residential,yes,0.170863968061,0.170863968061
+Laurel Street,2,1,residential,,0.106776933923,0.213553867846
+Kinnaird Street,2,1,residential,,0.118648812217,0.237297624434
+Amherst Street,2,1,residential,no,0.266310070364,0.532620140728
+School Street,2,1,residential,yes,0.209823630346,0.209823630346
+Jay Street,2,1,residential,,0.205185000684,0.410370001368
+Salem Street,2,1,residential,yes,0.0912820749564,0.0912820749564
+Cambridge Parkway,2,1,residential,yes,0.687070319678,0.687070319678
+Union Street,2,1,residential,yes,0.337596549135,0.337596549135
+Portland Street,2,3,secondary,,0.550317680138,3.30190608083
+Lilac Court,1,1,residential,,0.115530110101,0.231060220202
+Fifth Street,2,1,residential,,0.228447028879,0.456894057759
+Third Street,2,3,secondary,,0.460488294444,2.76292976666
+Prospect Street,2,3,secondary,,0.0903083485103,0.541850091062
+Douglass Street,2,1,residential,yes,0.112039642257,0.112039642257
+Albany Street,2,3,secondary,,0.405177977515,2.43106786509
+Rogers Street,2,1,residential,yes,0.191185434598,0.191185434598
+Memorial Drive,4,4,trunk,,0.690480244461,5.52384195569
+Dorothy Doyle Way,2,1,residential,,0.0758784386547,0.151756877309
+Windsor Street,2,2,tertiary,yes,0.460029023738,0.920058047476
+Franklin Street,2,1,residential,yes,1.11665199039,1.11665199039
+Main Street,2,3,secondary,yes,0.24858844093,0.745765322789
+Webster Avenue,2,1,residential,,0.458413094649,0.916826189298
+Sixth Street,2,2,tertiary,,0.463625333217,1.85450133287
+,,1,service,,0.0613228837235,0.122645767447
+,,1,service,,0.054554101519,0.109108203038
+Rogers Street,2,1,residential,,0.505993482736,1.01198696547
+,,1,service,,0.094863580415,0.18972716083
+,,1,unclassified,,0.130844799252,0.261689598504
+Windsor Street,2,2,tertiary,,0.638952633961,2.55581053584
+,,1,service,,0.0442360542363,0.0884721084726
+,1,4,trunk_link,yes,0.198585063016,0.794340252065
+,,4,trunk_link,yes,0.0416530310196,0.166612124078
+,1,4,trunk_link,yes,0.199164074907,0.796656299627
+Ames Street,2,2,tertiary,no,0.0916305975579,0.366522390232
+,,1,service,,0.0596049418968,0.119209883794
+Saint Paul Street,2,1,residential,,0.140537812558,0.281075625115
+Putnam Court,2,1,residential,,0.034436732471,0.0688734649419
+Norfolk Court,1,1,residential,,0.0781372756765,0.156274551353
+Putnam Avenue,2,3,secondary,,0.758231129011,4.54938677407
+Kelly Road,1,1,residential,no,0.0895529579088,0.179105915818
+,,1,service,,0.151619630428,0.303239260855
+,,1,service,,0.10385004883,0.207700097659
+,,1,service,,0.0722995457972,0.144599091594
+Land Boulevard,2,4,trunk,yes,0.0502443544091,0.200977417636
+Henry Street,2,1,residential,,0.135491511237,0.270983022474
+Upton Street,1,1,residential,,0.165201932025,0.33040386405
+Sidney Street,2,3,secondary,yes,0.0463098103496,0.138929431049
+Rogers Street,1,1,residential,,0.247117635317,0.494235270633
+Bent Street,2,1,residential,,0.138929966616,0.277859933232
+Amherst Street,2,1,residential,yes,0.161694751251,0.161694751251
+William Street,1,1,residential,yes,0.283107102357,0.283107102357
+,1,4,trunk_link,yes,0.0424646735378,0.169858694151
+,2,4,trunk_link,yes,0.0774027276219,0.309610910487
+Amherst Street,,1,residential,yes,0.2044963435,0.2044963435
+Athenaeum Street,2,1,residential,,0.134916146204,0.269832292408
+Village Street,1,1,service,yes,0.0701061166162,0.0701061166162
+Memorial Drive,2,4,trunk,yes,0.213836513299,0.855346053197
+Sciarappa Street,2,1,residential,,0.384547111673,0.769094223346
+Dock Street,2,1,residential,,0.0635161756703,0.127032351341
+Worcester Street,2,1,residential,yes,0.166456300475,0.166456300475
+Decatur Street,1,1,residential,no,0.157432572227,0.314865144454
+Binney Street,2,1,residential,,0.258175890852,0.516351781703
+Cherry Court,1,1,residential,,0.0313934223387,0.0627868446775
+Crossland Street,1,1,residential,,0.0667042313987,0.133408462797
+Memorial Drive,2,4,trunk,yes,0.502966238897,2.01186495559
+Henry Street,1,1,residential,yes,0.164905395516,0.164905395516
+Binney Street,,1,residential,yes,0.0373626524449,0.0373626524449
+Cross Street,2,1,service,no,0.162020176864,0.324040353728
+Boardman Street,2,1,residential,,0.0972292420997,0.194458484199
+Hancock Street,2,1,residential,yes,0.398253971171,0.398253971171
+Washington Street,2,1,residential,yes,0.278425899325,0.278425899325
+First Street,2,2,tertiary,yes,0.148065100904,0.296130201808
+,3,4,trunk_link,yes,0.377256661695,1.50902664678
+Trinity Place,2,1,residential,yes,0.118814854706,0.118814854706
+Audrey Street,2,1,residential,,0.198973493388,0.397946986776
+Erie Street,2,3,secondary,no,0.136495883492,0.818975300955
+Pilgrim Street,1,1,service,no,0.105765673781,0.211531347562
+Land Boulevard,2,4,trunk,yes,0.737232440163,2.94892976065
+Carleton Street,2,1,residential,no,0.156424087505,0.31284817501
+Broad Canal Street,,1,residential,,0.228107188313,0.456214376627
+,1,4,trunk_link,yes,0.048257361776,0.193029447104
+David G. Mugar Way,2,3,secondary,yes,0.0932424965158,0.279727489547
+Vail Court,1,1,residential,,0.0859112540058,0.171822508012
+Fifth Street,2,1,residential,,0.103765642795,0.20753128559
+,,1,service,,0.153131351204,0.306262702408
+Sidney Place,,1,residential,yes,0.0758922090739,0.0758922090739
+Franklin Street,2,1,residential,yes,0.174645486565,0.174645486565
+,,1,service,,0.196725637318,0.393451274635
+,,1,service,,0.110047862489,0.220095724979
+Soden Street,1,1,residential,,0.156612228639,0.313224457278
+State Street,2,1,residential,yes,0.307194894715,0.307194894715
+Norfolk Terrace,1,1,residential,,0.0378453416575,0.0756906833151
+Grove Avenue,2,1,service,,0.103348876538,0.206697753077
+Waverly Street,2,3,secondary,,0.230046286182,1.38027771709
+Bristol Street,2,1,residential,,0.188449503653,0.376899007307
+Sidney Street,2,3,secondary,yes,0.646070109221,1.93821032766
+Erie Street,2,3,secondary,,0.133328963167,0.799973779004
+Eaton Street,2,1,residential,,0.0698312507341,0.139662501468
+Erie Street,2,1,residential,yes,0.310463142552,0.310463142552
+Elm Street,2,1,residential,yes,0.274686131997,0.274686131997
+Westacott Court,,1,residential,,0.0905181742252,0.18103634845
+Chalk Street,1,1,residential,yes,0.171474971818,0.171474971818
+Allston Street,2,1,residential,yes,0.542058691018,0.542058691018
+,,1,service,,0.0436797192428,0.0873594384855
+Storrow Drive,2,4,trunk,yes,1.38069868127,5.52279472508
+Bristol Street,2,1,residential,yes,0.171461594138,0.171461594138
+Public Alley 419,1,1,service,,0.18691563401,0.37383126802
+Lamson Place,1,1,residential,,0.0451174025107,0.0902348050213
+Acorn Street,2,1,residential,,0.104671130425,0.209342260851
+Smart Street,1,1,residential,,0.151032442333,0.302064884665
+Berkshire Street,2,1,residential,yes,0.427487299702,0.427487299702
+Prospect Street,2,3,secondary,,0.442594593077,2.65556755846
+Western Avenue,4,3,secondary,yes,0.254779583087,0.76433874926
+Massachusetts Avenue,4,3,primary,,0.851853158293,5.11111894976
+Massachusetts Avenue,4,3,primary,,0.147731375907,0.886388255443
+,,4,trunk_link,yes,0.0438315430643,0.175326172257
+Essex Street,2,1,residential,yes,0.265991136633,0.265991136633
+,,1,unclassified,,0.141287302691,0.282574605383
+,,1,residential,,0.0796442305916,0.159288461183
+Cottage Street,1,1,residential,yes,0.316953600276,0.316953600276
+Washington Street,2,1,residential,yes,0.392248253082,0.392248253082
+,,1,service,,0.125002536066,0.250005072132
+,,1,service,,0.130651084263,0.261302168525
+Pleasant Street,1,3,secondary,yes,0.195589230816,0.586767692448
+,,1,service,,0.146986593148,0.293973186297
+Land Boulevard,2,4,trunk,yes,0.16868530109,0.674741204358
+Henry Street,2,1,residential,,0.117056533326,0.234113066653
+Museum Way,,1,residential,,0.0186193919922,0.0372387839844
+Watson Street,2,1,residential,yes,0.151618059967,0.151618059967
+Valentine Street,1,1,residential,no,0.159833515637,0.319667031274
+Linskey Way,2,1,residential,,0.2307851643,0.461570328601
+Essex Street,2,2,tertiary,yes,0.112163304816,0.224326609632
+Clinton Street,2,1,residential,yes,0.278507496767,0.278507496767
+,2,4,trunk_link,yes,0.0843187155746,0.337274862298
+Landsdowne Street,2,2,tertiary,no,0.398915527382,1.59566210953
+Emily Street,2,1,residential,yes,0.147671344648,0.147671344648
+Hastings Square,2,1,residential,,0.102568699781,0.205137399563
+Public Alley 441,1,1,service,,0.20087261127,0.401745222541
+Public Alley 418,1,1,service,,0.189115955428,0.378231910855
+Clarendon Street,2,3,secondary,yes,0.517732585635,1.55319775691
+Main Street,2,3,secondary,,0.0352580179502,0.211548107701
+Marlborough Street,2,1,residential,yes,1.2866233538,1.2866233538
+Public Alley 426,1,1,service,,0.201083423914,0.402166847828
+West Hill Place,2,1,residential,,0.0439515594832,0.0879031189664
+Fairfield Street,2,1,residential,yes,0.421474831747,0.421474831747
+Public Alley 431,1,1,service,,0.132943688447,0.265887376894
+Green Street,2,1,residential,yes,0.184325391455,0.184325391455
+Granby Street,2,1,residential,yes,0.0965693990864,0.0965693990864
+Public Alley 416,1,1,service,yes,0.170980683986,0.170980683986
+David G. Mugar Way,,1,residential,,0.0915899248259,0.183179849652
+Beaver Street,2,1,residential,,0.0604410401426,0.120882080285
+Lime Street,2,1,residential,yes,0.112533115754,0.112533115754
+Chestnut Street,2,1,residential,yes,0.227133263927,0.227133263927
+,1,4,trunk_link,yes,0.228176797376,0.912707189503
+,1,3,primary_link,yes,0.0508757368114,0.152627210434
+Beacon Street,4,3,secondary,yes,0.343402302237,1.03020690671
+Otis Place,2,1,residential,,0.0291828369586,0.0583656739171
+Sidney Street Extension,2,3,secondary,no,0.0491810494692,0.295086296815
+,1,3,secondary_link,yes,0.0408157854964,0.122447356489
+Public Alley 427,1,1,service,,0.17106460801,0.342129216019
+Public Alley 423,1,1,service,,0.188105185866,0.376210371732
+Commonwealth Avenue,2,3,primary,yes,1.74656957092,5.23970871277
+Public Alley 417,1,1,service,,0.20115546933,0.40231093866
+Amherst Street,2,1,residential,,0.0318779956183,0.0637559912366
+,2,4,trunk_link,yes,0.276175872974,1.1047034919
+Public Alley 440,1,1,service,,0.188065767268,0.376131534536
+Public Alley 908,1,1,service,,0.181133896506,0.362267793012
+Raleigh Street,1,1,residential,,0.0741879268461,0.148375853692
+Revere Street,2,1,residential,yes,0.474917122073,0.474917122073
+,2,3,secondary_link,yes,0.0309731622069,0.0929194866207
+Public Alley 435,1,1,service,,0.187521820397,0.375043640794
+,,3,primary_link,yes,0.0480421687877,0.144126506363
+,,1,service,,0.428818750886,0.857637501773
+Bay State Road,2,2,tertiary,yes,0.619561907337,1.23912381467
+Magazine Street,2,1,service,,0.0503323228738,0.100664645748
+Blanche Street,1,1,residential,yes,0.0824255469557,0.0824255469557
+Franklin Street,2,1,residential,yes,0.159823513966,0.159823513966
+Pinckney Street,2,1,residential,yes,0.595434355074,0.595434355074
+Boylston Street,3,3,secondary,yes,1.24703688389,3.74111065167
+,1,4,trunk_link,yes,0.0844595235717,0.337838094287
+Beaver Place,2,1,residential,yes,0.140824604328,0.140824604328
+,1,4,trunk_link,yes,0.167586950284,0.670347801137
+Brimmer Street,2,1,residential,yes,0.151573553573,0.151573553573
+Embankment Road,3,4,trunk,yes,0.81001435838,3.24005743352
+Public Alley 421,1,1,service,,0.206021261254,0.412042522508
+Public Alley 434,1,1,service,,0.188368885754,0.376737771507
+Hinsdale Mall,2,1,service,,0.0815976113842,0.163195222768
+Back Street,1,1,residential,,0.144555928049,0.289111856099
+Public Alley 429,1,1,service,,0.217804079258,0.435608158515
+Auburn Street,1,1,residential,yes,0.0553118404381,0.0553118404381
+Pleasant Street,2,1,residential,no,0.0205234004144,0.0410468008287
+Hereford Street,2,3,secondary,yes,0.422752370891,1.26825711267
+Exeter Street,2,1,residential,,0.060727424783,0.121454849566
+,4,4,trunk_link,yes,0.198342364884,0.793369459535
+Charlesgate East,2,3,secondary,yes,0.235906027568,0.707718082705
+Dartmouth Street,2,1,residential,yes,0.0598514192116,0.0598514192116
+,1,4,trunk_link,yes,0.112237930978,0.448951723914
+Storrow Drive,3,4,trunk,yes,1.55270592417,6.21082369669
+Deerfield Street,2,1,residential,,0.186616965144,0.373233930288
+Massachusetts Turnpike,4,4,motorway,yes,0.30741955932,1.22967823728
+Saint Mary's Street,2,2,tertiary,yes,0.0537248091659,0.107449618332
+Public Alley 433,1,1,service,,0.200952091152,0.401904182304
+,,1,service,,0.253051689651,0.506103379303
+Public Alley 415,1,1,service,yes,0.132490755992,0.132490755992
+Public Alley 438,1,1,service,,0.207994891144,0.415989782289
+Charles River Square,2,1,residential,,0.0659075016136,0.131815003227
+Massachusetts Turnpike,4,4,motorway,yes,0.263734901735,1.05493960694
+Newbury Street,1,2,tertiary,yes,1.49434610016,2.98869220031
+Dartmouth Street,2,2,tertiary,yes,0.42154576744,0.84309153488
+Silber Way,2,2,tertiary,,0.106051068548,0.424204274192
+,1,4,trunk_link,yes,0.0580226590972,0.232090636389
+,,1,residential,,0.01744606552,0.0348921310401
+Silber Way,2,1,residential,,0.0498450530305,0.099690106061
+Public Alley 439,1,1,service,,0.187755246945,0.375510493891
+Public Alley 420,1,1,service,,0.188118481354,0.376236962708
+Commonwealth Avenue,3,3,primary,yes,0.158849180623,0.476547541869
+Embankment Road,3,4,trunk,yes,0.897888342192,3.59155336877
+Public Alley 425,1,1,service,,0.188845076387,0.377690152774
+Public Alley 422,1,1,service,,0.205984851874,0.411969703748
+Public Alley 437,1,1,service,,0.207322633798,0.414645267596
+Public Alley 414,1,1,service,yes,0.217848229889,0.217848229889
+Back Street,1,1,residential,,0.247429230764,0.494858461528
+Saint James Avenue,2,3,primary,yes,0.18679204624,0.56037613872
+,,1,service,,0.0507951540542,0.101590308108
+,,1,service,,0.192712314871,0.385424629741
+Marlborough Street,2,1,residential,yes,0.212389327077,0.212389327077
+Mount Vernon Street,2,1,residential,,0.53804558844,1.07609117688
+Public Alley 428,1,1,service,,0.132665267059,0.265330534118
+University Road,2,3,primary,,0.105295948831,0.631775692985
+Memorial Drive,2,4,trunk,yes,0.187606681055,0.750426724218
+,3,4,trunk_link,yes,0.107920176193,0.431680704771
+Public Alley 424,1,1,service,,0.187134755122,0.374269510243
+Public Alley 432,1,1,service,,0.171125403444,0.342250806888
+,1,4,trunk_link,yes,0.13725824059,0.549032962361
+Bay State Road,2,1,residential,yes,0.255191466745,0.255191466745
+,1,1,residential,yes,0.208472417756,0.208472417756
+Hereford Street,2,1,residential,,0.0599563623045,0.119912724609
+Clarendon Street,1,3,secondary,yes,0.0607090238455,0.182127071537
+Public Alley 436,1,1,service,,0.188071187252,0.376142374503
+Commonwealth Avenue,2,3,primary_link,yes,0.154767123241,0.464301369722
+Storrow Drive,2,4,trunk,yes,0.391850545522,1.56740218209
+Sidney Street,2,3,secondary,no,0.376985382736,2.26191229642
+Gloucester Street,2,1,residential,,0.0606685157856,0.121337031571
+Beacon Street,4,3,secondary,,0.0293403848139,0.176042308883
+Babbitt Street,2,1,service,,0.130111924629,0.260223849258
+Saint James Avenue,2,3,secondary,,0.207640516316,1.2458430979
+,2,4,trunk_link,yes,0.0487461329131,0.194984531652
+,,1,service,,0.254609552589,0.509219105179
+Massachusetts Turnpike,4,4,motorway,yes,0.348864592471,1.39545836989
+Longfellow Bridge,2,4,trunk,yes,0.0454204795698,0.181681918279
+,,1,service,,0.0349124690038,0.0698249380076
+,1,4,trunk_link,yes,0.18706669131,0.748266765242
+Vassar Street,2,3,secondary,,0.493241949051,2.95945169431
+Massachusetts Avenue,4,3,primary,,0.00725715135122,0.0435429081073
+Harvard Bridge,4,3,primary,,0.61378859666,3.68273157996
+Binney Street,2,3,secondary,yes,0.799858924475,2.39957677343
+,1,4,trunk_link,yes,0.0633768609275,0.25350744371
+Memorial Drive,2,4,trunk,yes,0.122965153142,0.49186061257
+Memorial Drive,2,4,trunk,yes,0.183711208079,0.734844832315
+Memorial Drive,2,4,trunk,yes,0.182721776723,0.730887106894
+Massachusetts Avenue,4,3,primary,,0.464656113598,2.78793668159
+,2,1,service,,0.0361503682743,0.0723007365486
+Waverly Street,1,3,secondary,yes,0.470845280876,1.41253584263
+Back Street,1,1,residential,yes,0.184896208675,0.184896208675
+,,1,service,,0.0090436141596,0.0180872283192
+,,1,service,,0.0445341072152,0.0890682144304
+Pilgrim Street,,1,residential,no,0.0679911747122,0.135982349424
+,2,1,service,yes,0.0359604738844,0.0359604738844
+,1,3,primary_link,yes,0.131091973532,0.393275920595
+Norfolk Street,2,1,residential,yes,0.118090797895,0.118090797895
+,,1,service,,0.19184132839,0.383682656779
+,1,4,trunk_link,yes,0.153260268186,0.613041072746
+,,1,service,,0.0290599848532,0.0581199697063
+,,1,service,,0.116700352085,0.233400704171
+,1,3,primary_link,yes,0.0586288873405,0.175886662022
+,1,3,primary_link,yes,0.179162925905,0.537488777714
+Carlton Street,1,3,primary,yes,0.069922192996,0.209766578988
+,,1,service,,0.0682874681927,0.136574936385
+Norfolk Street,2,1,residential,yes,0.404527296083,0.404527296083
+,,1,service,,0.0190525247328,0.0381050494656
+,,1,service,,0.0457173248903,0.0914346497807
+Brookline Place,,1,residential,yes,0.220252310274,0.220252310274
+,,1,service,,0.0529665936066,0.105933187213
+Storrow Drive,2,4,trunk,yes,1.17019115627,4.68076462509
+Land Boulevard,2,4,trunk,yes,0.0547392998961,0.218957199584
+Edwin H. Land Boulevard,2,4,trunk,yes,0.0761223123243,0.304489249297
+Front Street,2,1,residential,yes,0.0710687561183,0.0710687561183
+,,1,service,,0.32990032733,0.659800654659
+Main Street,1,3,secondary,yes,0.143831298067,0.4314938942
+Allston Street,2,1,residential,no,0.0667710516822,0.133542103364
+,,1,service,,0.0131479735355,0.026295947071
+,,1,service,,0.101480210763,0.202960421526
+,,1,service,,0.0816225918892,0.163245183778
+Berkeley Street,4,3,secondary,yes,0.797317175944,2.39195152783
+Broadway,2,3,secondary,yes,0.623119036615,1.86935710984
+,,1,service,,0.175496279532,0.350992559065
+Land Boulevard,2,4,trunk,yes,0.0536314947837,0.214525979135
+Ames Street,2,2,tertiary,no,0.287085532728,1.14834213091
+,,1,service,,0.124622165907,0.249244331815
+Saint Mary's Street,2,2,tertiary,,0.0233370558281,0.0933482233122
+West Kendall Street,,1,unclassified,,0.0754834257603,0.150966851521
+Carlton Street,2,3,primary,yes,0.0602752535033,0.18082576051
+,,1,service,,0.059901321328,0.119802642656
+,1,4,trunk_link,yes,0.147016575226,0.588066300905
+,,1,service,,0.0792345761501,0.1584691523
+,,1,service,,0.063381698051,0.126763396102
+Cummington Mall,2,1,service,yes,0.0537610407453,0.0537610407453
+Saint Mary's Street,2,2,tertiary,yes,0.0326157750675,0.0652315501351
+Back Street,1,1,residential,,0.603738070885,1.20747614177
+,,1,service,,0.0240061079294,0.0480122158588
+,,1,service,,0.049790488553,0.0995809771061
+,1,4,trunk_link,yes,0.0419936251943,0.167974500777
+Clark Street,2,1,residential,,0.225588845026,0.451177690053
+,,1,service,,0.155745905634,0.311491811268
+,,1,service,,0.0442762800476,0.0885525600952
+,,1,service,,0.0647291556862,0.129458311372
+Norfolk Street,2,1,residential,yes,0.303123386919,0.303123386919
+,1,4,trunk_link,yes,0.0422332429414,0.168932971766
+,1,4,trunk_link,yes,0.152000680717,0.60800272287
+Embankment Road,2,4,trunk,yes,0.190574750252,0.762299001007
+,,1,service,yes,0.0690271204758,0.0690271204758
+,,1,service,yes,0.0583591793136,0.0583591793136
+Pilgrim Street,2,1,residential,,0.0592818285982,0.118563657196
+Pilgrim Street,,1,residential,no,0.0409762289445,0.0819524578891
+Albany Street,2,3,secondary,,0.717380222571,4.30428133543
+,,1,service,yes,0.0722435738842,0.0722435738842
+,2,4,trunk_link,yes,0.161258000281,0.645032001126
+Massachusetts Avenue,4,3,primary,,0.0195262569106,0.117157541464
+Land Boulevard,2,4,trunk,yes,0.181724043448,0.726896173794
+,,1,service,,0.0379673472887,0.0759346945773
+Gloucester Street,2,1,residential,yes,0.421769451146,0.421769451146
+Fairfield Street,2,1,residential,,0.0606092358913,0.121218471783
+,,1,service,,0.218896628466,0.437793256932
+Fort Washington Place,1,1,residential,,0.0773584652054,0.154716930411
+,2,3,secondary_link,yes,0.0303453652754,0.0910360958263
+,,1,service,,0.277446591131,0.554893182261
+,2,4,trunk_link,yes,0.231714392481,0.926857569925
+Storrow Drive,2,4,trunk,yes,0.201295067946,0.805180271782
+,2,4,trunk_link,yes,0.116668894013,0.466675576054
+Storrow Drive,3,4,trunk,yes,1.0290495692,4.11619827679
+,2,4,trunk_link,yes,0.156703239677,0.626812958709
+,,1,service,,0.142819420851,0.285638841701
+Arlington Street,3,3,secondary,yes,0.170937666667,0.512813000002
+Beacon Street,4,3,secondary,yes,0.0437667774136,0.131300332241
+Beacon Street,4,3,secondary,yes,0.175994580594,0.527983741782
+Broadway,2,3,secondary,,0.221684551909,1.33010731146
+Binney Street,2,3,secondary,yes,0.086233134824,0.258699404472
+,2,4,trunk_link,yes,0.120394113283,0.481576453132
+,1,4,trunk_link,yes,0.157189531676,0.628758126706
+Bowker Overpass,2,4,trunk,yes,0.223339931378,0.893359725511
+,,1,service,,0.0597613106827,0.119522621365
+,2,4,trunk_link,yes,0.225106194974,0.900424779895
+Commonwealth Avenue,2,3,primary,yes,1.75335600102,5.26006800306
+Massachusetts Avenue,4,3,primary,,0.0306818544801,0.18409112688
+,,1,service,,0.107240332767,0.214480665533
+Land Boulevard,2,4,trunk,yes,0.0926110566756,0.370444226702
+First Street,2,2,tertiary,yes,0.0620192444536,0.124038488907
+Longfellow Bridge,2,4,trunk,yes,0.0719418817623,0.287767527049
+,1,4,trunk_link,yes,0.145383509158,0.581534036631
+,2,4,trunk_link,yes,0.221892114573,0.887568458293
+Storrow Drive,1,4,trunk,yes,0.529574960451,2.11829984181
+,2,4,trunk_link,yes,0.132247156962,0.52898862785
+,2,4,trunk_link,yes,0.148490703654,0.593962814614
+,2,4,trunk_link,yes,0.0607918809427,0.243167523771
+Land Boulevard,2,4,trunk,yes,0.0521782223292,0.208712889317
+Land Boulevard,2,4,trunk,yes,0.0382169086774,0.15286763471
+Bowker Overpass,2,4,trunk,yes,0.250246914134,1.00098765653
+Land Boulevard,2,4,trunk,yes,0.0430392940454,0.172157176182
+Public Alley 905,1,1,service,,0.0826558002207,0.165311600441
+Massachusetts Avenue,4,3,primary,,0.0195498569798,0.117299141879
+River Street,2,3,secondary,yes,0.029631050605,0.088893151815
+Deacon Street,2,1,residential,,0.0776970647545,0.155394129509
+Cambridge Street,2,3,primary,yes,0.0687954645908,0.206386393772
+Binney Street,2,1,residential,yes,0.0263875679454,0.0263875679454
+Raleigh Street,2,1,residential,yes,0.0498727700738,0.0498727700738
+Land Boulevard,2,4,trunk,yes,0.310985220879,1.24394088352
+,1,4,trunk_link,yes,0.208626848428,0.834507393711
+,2,4,trunk_link,yes,0.0701726891766,0.280690756706
+Berkeley Street,1,3,secondary,yes,0.0603081694578,0.180924508374
+Land Boulevard,2,4,trunk,yes,0.0198907303914,0.0795629215656
+Land Boulevard,2,4,trunk,yes,0.0533665313026,0.21346612521
+Land Boulevard,2,4,trunk,yes,0.0787808101882,0.315123240753
+Dartmouth Street,4,3,secondary,yes,0.173163214816,0.519489644449
+Galileo Galilei Way,2,3,secondary,yes,0.487595386133,1.4627861584
+,2,4,trunk_link,yes,0.0718740158752,0.287496063501
+Beacon Street,4,3,secondary,yes,1.34239385947,4.02718157842
+Massachusetts Avenue,4,3,primary,,0.015838499792,0.0950309987517
+Edwin H. Land Boulevard,2,4,trunk,yes,0.0894555572037,0.357822228815
+,,1,service,,0.0804920754655,0.160984150931
+,,1,service,yes,0.0251921501495,0.0251921501495
+,,1,service,yes,0.0251656091686,0.0251656091686
+,,1,service,,0.0318278761657,0.0636557523314
+Memorial Drive,2,4,trunk,yes,0.198135548743,0.792542194974
+Memorial Drive,2,4,trunk,yes,0.11744223824,0.469768952958
+Memorial Drive,2,4,trunk,yes,0.198224262633,0.792897050533
+Memorial Drive,2,4,trunk,yes,0.565136795739,2.26054718296
+Athenaeum Street,2,1,unclassified,no,0.247504449316,0.495008898631
+Binney Street,2,3,secondary,yes,0.0808814579601,0.24264437388
+Kendall Street,,1,unclassified,-1,0.201251484638,0.402502969275
+Binney Street,2,3,secondary,yes,0.804822255265,2.41446676579
+,,1,service,,0.0941425534013,0.188285106803
+First Street,2,2,tertiary,,0.624709853445,2.49883941378
+,,1,service,,0.0587488286676,0.117497657335
+,,1,service,,0.0556156649412,0.111231329882
+,,1,service,,0.0589492189745,0.117898437949
+,,1,service,,0.00889293782149,0.017785875643
+,,1,service,,0.0249062547104,0.0498125094208
+,,1,service,,0.00432917809711,0.00865835619422
+,,1,service,,0.00435018485931,0.00870036971863
+,1,4,trunk_link,yes,0.0378529816035,0.151411926414
+,,1,service,,0.0776690209086,0.155338041817
+Main Street,2,3,secondary,,0.768382240927,4.61029344556
+,,1,service,,0.0185484392111,0.0370968784221
+,,1,service,,0.0556701165282,0.111340233056
+,,1,service,,0.0559650979763,0.111930195953
+,,1,service,,0.0411257967567,0.0822515935135
+,,1,service,,0.020040060048,0.040080120096
+,,1,service,,0.0563135634189,0.112627126838
+,,1,service,,0.0336830461457,0.0673660922913
+,,1,service,,0.0547533861285,0.109506772257
+,,1,service,,0.258952808179,0.517905616358
+,,1,service,,0.0927138726613,0.185427745323
+,,1,service,,0.0645362490066,0.129072498013
+,,1,service,,0.0176143573329,0.0352287146659
+,,1,service,,0.0614640066176,0.122928013235
+,,1,service,,0.0738032953131,0.147606590626
+,,1,service,,0.0607746187867,0.121549237573
+Land Boulevard,2,4,trunk,yes,0.638639335338,2.55455734135
+Western Avenue,4,3,secondary,yes,0.769045027447,2.30713508234
+Back Street,1,1,residential,,0.00781192574277,0.0156238514855
+Memorial Drive,2,4,trunk,yes,0.510516535878,2.04206614351
+Memorial Drive,2,4,trunk,yes,0.0254337527387,0.101735010955
+Ames Street,1,2,tertiary,yes,0.174693732715,0.349387465429
+Ames Street,2,2,tertiary,yes,0.0201687869663,0.0403375739325
+Main Street,1,3,secondary,yes,0.0144021879931,0.0432065639792
+Main Street,,3,secondary,yes,0.266248294913,0.798744884738
+Memorial Drive,2,4,trunk,yes,0.598740387476,2.3949615499
+,,3,secondary_link,yes,0.101361418358,0.304084255075
+,,1,service,,0.029138667001,0.0582773340021
+,,1,service,,0.0751427924676,0.150285584935
+,,1,service,,0.0176315667326,0.0352631334651
+,,1,service,,0.139774563689,0.279549127378
+,,1,service,,0.045942850183,0.091885700366
+,,1,service,,0.0369047350088,0.0738094700177
+,,1,service,,0.0640563218931,0.128112643786
+,,1,service,,0.166741389012,0.333482778024
+,,1,service,,0.0202377523313,0.0404755046625
+,,1,service,,0.044253281842,0.088506563684
+,,1,service,,0.128251081124,0.256502162249
+,,1,service,,0.0177074699271,0.0354149398542
+Cottage Court,,1,residential,,0.0418729401764,0.0837458803528
+,,1,service,,0.0108696083058,0.0217392166116
+Waverly Street,2,3,secondary,,0.0175013098138,0.105007858883
+,,1,service,,0.070082737152,0.140165474304
+Cardinal Medeiros Avenue,2,3,secondary,,0.652852691625,3.91711614975
+,,1,service,,0.0258865905262,0.0517731810525
+,,1,service,,0.12311113405,0.246222268099
+,,1,service,,0.0627709911825,0.125541982365
+,,1,service,,0.0160626372954,0.0321252745909
+Pleasant Street,1,1,residential,yes,0.131588285364,0.131588285364
+Erie Street,2,3,secondary,yes,0.0287862096675,0.0863586290024
+Kelly Road,1,1,residential,yes,0.167799891384,0.167799891384
+,,1,service,,0.0885754284875,0.177150856975
+Massachusetts Avenue,4,3,primary,,0.0114529726869,0.0687178361216
+Monsignor O'Brien Highway,3,4,trunk,yes,0.388959096372,1.55583638549
+,1,4,trunk_link,yes,0.0479137488831,0.191654995532
+Commonwealth Avenue,2,3,primary,yes,1.05763811968,3.17291435904
+,,1,service,,0.0977256588119,0.195451317624
+,1,4,trunk_link,yes,0.215474854057,0.861899416229
+,1,4,trunk_link,yes,0.0496840919084,0.198736367634
+,,1,service,,0.0830354782285,0.166070956457
+Longfellow Bridge,1,4,trunk,yes,0.0477212377499,0.190884951
+Clarendon Street,2,3,secondary,yes,0.308021536653,0.92406460996
+Marlborough Street,2,1,residential,yes,0.20598590711,0.20598590711
+Fulkerson Street,1,2,tertiary,-1,0.385648843596,1.54259537438
+,,1,service,,0.0714554913107,0.142910982621
+,,1,service,,0.0315612114482,0.0631224228963
+,,1,service,,0.169333388249,0.338666776498
+,,1,service,,0.0624225847396,0.124845169479
+,,1,service,,0.206739264315,0.41347852863
+,,1,service,,0.092300093231,0.184600186462
+,,1,service,,0.102983288959,0.205966577918
+Galileo Galilei Way,2,3,secondary,yes,0.473366323938,1.42009897181
+Galileo Galilei Way,2,3,secondary,yes,0.00913833564468,0.027415006934
+Main Street,1,3,secondary,yes,0.0090332854449,0.0270998563347
+Main Street,1,3,secondary,yes,0.00874324983808,0.0262297495142
+Amherst Street,2,1,residential,,0.0264707665986,0.0529415331972
+Amherst Street,2,1,residential,,0.0037654322636,0.0075308645272
+Vassar Street,2,3,secondary,yes,0.00534538751932,0.016036162558
+Main Street,1,3,secondary,yes,0.0154052286124,0.0462156858371
+Vassar Street,2,3,secondary,yes,0.0065044814291,0.0195134442873
+Main Street,2,3,secondary,yes,0.27697627672,0.83092883016
+Main Street,1,3,secondary,yes,0.506102567705,1.51830770312
+Longfellow Bridge,2,4,trunk,yes,0.600769475834,2.40307790333
+Granby Street,2,1,residential,,0.0418410140338,0.0836820280676
+Beacon Street,4,3,secondary,yes,0.291737190547,0.87521157164
+Beacon Street,4,3,secondary,yes,0.0252274750498,0.0756824251495
+Wadsworth Street,2,1,residential,,0.131232278445,0.26246455689
+Back Street,1,1,residential,,0.922850882599,1.8457017652
+Storrow Drive,2,4,trunk,yes,0.199701246663,0.798804986651
+Memorial Drive,2,4,trunk,yes,0.120137330868,0.480549323471
+,2,4,trunk_link,yes,0.214168301375,0.856673205498
+Amherst Street,2,1,residential,,0.194089641129,0.388179282258
+Exeter Street,2,3,secondary,yes,0.632030884093,1.89609265228
+Saint James Avenue,2,3,secondary,yes,0.187997263515,0.563991790544
+Stuart Street,2,3,secondary,yes,0.391179079027,1.17353723708
+Charlesgate West,2,3,secondary,yes,0.188186575362,0.564559726085
+,2,4,trunk_link,yes,0.0072000831443,0.0288003325772
+David G. Mugar Way,2,3,secondary,yes,0.14179718212,0.425391546361
+Commonwealth Avenue,2,3,primary,yes,0.989756475287,2.96926942586
+,2,4,trunk_link,yes,0.362447933695,1.44979173478
+Main Street,2,3,secondary,yes,0.0280408768887,0.084122630666
+,2,4,trunk_link,yes,0.0259860721454,0.103944288581
+,1,3,primary_link,yes,0.0263172794594,0.0789518383782
+,1,3,primary_link,yes,0.0157868595457,0.0473605786371
+,,1,service,,0.0705635795596,0.141127159119
+Brimmer Street,2,1,residential,yes,0.195848673464,0.195848673464
+David G. Mugar Way,2,3,secondary,yes,0.0608924685212,0.182677405563
+Otis Place,2,1,residential,,0.0316737561425,0.0633475122849
+,,1,service,,0.0357905868908,0.0715811737816
+,,1,service,,0.145768096847,0.291536193693
+Longfellow Bridge,1,4,trunk,yes,0.59792434154,2.39169736616
+,,1,service,,0.0484304630916,0.0968609261833
+,,1,service,,0.0584378484493,0.116875696899
+,,1,service,,0.0241223793132,0.0482447586265
+,,1,service,,0.110623187065,0.22124637413
+Massachusetts Avenue,4,3,primary,,0.253047558762,1.51828535257
+,,1,service,yes,0.226159819186,0.226159819186
+Vassar Street,2,3,secondary,,0.33775799411,2.02654796466
+Elm Street,2,1,residential,yes,0.112274600165,0.112274600165
+,,1,service,,0.0387538672512,0.0775077345023
+,,1,service,yes,0.0790450736335,0.0790450736335
+,,1,service,yes,0.168178037467,0.168178037467
+,,1,service,,0.0339322699613,0.0678645399226
+,,1,service,yes,0.0154397166933,0.0154397166933
+,,1,service,yes,0.149487869491,0.149487869491
+,,1,service,no,0.0318380725689,0.0636761451378
+,,1,service,,0.0912381769607,0.182476353921
+,,1,service,no,0.0467172009156,0.0934344018312
+Spring Street,2,1,residential,-1,0.241899558926,0.483799117852
+,,1,service,,0.0136741554928,0.0273483109855
+,2,1,service,,0.0214338864254,0.0428677728508
+Back Street,1,1,residential,,0.343765326899,0.687530653798
+,,1,service,,0.00956323960313,0.0191264792063
+,,1,service,,0.0326088010456,0.0652176020912
+,,1,service,no,0.0294944250962,0.0589888501925
+,,1,service,no,0.185700381692,0.371400763384
+,,1,service,no,0.035524535562,0.0710490711241
+,,1,service,no,0.094407249179,0.188814498358
+,,1,service,no,0.0249950042736,0.0499900085472
+,,1,service,no,0.029459611296,0.0589192225919
+,,1,service,-1,0.0171132117596,0.0342264235191
+,,1,service,-1,0.0172575753999,0.0345151507997
+Vassar Street,2,3,secondary,,0.944948647787,5.66969188672
+,,1,service,,0.122376090449,0.244752180899
+,,1,service,,0.177487314846,0.354974629693
+Magazine Street,2,2,tertiary,,1.25333811112,5.01335244448
+,,1,service,yes,0.0171943814527,0.0171943814527
+,,1,pedestrian,,0.159214607616,0.318429215232
+Carlton Street,2,3,primary,yes,0.028877129267,0.086631387801
+Ames Street,2,2,tertiary,yes,0.170521844878,0.341043689756
+Ames Street,1,2,tertiary,yes,0.0203932363999,0.0407864727998
+Broadway,2,3,secondary,,0.834008239887,5.00404943932
+,,1,service,yes,0.0246342481459,0.0246342481459
+,,1,service,,0.024486403716,0.0489728074321
+,,1,service,yes,0.0243593910643,0.0243593910643
+Linskey Way,2,1,residential,,0.137808233125,0.275616466249
+Cummington Mall,2,1,service,yes,0.0227741313883,0.0227741313883
+River Street,2,3,secondary,yes,0.142907765366,0.428723296097
+River Street,2,3,secondary,yes,0.702372770477,2.10711831143
+,,1,service,,0.121158667067,0.242317334135
+,,1,service,,0.015597362832,0.031194725664
+,,1,service,,0.113711075622,0.227422151244
+,,1,service,yes,0.0248450716132,0.0248450716132
+,,1,service,yes,0.0254621243896,0.0254621243896
+,,1,service,,0.0615053685437,0.123010737087
+Massachusetts Avenue,3,3,primary,,0.137332071983,0.8239924319
+,,1,service,,0.0586082923682,0.117216584736
+Granby Street,2,1,residential,yes,0.0222508592932,0.0222508592932
