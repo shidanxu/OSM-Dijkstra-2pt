@@ -93,10 +93,11 @@ def parseWays(ways):
 					# Uncomment this line to see which highway type is not included
 					# print description['highway']
 			
-			mapping[id] = [name, lanes, road_capacity_from_conversion, highway, oneway]
+			mapping[id] = [id, name, lanes, road_capacity_from_conversion, highway, oneway]
 
 			if coordinates[0] in reference:
 				current_point = reference[coordinates[0]][1]
+				starting_point = current_point
 			else:
 				print "MISSING"
 				break
@@ -120,11 +121,12 @@ def parseWays(ways):
 						last_point = current_point
 						current_point = reference[identity][1]
 
+
 						# print vincenty(last_point, current_point).km
 
 						distance += vincenty(last_point, current_point).km
 
-						plotting_points.append(reference[identity][1])
+						plotting_points.append((name, identity,reference[identity][1][0], reference[identity][1][1]))
 					else:
 						continue
 						# print reference[identity]
@@ -141,12 +143,17 @@ def parseWays(ways):
 			road_capacity[id] = capacity
 			mapping[id].append(distance)
 			mapping[id].append(road_capacity[id])
+			# Also get the starting and ending points
+			mapping[id].append(starting_point[0])
+			mapping[id].append(starting_point[1])
+			mapping[id].append(current_point[0])
+			mapping[id].append(current_point[1])
 		# else:
 			# print description
 
 
 	# Write to output file when done
-	with open('processed/roads_' + globals()["filename"] +'.csv', 'a') as f:
+	with open('processed/roads_' + globals()["filename"] +'.csv', 'w') as f:
 		writer = csv.writer(f)
 		for element in mapping:
 			# Encode for utf-8 chars
@@ -156,7 +163,7 @@ def parseWays(ways):
 # Write headers, then parse
 with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
 	writer = csv.writer(f)
-	header = ["name", "lanes", "road_capacity_from_conversion", "highway", "oneway", "distance", "road_capacity"]
+	header = ["id", "name", "lanes", "road_capacity_from_conversion", "highway", "oneway", "distance", "road_capacity", "starting point lat", "starting point lon", "ending point lat", "ending point lon"]
 	w = writer.writerow(header)
 # Here ways_callback tells us which method we are calling for the ways we found. Change to nodes_callback = yourmethod if want to process stores
 p = XMLParser(ways_callback=parseWays, nodes_callback = parseNodes, coords_callback = coords_callback)
