@@ -5,7 +5,7 @@ import utilities
 
 
 # change here to change the file you want to edit, make sure it is under data/
-filename = "cambridgema"
+filename = "Quito"
 
 
 # This is the road conversion, feel free to modify or add
@@ -63,6 +63,7 @@ def parseWays(ways):
 	# Each entry in ways is in this format: id, {some description dictionary}, [coordinates]
 	for id, description, coordinates in ways:
 		distance = 0.0
+		points_of_way = []
 		# print coordinates
 		# They also include some places, for now if an entry has 'highway' and 'name' we know for sure it is a road.
 		if ('highway' in description):
@@ -100,7 +101,7 @@ def parseWays(ways):
 				starting_point = current_point
 			else:
 				print "MISSING"
-				break
+				continue
 
 			# current_point = reference[coordinates[0]][1]
 
@@ -119,6 +120,7 @@ def parseWays(ways):
 					# print reference[identity]
 					if isinstance(reference[identity], tuple):
 						last_point = current_point
+						points_of_way.append(last_point)
 						current_point = reference[identity][1]
 
 
@@ -135,6 +137,7 @@ def parseWays(ways):
 					# continue
 					print "MISSING", identity
 
+			points_of_way.append(current_point)
 			# print distance, road_capacity_from_conversion
 			capacity = distance * road_capacity_from_conversion
 			if oneway != "yes":
@@ -143,28 +146,23 @@ def parseWays(ways):
 			road_capacity[id] = capacity
 			mapping[id].append(distance)
 			mapping[id].append(road_capacity[id])
-			# Also get the starting and ending points
-			mapping[id].append(starting_point[0])
-			mapping[id].append(starting_point[1])
-			mapping[id].append(current_point[0])
-			mapping[id].append(current_point[1])
+			# Also get the coordinates that make up the way
+			for point in points_of_way:
+				mapping[id].append(point[0])
+				mapping[id].append(point[1])
 		# else:
 			# print description
 
 
 	# Write to output file when done
-	with open('processed/roads_' + globals()["filename"] +'.csv', 'w') as f:
+	with open('processed/roads_' + globals()["filename"] +'.csv', 'a') as f:
 		writer = csv.writer(f)
 		for element in mapping:
 			# Encode for utf-8 chars
 			writer.writerow([unicode(s).encode("utf-8") for s in mapping[element]])
 	return 
 
-# Write headers, then parse
-with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
-	writer = csv.writer(f)
-	header = ["id", "name", "lanes", "road_capacity_from_conversion", "highway", "oneway", "distance", "road_capacity", "starting point lat", "starting point lon", "ending point lat", "ending point lon"]
-	w = writer.writerow(header)
+
 # Here ways_callback tells us which method we are calling for the ways we found. Change to nodes_callback = yourmethod if want to process stores
 p = XMLParser(ways_callback=parseWays, nodes_callback = parseNodes, coords_callback = coords_callback)
 
@@ -174,6 +172,14 @@ p.parse('data/' + filename)
 
 
 print "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+# Write headers, then parse again
+with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
+	writer = csv.writer(f)
+	header = ["id", "name", "lanes", "road_capacity_from_conversion", "highway", "oneway", "distance", "road_capacity", "point_lat", "point_lon"]
+	w = writer.writerow(header)
+
+
 
 p.parse('data/' + filename)
 # print len(reference)
@@ -188,6 +194,6 @@ print "Total road capacity: ", total_road_capacity, "km2"
 with open ('processed/roads_' + filename + '_coordinates.csv', 'wb') as f:
 	writer = csv.writer(f)
 	for coordinate in plotting_points:
-		writer.writerow(coordinate)
+		writer.writerow([unicode(s).encode("utf-8") for s in coordinate])
 
 # print array
