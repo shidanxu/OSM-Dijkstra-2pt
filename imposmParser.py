@@ -5,7 +5,7 @@ import utilities
 
 
 # change here to change the file you want to edit, make sure it is under data/
-filename = "Quito"
+filename = "newyorkmidtown"
 
 
 # This is the road conversion, feel free to modify or add

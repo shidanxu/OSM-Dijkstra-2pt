@@ -1,981 +1,491 @@
-name,lanes,road_capacity_from_conversion,highway,oneway
-West 40th Street,,3,primary,yes
-Lincoln Tunnel,,3,primary,yes
-,,1,service,
-West Drive,,1,unclassified,yes
-West 33rd Street,1,1,unclassified,yes
-,,1,service,yes
-East 50th Street,,3,secondary,yes
-East 42nd Street,,3,primary,
-East 43rd Street,,1,residential,
-East 43rd Street,,1,residential,yes
-Lincoln Tunnel,,3,secondary,yes
-East 66th Street,,3,secondary,yes
-FDR Drive,3,4,motorway,yes
-Doris C. Freedman Place,,3,secondary,yes
-,,4,motorway_link,yes
-West 35th Street,,1,unclassified,yes
-,,1,service,yes
-,,1,service,yes
-West 43rd Street,,1,unclassified,yes
-West 47th Street,,1,residential,yes
-East 47th Street,,1,residential,yes
-,,3,secondary,yes
-,,1,service,yes
-East 64th Street,,1,residential,yes
-,,1,unclassified,yes
-East 59th Street,,1,residential,yes
-Central Park-Center Drive,,1,unclassified,yes
-Tunnel Exit Street,,1,residential,yes
-East 67th Street,,1,residential,yes
-West 53rd Street,,3,secondary,yes
-,,4,motorway_link,yes
-East 60th Street,,3,secondary,yes
-East 52nd Street,,1,residential,yes
-,,1,service,yes
-West 34th Street,6,3,primary,no
-West 48th Street,,1,residential,yes
-West 44th Street,,1,unclassified,yes
-West 36th Street,,3,secondary,yes
-East 48th Street,,1,residential,yes
-Mitchell Place,,1,residential,yes
-East 44th Street,,1,residential,yes
-East 44th Street,,1,residential,yes
-Gen. Douglas MacArthur Plaza,,3,secondary,yes
-East 56th Street,,1,residential,yes
-East 41st Street,,1,unclassified,yes
-East 40th Street,,1,unclassified,yes
-West 49th Street,,3,secondary,yes
-West 40th Street,,3,primary,
-West 32nd Street,,1,unclassified,yes
-West 45th Street,,3,secondary,yes
-Beekman Place,,1,residential,
-Vanderbilt Avenue,,1,residential,yes
-East 57th Street,,3,primary,
-West 37th Street,,3,secondary,yes
-Shubert Alley,,1,pedestrian,
-East 36th Street,,3,secondary,yes
-Tudor City Place,,1,residential,yes
-East 45th Street,,3,secondary,yes
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-Park Avenue,,3,secondary,yes
-West 58th Street,,1,residential,yes
-West 29th Street,,1,unclassified,yes
-West 57th Street,,3,primary,no
-West 38th Street,,1,unclassified,yes
-East 65th Street,,3,secondary,yes
-12th Avenue,4,4,trunk,yes
-West 28th Street,,1,unclassified,yes
-East Drive,,1,unclassified,
-East 46th Street,,3,secondary,yes
-,,4,motorway_link,yes
-West 55th Street,,1,unclassified,yes
-Broadway,,1,unclassified,yes
-,,1,service,yes
-1st Avenue,,3,primary,yes
-,1,4,motorway_link,yes
-West 41st Street,,1,unclassified,yes
-9th Avenue,,3,secondary,yes
-Central Park South,,3,secondary,no
-Central Park-Center Drive,,1,unclassified,yes
-Lincoln Tunnel Approach,,3,secondary,yes
-,1,4,motorway_link,yes
-Penn Plaza,,3,secondary,yes
-West 27th Street,1,1,unclassified,yes
-7th Avenue,,3,secondary,yes
-East 38th Street,,1,unclassified,yes
-East 63rd Street,,2,tertiary,yes
-West 50th Street,,3,secondary,yes
-,,1,service,yes
-Grand Army Plaza,,3,secondary,yes
-Grand Army Plaza,,3,secondary,
-,,1,service,no
-East 53rd Street,,3,secondary,yes
-FDR Drive,3,4,motorway,yes
-,,4,motorway_link,yes
-East 51st Street,,1,residential,
-,1,4,motorway_link,yes
-FDR Drive,3,4,motorway,yes
-Sutton Place South,,3,secondary,yes
-East 62nd Street,,1,residential,yes
-East 58th Street,,1,residential,yes
-FDR Drive,3,4,motorway,yes
-East 54th Street,,3,secondary,yes
-,,4,motorway_link,yes
-West 31st Street,,3,secondary,yes
-,,1,service,yes
-West 41st Street,,3,secondary,yes
-West 30th Street,,3,secondary,yes
-West 30th Street,,3,secondary,yes
-,,1,service,yes
-,,4,motorway_link,yes
-East 59th Street,,3,primary,no
-East 51st Street,,1,residential,yes
-,,1,service,yes
-car parking,,1,service,yes
-,,4,motorway_link,yes
-11th Avenue,,3,primary,
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-West 46th Street,,3,secondary,yes
-,,1,service,yes
-,,4,motorway_link,yes
-West 37th Street,,3,secondary,yes
-West 37th Street,,3,secondary,yes
-Broadway,,1,pedestrian,no
-West 38th Street,,1,unclassified,yes
-West 38th Street,,1,unclassified,yes
-West 38th Street,,1,unclassified,yes
-East 49th Street,,3,secondary,yes
-Broadway,,3,secondary,yes
-,2,4,motorway_link,yes
-Lincoln Tunnel Approach,,3,primary,yes
-Broadway,,1,pedestrian,no
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-car parking,,1,service,yes
-,,1,service,yes
-car parking,,1,service,yes
-car parking,,1,service,yes
-car parking,,1,service,
-car parking,,1,service,yes
-,,1,service,yes
-car parking,,1,service,yes
-East 52nd Street,,1,residential,
-East 60th Street,,3,secondary,yes
-,,1,service,yes
-Queensboro Bridge (Lower Level/Outer Roadway),1,4,motorway,yes
-West 39th Street,,1,unclassified,yes
-West 39th Street,,1,unclassified,yes
-,,4,motorway_link,yes
-,,1,service,yes
-East 60th Street,,2,tertiary,yes
-West 43rd Street,,1,unclassified,yes
-Park Avenue,,3,secondary,yes
-,,1,unclassified,yes
-,,4,motorway_link,yes
-,,1,service,
-Park Avenue,,3,secondary,yes
-West 30th Street,,3,secondary,yes
-West 45th Street,,3,secondary,yes
-West 38th Street,,1,unclassified,yes
-,,1,service,yes
-West 49th Street,,3,secondary,yes
-,,3,primary_link,yes
-,2,4,motorway,yes
-Queensboro Bridge (Upper Level),2,4,motorway_link,yes
-,2,4,motorway,yes
-,,1,service,yes
-FDR Drive,3,4,motorway,yes
-,,4,motorway_link,yes
-,1,4,motorway_link,yes
-East 41st Street,,1,unclassified,
-,,4,motorway_link,yes
-East 58th Street,,3,secondary,yes
-,,4,motorway_link,yes
-,,4,motorway_link,yes
-Park Avenue,,3,secondary,yes
-West 41st Street,,1,unclassified,yes
-11th Avenue,,3,primary,yes
-,,4,motorway_link,yes
-West 34th Street,6,3,primary,no
-West 39th Street,,1,unclassified,yes
-West 39th Street,,1,unclassified,yes
-Lincoln Tunnel Expressway,2,4,motorway,reversible
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,1,service,yes
-West 40th Street,,1,unclassified,yes
-Park Avenue,,3,secondary,yes
-,,4,motorway_link,yes
-,,4,motorway_link,yes
-Rockefeller Plaza,,1,pedestrian,no
-West 51st Street,1,1,residential,yes
-East 37th Street,,3,secondary,yes
-Vanderbilt Avenue,,1,residential,no
-East 43rd Street,,1,residential,yes
-6th Avenue,,3,secondary,yes
-West 39th Street,,1,unclassified,-1
-West 40th Street,,1,unclassified,yes
-West 40th Street,,1,unclassified,yes
-West 41st Street,,1,unclassified,yes
-West 41st Street,,3,secondary,yes
-West 39th Street,,1,unclassified,yes
-12th Avenue,4,4,trunk,yes
-Park Avenue,,3,secondary,yes
-11th Avenue,,3,secondary,yes
-West 53rd Street,,3,secondary,yes
-West 52nd Street,1,1,residential,yes
-West 54th Street,,3,secondary,yes
-East 54th Street,,3,secondary,yes
-East 60th Street,,3,secondary,yes
-East 53rd Street,,3,secondary,yes
-West 46th Street,,3,secondary,yes
-East 46th Street,,3,secondary,yes
-East 49th Street,,3,secondary,yes
-East 50th Street,,3,secondary,yes
-West 37th Street,,3,secondary,yes
-West 36th Street,,3,secondary,yes
-East 45th Street,,3,secondary,yes
-West 45th Street,,3,secondary,yes
-West 47th Street,,1,residential,yes
-West 50th Street,,3,secondary,yes
-West 45th Street,,3,secondary,yes
-West 46th Street,,3,secondary,yes
-West 46th Street,,3,secondary,yes
-West 47th Street,,1,residential,yes
-West 44th Street,,1,unclassified,yes
-West 44th Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-West 42nd Street,,3,primary,
-,,1,service,
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,1,service,yes
-car parking,,1,service,yes
-,,1,service,yes
-Lincoln Tunnel,2,4,motorway,yes
-East 63rd Street,,1,residential,yes
-2nd Avenue,,3,primary,yes
-West 58th Street,,1,residential,yes
-West 37th Street,,3,secondary,yes
-West 37th Street,,3,secondary,yes
-West 38th Street,,1,unclassified,yes
-West 38th Street,,1,unclassified,yes
-,,1,service,yes
-11th Avenue,,3,primary,no
-West 36th Street,,3,secondary,yes
-West 35th Street,,1,unclassified,yes
-East 55th Street,,1,unclassified,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,4,motorway_link,yes
-,,4,motorway_link,yes
-,,1,service,yes
-,,1,service,yes
-Lincoln Tunnel Expressway,2,4,motorway,reversible
-Lincoln Tunnel Expressway,2,4,motorway,reversible
-,1,4,motorway_link,yes
-,,1,service,
-,,1,service,yes
-car parking,,1,service,yes
-,,1,service,yes
-,,1,service,yes
-,,1,service,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,1,4,motorway_link,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,1,service,yes
-,,4,motorway_link,yes
-East 50th Street,,1,residential,yes
-Grand Army Plaza,,1,residential,yes
-West 31st Street,,3,secondary,yes
-West 31st Street,,3,secondary,yes
-10th Avenue,,3,secondary,yes
-,,1,service,
-,,1,service,
-,,1,service,
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-,,1,service,
-,,1,service,yes
-1st Avenue,,3,primary,yes
-East 48th Street,,1,residential,yes
-East 50th Street,,1,residential,
-Dyer Avenue,,3,primary,yes
-Dyer Avenue,3,3,primary,yes
-,,1,service,yes
-,,1,service,yes
-,,1,service,yes
-Herald Square,,1,pedestrian,
-Seagram Building Plaza,,1,pedestrian,
-8th Avenue,,3,secondary,yes
-,,1,service,yes
-8th Avenue,,3,secondary,yes
-8th Avenue,,3,secondary,yes
-8th Avenue,,3,secondary,yes
-East 57th Street,,3,primary,
-Central Park Drive,,1,unclassified,yes
-6th Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-,,1,service,
-Dyer Avenue,4,3,primary,
-Dyer Avenue,1,3,primary,yes
-,,1,pedestrian,
-,,4,motorway_link,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,pedestrian,
-East 65th Street,,3,secondary,yes
-,,1,service,
-,,1,service,
-6½ Avenue,,1,pedestrian,no
-8th Avenue,,3,secondary,yes
-9th Avenue,,3,secondary,yes
-9th Avenue,,3,secondary,yes
-East 65th Street,,3,secondary,yes
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-East 59th Street,,1,residential,yes
-,2,4,motorway,yes
-West 43rd Street,,1,unclassified,yes
-8th Avenue,,3,secondary,yes
-,,4,motorway_link,yes
-7th Avenue,,3,secondary,yes
-7th Avenue,,3,secondary,yes
-West 42nd Street,,3,primary,no
-West 48th Street,,1,residential,yes
-West 48th Street,,1,residential,yes
-Central Park South,,3,secondary_link,yes
-West 42nd Street,,3,primary,no
-West 42nd Street,,3,primary,no
-East 61st Street,,1,residential,yes
-East 61st Street,,1,residential,yes
-Broadway,,1,unclassified,yes
-Penn Plaza,,3,secondary,yes
-,,1,service,yes
-12th Avenue,4,4,trunk,yes
-West 57th Street,,3,primary,no
-East 59th Street,,1,residential,yes
-East Drive,,1,unclassified,
-Lexington Avenue,,3,secondary,yes
-Central Park South,,3,secondary,no
-11th Avenue,,3,secondary,
-Central Park South,,3,secondary_link,yes
-2nd Avenue,,3,secondary,yes
-8th Avenue,,3,secondary,yes
-2nd Avenue,,3,secondary,yes
-East 65th Street,,3,secondary,yes
-East 68th Street,,1,residential,yes
-Columbus Circle,,3,secondary,yes
-10th Avenue,,3,secondary,yes
-East 55th Street,,1,unclassified,yes
-1st Avenue,,3,primary,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-1st Avenue,,3,primary,yes
-Queensboro Bridge (Upper Level),2,4,motorway_link,yes
-Madison Avenue,,3,secondary,yes
-Madison Avenue,,3,secondary,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-West 42nd Street,,3,primary,no
-12th Avenue,4,4,trunk,yes
-East 48th Street,,1,residential,yes
-2nd Avenue,,3,primary,yes
-2nd Avenue,,3,primary,yes
-East 50th Street,,3,secondary,yes
-East 49th Street,,3,secondary,yes
-Madison Avenue,,3,secondary,yes
-12th Avenue,4,4,trunk,yes
-West 57th Street,,3,primary,no
-,,4,motorway_link,yes
-2nd Avenue,,3,secondary,yes
-West 50th Street,3,3,secondary,yes
-12th Avenue,4,4,trunk,yes
-Lexington Avenue,,3,secondary,yes
-3rd Avenue,,3,primary,yes
-8th Avenue,,3,secondary,yes
-East 60th Street,,2,tertiary,yes
-West 34th Street,6,3,primary,no
-West 41st Street,,1,unclassified,yes
-West 41st Street,,1,unclassified,yes
-West 54th Street,4,3,secondary,yes
-2nd Avenue,,3,secondary,yes
-5th Avenue,,3,secondary,yes
-7th Avenue,,3,secondary,yes
-5th Avenue,,3,secondary,yes
-,,4,motorway_link,yes
-News Corp. Plaza,,1,pedestrian,
-,,4,motorway_link,yes
-Central Park South,,3,secondary,no
-5th Avenue,,3,secondary,yes
-West 43rd Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-,,4,motorway_link,yes
-,1,4,motorway_link,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-2nd Avenue,,3,primary,yes
-East 39th Street,,1,unclassified,yes
-,,1,pedestrian,
-East 40th Street,,1,unclassified,yes
-East 40th Street,,1,unclassified,yes
-East 40th Street,,1,unclassified,yes
-East 48th Street,,1,residential,yes
-East 48th Street,,1,residential,yes
-East 51st Street,,1,residential,yes
-East 54th Street,,3,secondary,yes
-East 54th Street,,3,secondary,yes
-East 55th Street,,1,unclassified,yes
-East 55th Street,,1,unclassified,yes
-West 39th Street,,1,unclassified,yes
-West 40th Street,,1,unclassified,yes
-West 40th Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-West 44th Street,,1,unclassified,yes
-West 44th Street,,1,unclassified,yes
-West 48th Street,,1,residential,yes
-West 48th Street,,1,residential,yes
-West 51st Street,,1,residential,yes
-West 51st Street,3,1,residential,yes
-West 54th Street,,3,secondary,yes
-West 54th Street,2,3,secondary,yes
-,,1,service,yes
-,,1,service,no
-3rd Avenue,,3,primary,yes
-,,1,service,
-,,1,service,
-East 39th Street,,1,unclassified,yes
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-,,1,unclassified,yes
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-West 56th Street,,1,residential,yes
-West 34th Street,6,3,primary,no
-West 35th Street,,1,unclassified,yes
-West 35th Street,,1,unclassified,yes
-,,1,service,
-,1,4,motorway_link,yes
-West 41st Street,,3,secondary,yes
-Dyer Avenue,,3,primary,yes
-West 40th Street,,1,unclassified,yes
-West 33rd Street,,1,unclassified,yes
-West 33rd Street,,1,unclassified,yes
-West 34th Street,6,3,primary,no
-,,1,service,
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-,,1,pedestrian,
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-Broadway,,1,unclassified,yes
-West 58th Street,,1,residential,yes
-West 58th Street,,1,residential,yes
-Lincoln Tunnel,2,4,motorway,reversible
-Lincoln Tunnel,2,4,motorway,yes
-West 54th Street,2,3,secondary,yes
-West 54th Street,3,3,secondary,yes
-West 54th Street,3,3,secondary,yes
-West 54th Street,2,3,secondary,yes
-,,1,pedestrian,
-West 54th Street,3,3,secondary,yes
-,,1,pedestrian,
-,,1,service,
-,,1,service,
-7th Avenue,,3,primary,yes
-West 54th Street,,3,secondary,yes
-,,1,pedestrian,
-,,1,pedestrian,
-,,1,pedestrian,
-,,1,pedestrian,
-West 40th Street,,3,primary,yes
-Lincoln Tunnel,,3,primary,yes
-,,1,service,
-West Drive,,1,unclassified,yes
-West 33rd Street,1,1,unclassified,yes
-,,1,service,yes
-East 50th Street,,3,secondary,yes
-East 42nd Street,,3,primary,
-East 43rd Street,,1,residential,
-East 43rd Street,,1,residential,yes
-Lincoln Tunnel,,3,secondary,yes
-East 66th Street,,3,secondary,yes
-FDR Drive,3,4,motorway,yes
-Doris C. Freedman Place,,3,secondary,yes
-,,4,motorway_link,yes
-West 35th Street,,1,unclassified,yes
-,,1,service,yes
-,,1,service,yes
-West 43rd Street,,1,unclassified,yes
-West 47th Street,,1,residential,yes
-East 47th Street,,1,residential,yes
-,,3,secondary,yes
-,,1,service,yes
-East 64th Street,,1,residential,yes
-,,1,unclassified,yes
-East 59th Street,,1,residential,yes
-Central Park-Center Drive,,1,unclassified,yes
-Tunnel Exit Street,,1,residential,yes
-East 67th Street,,1,residential,yes
-West 53rd Street,,3,secondary,yes
-,,4,motorway_link,yes
-East 60th Street,,3,secondary,yes
-East 52nd Street,,1,residential,yes
-,,1,service,yes
-West 34th Street,6,3,primary,no
-West 48th Street,,1,residential,yes
-West 44th Street,,1,unclassified,yes
-West 36th Street,,3,secondary,yes
-East 48th Street,,1,residential,yes
-Mitchell Place,,1,residential,yes
-East 44th Street,,1,residential,yes
-East 44th Street,,1,residential,yes
-Gen. Douglas MacArthur Plaza,,3,secondary,yes
-East 56th Street,,1,residential,yes
-East 41st Street,,1,unclassified,yes
-East 40th Street,,1,unclassified,yes
-West 49th Street,,3,secondary,yes
-West 40th Street,,3,primary,
-West 32nd Street,,1,unclassified,yes
-West 45th Street,,3,secondary,yes
-Beekman Place,,1,residential,
-Vanderbilt Avenue,,1,residential,yes
-East 57th Street,,3,primary,
-West 37th Street,,3,secondary,yes
-Shubert Alley,,1,pedestrian,
-East 36th Street,,3,secondary,yes
-Tudor City Place,,1,residential,yes
-East 45th Street,,3,secondary,yes
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-Park Avenue,,3,secondary,yes
-West 58th Street,,1,residential,yes
-West 29th Street,,1,unclassified,yes
-West 57th Street,,3,primary,no
-West 38th Street,,1,unclassified,yes
-East 65th Street,,3,secondary,yes
-12th Avenue,4,4,trunk,yes
-West 28th Street,,1,unclassified,yes
-East Drive,,1,unclassified,
-East 46th Street,,3,secondary,yes
-,,4,motorway_link,yes
-West 55th Street,,1,unclassified,yes
-Broadway,,1,unclassified,yes
-,,1,service,yes
-1st Avenue,,3,primary,yes
-,1,4,motorway_link,yes
-West 41st Street,,1,unclassified,yes
-9th Avenue,,3,secondary,yes
-Central Park South,,3,secondary,no
-Central Park-Center Drive,,1,unclassified,yes
-Lincoln Tunnel Approach,,3,secondary,yes
-,1,4,motorway_link,yes
-Penn Plaza,,3,secondary,yes
-West 27th Street,1,1,unclassified,yes
-7th Avenue,,3,secondary,yes
-East 38th Street,,1,unclassified,yes
-East 63rd Street,,2,tertiary,yes
-West 50th Street,,3,secondary,yes
-,,1,service,yes
-Grand Army Plaza,,3,secondary,yes
-Grand Army Plaza,,3,secondary,
-,,1,service,no
-East 53rd Street,,3,secondary,yes
-FDR Drive,3,4,motorway,yes
-,,4,motorway_link,yes
-East 51st Street,,1,residential,
-,1,4,motorway_link,yes
-FDR Drive,3,4,motorway,yes
-Sutton Place South,,3,secondary,yes
-East 62nd Street,,1,residential,yes
-East 58th Street,,1,residential,yes
-FDR Drive,3,4,motorway,yes
-East 54th Street,,3,secondary,yes
-,,4,motorway_link,yes
-West 31st Street,,3,secondary,yes
-,,1,service,yes
-West 41st Street,,3,secondary,yes
-West 30th Street,,3,secondary,yes
-West 30th Street,,3,secondary,yes
-,,1,service,yes
-,,4,motorway_link,yes
-East 59th Street,,3,primary,no
-East 51st Street,,1,residential,yes
-,,1,service,yes
-car parking,,1,service,yes
-,,4,motorway_link,yes
-11th Avenue,,3,primary,
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-West 46th Street,,3,secondary,yes
-,,1,service,yes
-,,4,motorway_link,yes
-West 37th Street,,3,secondary,yes
-West 37th Street,,3,secondary,yes
-Broadway,,1,pedestrian,no
-West 38th Street,,1,unclassified,yes
-West 38th Street,,1,unclassified,yes
-West 38th Street,,1,unclassified,yes
-East 49th Street,,3,secondary,yes
-Broadway,,3,secondary,yes
-,2,4,motorway_link,yes
-Lincoln Tunnel Approach,,3,primary,yes
-Broadway,,1,pedestrian,no
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-car parking,,1,service,yes
-,,1,service,yes
-car parking,,1,service,yes
-car parking,,1,service,yes
-car parking,,1,service,
-car parking,,1,service,yes
-,,1,service,yes
-car parking,,1,service,yes
-East 52nd Street,,1,residential,
-East 60th Street,,3,secondary,yes
-,,1,service,yes
-Queensboro Bridge (Lower Level/Outer Roadway),1,4,motorway,yes
-West 39th Street,,1,unclassified,yes
-West 39th Street,,1,unclassified,yes
-,,4,motorway_link,yes
-,,1,service,yes
-East 60th Street,,2,tertiary,yes
-West 43rd Street,,1,unclassified,yes
-Park Avenue,,3,secondary,yes
-,,1,unclassified,yes
-,,4,motorway_link,yes
-,,1,service,
-Park Avenue,,3,secondary,yes
-West 30th Street,,3,secondary,yes
-West 45th Street,,3,secondary,yes
-West 38th Street,,1,unclassified,yes
-,,1,service,yes
-West 49th Street,,3,secondary,yes
-,,3,primary_link,yes
-,2,4,motorway,yes
-Queensboro Bridge (Upper Level),2,4,motorway_link,yes
-,2,4,motorway,yes
-,,1,service,yes
-FDR Drive,3,4,motorway,yes
-,,4,motorway_link,yes
-,1,4,motorway_link,yes
-East 41st Street,,1,unclassified,
-,,4,motorway_link,yes
-East 58th Street,,3,secondary,yes
-,,4,motorway_link,yes
-,,4,motorway_link,yes
-Park Avenue,,3,secondary,yes
-West 41st Street,,1,unclassified,yes
-11th Avenue,,3,primary,yes
-,,4,motorway_link,yes
-West 34th Street,6,3,primary,no
-West 39th Street,,1,unclassified,yes
-West 39th Street,,1,unclassified,yes
-Lincoln Tunnel Expressway,2,4,motorway,reversible
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,1,service,yes
-West 40th Street,,1,unclassified,yes
-Park Avenue,,3,secondary,yes
-,,4,motorway_link,yes
-,,4,motorway_link,yes
-Rockefeller Plaza,,1,pedestrian,no
-West 51st Street,1,1,residential,yes
-East 37th Street,,3,secondary,yes
-Vanderbilt Avenue,,1,residential,no
-East 43rd Street,,1,residential,yes
-6th Avenue,,3,secondary,yes
-West 39th Street,,1,unclassified,-1
-West 40th Street,,1,unclassified,yes
-West 40th Street,,1,unclassified,yes
-West 41st Street,,1,unclassified,yes
-West 41st Street,,3,secondary,yes
-West 39th Street,,1,unclassified,yes
-12th Avenue,4,4,trunk,yes
-Park Avenue,,3,secondary,yes
-11th Avenue,,3,secondary,yes
-West 53rd Street,,3,secondary,yes
-West 52nd Street,1,1,residential,yes
-West 54th Street,,3,secondary,yes
-East 54th Street,,3,secondary,yes
-East 60th Street,,3,secondary,yes
-East 53rd Street,,3,secondary,yes
-West 46th Street,,3,secondary,yes
-East 46th Street,,3,secondary,yes
-East 49th Street,,3,secondary,yes
-East 50th Street,,3,secondary,yes
-West 37th Street,,3,secondary,yes
-West 36th Street,,3,secondary,yes
-East 45th Street,,3,secondary,yes
-West 45th Street,,3,secondary,yes
-West 47th Street,,1,residential,yes
-West 50th Street,,3,secondary,yes
-West 45th Street,,3,secondary,yes
-West 46th Street,,3,secondary,yes
-West 46th Street,,3,secondary,yes
-West 47th Street,,1,residential,yes
-West 44th Street,,1,unclassified,yes
-West 44th Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-West 42nd Street,,3,primary,
-,,1,service,
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,1,service,yes
-car parking,,1,service,yes
-,,1,service,yes
-Lincoln Tunnel,2,4,motorway,yes
-East 63rd Street,,1,residential,yes
-2nd Avenue,,3,primary,yes
-West 58th Street,,1,residential,yes
-West 37th Street,,3,secondary,yes
-West 37th Street,,3,secondary,yes
-West 38th Street,,1,unclassified,yes
-West 38th Street,,1,unclassified,yes
-,,1,service,yes
-11th Avenue,,3,primary,no
-West 36th Street,,3,secondary,yes
-West 35th Street,,1,unclassified,yes
-East 55th Street,,1,unclassified,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,4,motorway_link,yes
-,,4,motorway_link,yes
-,,1,service,yes
-,,1,service,yes
-Lincoln Tunnel Expressway,2,4,motorway,reversible
-Lincoln Tunnel Expressway,2,4,motorway,reversible
-,1,4,motorway_link,yes
-,,1,service,
-,,1,service,yes
-car parking,,1,service,yes
-,,1,service,yes
-,,1,service,yes
-,,1,service,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,1,4,motorway_link,yes
-Lincoln Tunnel Expressway,1,4,motorway,yes
-,,1,service,yes
-,,4,motorway_link,yes
-East 50th Street,,1,residential,yes
-Grand Army Plaza,,1,residential,yes
-West 31st Street,,3,secondary,yes
-West 31st Street,,3,secondary,yes
-10th Avenue,,3,secondary,yes
-,,1,service,
-,,1,service,
-,,1,service,
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-,,1,service,
-,,1,service,yes
-1st Avenue,,3,primary,yes
-East 48th Street,,1,residential,yes
-East 50th Street,,1,residential,
-Dyer Avenue,,3,primary,yes
-Dyer Avenue,3,3,primary,yes
-,,1,service,yes
-,,1,service,yes
-,,1,service,yes
-Herald Square,,1,pedestrian,
-Seagram Building Plaza,,1,pedestrian,
-8th Avenue,,3,secondary,yes
-,,1,service,yes
-8th Avenue,,3,secondary,yes
-8th Avenue,,3,secondary,yes
-8th Avenue,,3,secondary,yes
-East 57th Street,,3,primary,
-Central Park Drive,,1,unclassified,yes
-6th Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-Park Avenue,,3,secondary,yes
-,,1,service,
-Dyer Avenue,4,3,primary,
-Dyer Avenue,1,3,primary,yes
-,,1,pedestrian,
-,,4,motorway_link,yes
-,,1,service,
-,,1,service,
-,,1,service,
-,,1,pedestrian,
-East 65th Street,,3,secondary,yes
-,,1,service,
-,,1,service,
-6½ Avenue,,1,pedestrian,no
-8th Avenue,,3,secondary,yes
-9th Avenue,,3,secondary,yes
-9th Avenue,,3,secondary,yes
-East 65th Street,,3,secondary,yes
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-East 59th Street,,1,residential,yes
-,2,4,motorway,yes
-West 43rd Street,,1,unclassified,yes
-8th Avenue,,3,secondary,yes
-,,4,motorway_link,yes
-7th Avenue,,3,secondary,yes
-7th Avenue,,3,secondary,yes
-West 42nd Street,,3,primary,no
-West 48th Street,,1,residential,yes
-West 48th Street,,1,residential,yes
-Central Park South,,3,secondary_link,yes
-West 42nd Street,,3,primary,no
-West 42nd Street,,3,primary,no
-East 61st Street,,1,residential,yes
-East 61st Street,,1,residential,yes
-Broadway,,1,unclassified,yes
-Penn Plaza,,3,secondary,yes
-,,1,service,yes
-12th Avenue,4,4,trunk,yes
-West 57th Street,,3,primary,no
-East 59th Street,,1,residential,yes
-East Drive,,1,unclassified,
-Lexington Avenue,,3,secondary,yes
-Central Park South,,3,secondary,no
-11th Avenue,,3,secondary,
-Central Park South,,3,secondary_link,yes
-2nd Avenue,,3,secondary,yes
-8th Avenue,,3,secondary,yes
-2nd Avenue,,3,secondary,yes
-East 65th Street,,3,secondary,yes
-East 68th Street,,1,residential,yes
-Columbus Circle,,3,secondary,yes
-10th Avenue,,3,secondary,yes
-East 55th Street,,1,unclassified,yes
-1st Avenue,,3,primary,yes
-Lincoln Tunnel Expressway,2,4,motorway,yes
-1st Avenue,,3,primary,yes
-Queensboro Bridge (Upper Level),2,4,motorway_link,yes
-Madison Avenue,,3,secondary,yes
-Madison Avenue,,3,secondary,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-West 42nd Street,,3,primary,no
-12th Avenue,4,4,trunk,yes
-East 48th Street,,1,residential,yes
-2nd Avenue,,3,primary,yes
-2nd Avenue,,3,primary,yes
-East 50th Street,,3,secondary,yes
-East 49th Street,,3,secondary,yes
-Madison Avenue,,3,secondary,yes
-12th Avenue,4,4,trunk,yes
-West 57th Street,,3,primary,no
-,,4,motorway_link,yes
-2nd Avenue,,3,secondary,yes
-West 50th Street,3,3,secondary,yes
-12th Avenue,4,4,trunk,yes
-Lexington Avenue,,3,secondary,yes
-3rd Avenue,,3,primary,yes
-8th Avenue,,3,secondary,yes
-East 60th Street,,2,tertiary,yes
-West 34th Street,6,3,primary,no
-West 41st Street,,1,unclassified,yes
-West 41st Street,,1,unclassified,yes
-West 54th Street,4,3,secondary,yes
-2nd Avenue,,3,secondary,yes
-5th Avenue,,3,secondary,yes
-7th Avenue,,3,secondary,yes
-5th Avenue,,3,secondary,yes
-,,4,motorway_link,yes
-News Corp. Plaza,,1,pedestrian,
-,,4,motorway_link,yes
-Central Park South,,3,secondary,no
-5th Avenue,,3,secondary,yes
-West 43rd Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-,,4,motorway_link,yes
-,1,4,motorway_link,yes
-1st Avenue,,3,primary,yes
-1st Avenue,,3,primary,yes
-2nd Avenue,,3,primary,yes
-East 39th Street,,1,unclassified,yes
-,,1,pedestrian,
-East 40th Street,,1,unclassified,yes
-East 40th Street,,1,unclassified,yes
-East 40th Street,,1,unclassified,yes
-East 48th Street,,1,residential,yes
-East 48th Street,,1,residential,yes
-East 51st Street,,1,residential,yes
-East 54th Street,,3,secondary,yes
-East 54th Street,,3,secondary,yes
-East 55th Street,,1,unclassified,yes
-East 55th Street,,1,unclassified,yes
-West 39th Street,,1,unclassified,yes
-West 40th Street,,1,unclassified,yes
-West 40th Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-West 43rd Street,,1,unclassified,yes
-West 44th Street,,1,unclassified,yes
-West 44th Street,,1,unclassified,yes
-West 48th Street,,1,residential,yes
-West 48th Street,,1,residential,yes
-West 51st Street,,1,residential,yes
-West 51st Street,3,1,residential,yes
-West 54th Street,,3,secondary,yes
-West 54th Street,2,3,secondary,yes
-,,1,service,yes
-,,1,service,no
-3rd Avenue,,3,primary,yes
-,,1,service,
-,,1,service,
-East 39th Street,,1,unclassified,yes
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-,,1,unclassified,yes
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-6½ Avenue,,1,pedestrian,no
-West 56th Street,,1,residential,yes
-West 34th Street,6,3,primary,no
-West 35th Street,,1,unclassified,yes
-West 35th Street,,1,unclassified,yes
-,,1,service,
-,1,4,motorway_link,yes
-West 41st Street,,3,secondary,yes
-Dyer Avenue,,3,primary,yes
-West 40th Street,,1,unclassified,yes
-West 33rd Street,,1,unclassified,yes
-West 33rd Street,,1,unclassified,yes
-West 34th Street,6,3,primary,no
-,,1,service,
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-Lincoln Tunnel Expressway,2,4,motorway_link,yes
-,,1,pedestrian,
-,,1,service,
-,,1,service,yes
-,,1,service,yes
-,,1,service,
-Broadway,,1,unclassified,yes
-West 58th Street,,1,residential,yes
-West 58th Street,,1,residential,yes
-Lincoln Tunnel,2,4,motorway,reversible
-Lincoln Tunnel,2,4,motorway,yes
-West 54th Street,2,3,secondary,yes
-West 54th Street,3,3,secondary,yes
-West 54th Street,3,3,secondary,yes
-West 54th Street,2,3,secondary,yes
-,,1,pedestrian,
-West 54th Street,3,3,secondary,yes
-,,1,pedestrian,
-,,1,service,
-,,1,service,
-7th Avenue,,3,primary,yes
-West 54th Street,,3,secondary,yes
-,,1,pedestrian,
-,,1,pedestrian,
-,,1,pedestrian,
-,,1,pedestrian,
+id,name,lanes,road_capacity_from_conversion,highway,oneway,distance,road_capacity,point_lat,point_lon
+5671425,West 40th Street,,3,primary,yes,0.112094282103,0.336282846309,40.7595167,-73.9992636,40.7595167,-73.9992636,40.7590428,-73.9980915
+31984130,Lincoln Tunnel,,3,primary,yes,0.128885361062,0.386656083186,40.7521006,-74.0009434,40.7521006,-74.0009434,40.7521313,-74.0009106,40.7521466,-74.0008572,40.7521516,-74.0008061,40.7521448,-74.0007426,40.7521259,-74.0006587,40.7520898,-74.0005718,40.7518874,-74.0000859,40.7518377,-73.9999417,40.7518176,-73.9998211,40.7518173,-73.999753,40.7518272,-73.9996903,40.7518499,-73.9996371,40.7518625,-73.9996087,40.7518895,-73.9995692
+5673480,,,1,service,,0.162058695014,0.324117390028,40.753811,-73.975702,40.753811,-73.975702,40.7525274,-73.976615
+22946829,West Drive,,1,unclassified,yes,0.33852094852,0.33852094852,40.7702602,-73.9791013,40.7702602,-73.9791013,40.7701529,-73.979214,40.7699213,-73.9794403,40.769682,-73.9796478,40.7694961,-73.9797942,40.7692712,-73.979919,40.7691508,-73.9799661,40.7690284,-73.9799706,40.7689031,-73.9799569,40.7687616,-73.9799041,40.7686487,-73.9798396,40.7685264,-73.9797512,40.7684063,-73.9796447,40.7683035,-73.9795154,40.7678663,-73.9788706,40.7677615,-73.9787337
+5671440,West 33rd Street,1,1,unclassified,yes,0.981849219899,0.981849219899,40.7490913,-73.9882215,40.7490913,-73.9882215,40.7503099,-73.9911047,40.751213,-73.9932414,40.7512808,-73.9934019,40.7515147,-73.9939557,40.7516675,-73.9943167,40.752679,-73.99671,40.7527136,-73.9967919,40.7533864,-73.9983838
+5673492,,,1,service,yes,0.0233079569562,0.0233079569562,40.7644651,-73.9988958,40.7644651,-73.9988958,40.7644546,-73.9989011,40.7644402,-73.9989009,40.7644274,-73.9988958,40.7644123,-73.9988822,40.7644002,-73.998863,40.7643295,-73.9987139
+5673497,East 50th Street,,3,secondary,yes,0.621766474527,1.86529942358,40.758538,-73.977201,40.758538,-73.977201,40.75786,-73.975591,40.7572106,-73.9740539,40.7571208,-73.9738402,40.756498,-73.972362,40.755825,-73.97076
+5672991,East 42nd Street,,3,primary,,1.08011965376,6.48071792258,40.753481,-73.980888,40.753481,-73.980888,40.7528022,-73.9792861,40.7524145,-73.9783711,40.7521774,-73.9778117,40.7520707,-73.9775627,40.7518798,-73.9771094,40.7514368,-73.9760403,40.7507556,-73.9744567,40.750349,-73.9734972,40.7498059,-73.9722156,40.7488955,-73.9699944,40.7487702,-73.9696986
+5673511,East 43rd Street,,1,residential,,0.0156072904086,0.0312145808173,40.7496912,-73.9697891,40.7496912,-73.9697891,40.749757,-73.9699524
+5673515,East 43rd Street,,1,residential,yes,0.242979784949,0.242979784949,40.753099,-73.977875,40.753099,-73.977875,40.753481,-73.978783,40.754155,-73.980395
+31984136,Lincoln Tunnel,,3,secondary,yes,0.166388993932,0.499166981797,40.7510239,-73.9980482,40.7510239,-73.9980482,40.7514682,-73.9991351,40.7515368,-73.9992855,40.7515743,-73.9993531,40.7516201,-73.9994168,40.7516674,-73.9994611,40.751715,-73.9994993,40.7517597,-73.9995181,40.7518895,-73.9995692
+5671475,East 66th Street,,3,secondary,yes,1.06621926455,3.19865779364,40.76399,-73.958781,40.76399,-73.958781,40.7649877,-73.9611475,40.7659323,-73.9633881,40.7666073,-73.9649892,40.76723,-73.9664663,40.7673262,-73.9666944,40.7679241,-73.9681128,40.7679674,-73.9682154,40.7680183,-73.9683361,40.7686016,-73.9697198,40.768646,-73.969825
+32939514,FDR Drive,3,4,motorway,yes,0.505152416811,2.02060966724,40.751538,-73.96494,40.751538,-73.96494,40.7530863,-73.9635329,40.7534052,-73.9633327,40.753639,-73.9631295,40.753782,-73.9630093,40.7540616,-73.962769,40.7543103,-73.9625379,40.7544888,-73.9623961,40.7547132,-73.9621926,40.7551547,-73.9617625,40.7552892,-73.961578
+5672290,Doris C. Freedman Place,,3,secondary,yes,0.0546086533102,0.163825959931,40.764898,-73.972553,40.764898,-73.972553,40.764977,-73.9726753,40.7650495,-73.9728291,40.7650915,-73.9729497,40.7651035,-73.9730313,40.7651003,-73.9731035,40.7650956,-73.9731196
+5670481,,,4,motorway_link,yes,0.098092706333,0.392370825332,40.7552119,-73.961892,40.7552119,-73.961892,40.7549674,-73.9622424,40.7548645,-73.9623627,40.7548296,-73.9624387,40.7548158,-73.9625362,40.7549217,-73.962821
+5673561,West 35th Street,,1,unclassified,yes,1.27023107059,1.27023107059,40.749102,-73.984076,40.749102,-73.984076,40.750458,-73.9872889,40.7506639,-73.9877768,40.7507266,-73.9879255,40.7516588,-73.9901341,40.7528582,-73.9929759,40.7540155,-73.9957182,40.7540563,-73.9958149,40.7545848,-73.9970673,40.7546052,-73.9971155,40.7546525,-73.9972277
+22941786,,,1,service,yes,0.44955787492,0.44955787492,40.7685537,-73.9959555,40.7685537,-73.9959555,40.7681538,-73.996242,40.7669012,-73.9971564,40.7656694,-73.9980556,40.7653975,-73.998212,40.7652706,-73.9982961,40.7650051,-73.9985132
+22941788,,,1,service,yes,0.612198366177,0.612198366177,40.7656957,-73.9981091,40.7656957,-73.9981091,40.7657778,-73.9983119,40.7658624,-73.9983616,40.7670343,-74.0011224,40.7670264,-74.0011941,40.7669673,-74.0012404,40.7669023,-74.0012146,40.7656228,-73.9981628
+5672464,West 43rd Street,,1,unclassified,yes,0.311761501206,0.311761501206,40.754155,-73.980395,40.754155,-73.980395,40.7549596,-73.9823039,40.755516,-73.983624
+5672036,West 47th Street,,1,residential,yes,1.46473135611,1.46473135611,40.7566543,-73.9785655,40.7566543,-73.9785655,40.7580163,-73.9817975,40.7583143,-73.9825027,40.7591551,-73.9845002,40.7592117,-73.9846345,40.7592666,-73.9847647,40.7593575,-73.9849803,40.7593949,-73.9850691,40.7594571,-73.9852168,40.7604088,-73.9874753,40.7615846,-73.9902658,40.7616057,-73.9903158,40.7628026,-73.9931565,40.7630476,-73.993738
+5673063,East 47th Street,,1,residential,yes,1.08964963327,1.08964963327,40.7518447,-73.9673185,40.7518447,-73.9673185,40.7519959,-73.9676719,40.752956,-73.9699167,40.7539144,-73.9721573,40.7545964,-73.9737519,40.7552254,-73.9752226,40.7553153,-73.9754327,40.7555872,-73.9760685,40.7559713,-73.9769665,40.7566543,-73.9785655
+5669227,,,3,secondary,yes,0.0816021568452,0.244806470536,40.7593876,-73.9969538,40.7593876,-73.9969538,40.7588387,-73.9975963
+5669228,,,1,service,yes,0.0330345294211,0.0330345294211,40.7582896,-73.9973369,40.7582896,-73.9973369,40.7583701,-73.9975568,40.7584221,-73.9976871
+5670029,East 64th Street,,1,residential,yes,1.28297237869,1.28297237869,40.767394,-73.970728,40.767394,-73.970728,40.7667723,-73.9692542,40.7667187,-73.969127,40.7666793,-73.9690336,40.7660762,-73.9676039,40.7659807,-73.9673776,40.7653573,-73.9658998,40.7646823,-73.9642995,40.7637382,-73.9620616,40.7627399,-73.9596951,40.761789,-73.957441
+22941844,,,1,unclassified,yes,0.0195256452727,0.0195256452727,40.7652877,-73.9977548,40.7652877,-73.9977548,40.7653567,-73.9978191,40.7654053,-73.9979207
+5671574,East 59th Street,,1,residential,yes,0.155660652758,0.155660652758,40.764279,-73.973015,40.764279,-73.973015,40.7635979,-73.9714037
+22946967,Central Park-Center Drive,,1,unclassified,yes,0.110024923628,0.110024923628,40.7677615,-73.9787337,40.7677615,-73.9787337,40.7676426,-73.9786572,40.7675291,-73.978627,40.7674078,-73.9786606,40.767016,-73.9789754,40.766965,-73.979012,40.766876,-73.979076
+5673626,Tunnel Exit Street,,1,residential,yes,0.313940380282,0.313940380282,40.747257,-73.975859,40.747257,-73.975859,40.747882,-73.975422,40.7485013,-73.9749705,40.7491137,-73.9745184,40.749735,-73.97407
+5670572,East 67th Street,,1,residential,yes,1.28252185059,1.28252185059,40.763667,-73.956083,40.763667,-73.956083,40.7646126,-73.9583242,40.7651469,-73.9595904,40.7656116,-73.9606918,40.766557,-73.9629323,40.7672321,-73.9645324,40.7673512,-73.9648147,40.7678555,-73.96601,40.7679521,-73.966239,40.7685488,-73.9676533,40.768594,-73.9677605,40.7686447,-73.9678807,40.769271,-73.969365
+5671709,West 53rd Street,,3,secondary,yes,0.311087636083,0.93326290825,40.760418,-73.975831,40.760418,-73.975831,40.7614232,-73.9782277,40.761771,-73.979057
+32939187,,,4,motorway_link,yes,0.041170200294,0.164680801176,40.7523121,-73.967002,40.7523121,-73.967002,40.7523486,-73.9667767,40.7523191,-73.96664,40.7522801,-73.966537
+5672629,East 60th Street,,3,secondary,yes,0.216303036393,0.648909109178,40.7612427,-73.9638824,40.7612427,-73.9638824,40.76218,-73.966128
+5672118,East 52nd Street,,1,residential,yes,1.06675045244,1.06675045244,40.759787,-73.976289,40.759787,-73.976289,40.7591101,-73.9746829,40.7584614,-73.9731439,40.7583707,-73.9729286,40.7582052,-73.9725342,40.7577482,-73.9714516,40.7570731,-73.9698501,40.7561287,-73.9676094,40.75513,-73.96524
+22937785,,,1,service,yes,0.0149724655533,0.0149724655533,40.7626445,-74.000524,40.7626445,-74.000524,40.7627048,-74.0006826
+5670600,West 34th Street,6,3,primary,no,0.585283050563,3.51169830338,40.748439,-73.98456,40.748439,-73.98456,40.7497921,-73.9877652,40.7498534,-73.9879077,40.7509969,-73.9906194
+5671115,West 48th Street,,1,residential,yes,1.0405522934,1.0405522934,40.7655741,-73.9977997,40.7655741,-73.9977997,40.7654896,-73.9975938,40.7646309,-73.9955449,40.7637752,-73.9935339,40.7634284,-73.9927002,40.7622326,-73.9898591,40.7622079,-73.9898096,40.7610365,-73.9870177
+5671117,West 44th Street,,1,unclassified,yes,0.429222861741,0.429222861741,40.7631515,-73.9997912,40.7631515,-73.9997912,40.7630545,-73.9995869,40.7621219,-73.9973838,40.7612702,-73.995351
+5672142,West 36th Street,,3,secondary,yes,0.110130866159,0.330392598478,40.7570856,-74.0010791,40.7570856,-74.0010791,40.7566126,-73.9999328
+5671629,East 48th Street,,1,residential,yes,0.155557825907,0.155557825907,40.757284,-73.978116,40.757284,-73.978116,40.756606,-73.976504
+5673171,Mitchell Place,,1,residential,yes,0.12834726874,0.12834726874,40.752799,-73.9652,40.752799,-73.9652,40.75335,-73.966536
+5672149,East 44th Street,,1,residential,yes,0.242408492267,0.242408492267,40.7547823,-73.9799375,40.7547823,-73.9799375,40.7541,-73.978332,40.753717,-73.977432
+5672151,East 44th Street,,1,residential,yes,0.605544249344,0.605544249344,40.752741,-73.975102,40.752741,-73.975102,40.752065,-73.973503,40.751122,-73.971263,40.7500892,-73.9688366
+32939224,Gen. Douglas MacArthur Plaza,,3,secondary,yes,0.0970606032931,0.291181809879,40.7519074,-73.9653782,40.7519074,-73.9653782,40.7519018,-73.9652779,40.751916,-73.9651637,40.751968,-73.9650693,40.7522216,-73.9648547,40.7523064,-73.9647809,40.7523528,-73.9647754,40.7524011,-73.9647859,40.7524353,-73.9648226,40.7524947,-73.964889
+5671129,East 56th Street,,1,residential,yes,1.28393246739,1.28393246739,40.762293,-73.974457,40.762293,-73.974457,40.7616152,-73.9728511,40.7609688,-73.9713198,40.7608764,-73.9711009,40.7602528,-73.9696237,40.7595777,-73.9680243,40.7586317,-73.9657832,40.7576322,-73.9634155,40.7566813,-73.9611629
+5670106,East 41st Street,,1,unclassified,yes,0.621567585909,0.621567585909,40.752814,-73.981372,40.752814,-73.981372,40.7521385,-73.9797698,40.7515144,-73.9782897,40.7514105,-73.9780364,40.7507747,-73.9765352,40.7503275,-73.9754788,40.7501,-73.974935
+5672155,East 40th Street,,1,unclassified,yes,0.15459359867,0.15459359867,40.752197,-73.981822,40.752197,-73.981822,40.7515213,-73.9802215
+5670114,West 49th Street,,3,secondary,yes,0.311738818617,0.935216455852,40.757912,-73.977655,40.757912,-73.977655,40.7582421,-73.9784451,40.7583996,-73.97882,40.758436,-73.978911,40.7584702,-73.9789919,40.7592744,-73.9808828
+5671654,West 40th Street,,3,primary,,0.271087365167,1.626524191,40.7607126,-74.0020624,40.7607126,-74.0020624,40.7595167,-73.9992636
+5671144,West 32nd Street,,1,unclassified,yes,0.585068580523,0.585068580523,40.749706,-73.991563,40.749706,-73.991563,40.7485042,-73.988708,40.7482826,-73.9881817,40.747168,-73.9854922
+5670124,West 45th Street,,3,secondary,yes,0.312022666451,0.936067999354,40.755405,-73.979483,40.755405,-73.979483,40.7563507,-73.9817165,40.7567712,-73.9827118
+5672173,Beekman Place,,1,residential,,0.145269814188,0.290539628376,40.752799,-73.9652,40.752799,-73.9652,40.753314,-73.964811,40.753935,-73.964347
+5671160,Vanderbilt Avenue,,1,residential,yes,0.0867939570239,0.0867939570239,40.7524145,-73.9783711,40.7524145,-73.9783711,40.753099,-73.977875
+5670139,East 57th Street,,3,primary,,1.06632253408,6.39793520449,40.762967,-73.973968,40.762967,-73.973968,40.7622894,-73.9723599,40.7616441,-73.9708284,40.7615514,-73.9706085,40.7609292,-73.9691318,40.7602554,-73.9675327,40.7593108,-73.965291,40.7589776,-73.9645003,40.7583127,-73.9629223
+5671181,West 37th Street,,3,secondary,yes,0.311266987436,0.933800962308,40.7503045,-73.9832025,40.7503045,-73.9832025,40.7517,-73.986399
+5671182,Shubert Alley,,1,pedestrian,,0.079689329105,0.15937865821,40.7578357,-73.9871893,40.7578357,-73.9871893,40.7584619,-73.9867284
+5673231,East 36th Street,,3,secondary,yes,0.621360134855,1.86408040457,40.749724,-73.983621,40.749724,-73.983621,40.74905,-73.982024,40.7483975,-73.9805355,40.7483097,-73.980292,40.747684,-73.978788,40.747273,-73.977812,40.74701,-73.977188
+23048468,Tudor City Place,,1,residential,yes,0.0695555278744,0.0695555278744,40.7492017,-73.9703334,40.7492017,-73.9703334,40.749757,-73.9699524
+5671192,East 45th Street,,3,secondary,yes,0.450040264427,1.35012079328,40.7507394,-73.9683753,40.7507394,-73.9683753,40.751748,-73.970804,40.752692,-73.973045
+5672730,Lincoln Tunnel Expressway,2,4,motorway_link,yes,0.165720905886,0.662883623546,40.7521983,-73.9993779,40.7521983,-73.9993779,40.7525039,-73.9991674,40.7530672,-73.9987617,40.7532496,-73.9986206,40.7533747,-73.9985184,40.7534861,-73.9984501,40.7535072,-73.9984372
+22916381,Park Avenue,,3,secondary,yes,0.0706948046113,0.212084413834,40.7547048,-73.9758767,40.7547048,-73.9758767,40.754216,-73.9762257,40.7542041,-73.9762542,40.7541983,-73.9762837,40.7542058,-73.9763253
+5669664,West 58th Street,,1,residential,yes,0.062479475793,0.062479475793,40.7639334,-73.974111,40.7639334,-73.974111,40.763659,-73.973465
+5669669,West 29th Street,,1,unclassified,yes,1.96760037434,1.96760037434,40.745301,-73.986846,40.745301,-73.986846,40.746036,-73.988592,40.746659,-73.990067,40.747855,-73.99291,40.7490521,-73.9957492,40.7502111,-73.9985226,40.7502471,-73.9986051,40.7505216,-73.999254,40.7512962,-74.001079,40.751445,-74.00143,40.752641,-74.0042976,40.7537772,-74.0070352,40.7538341,-74.0072598
+5672752,West 57th Street,,3,primary,no,0.760660008249,4.5639600495,40.762967,-73.973968,40.762967,-73.973968,40.764324,-73.977196,40.7651209,-73.9790849,40.765521,-73.980036,40.7658781,-73.9808768,40.7662588,-73.9817812,40.766287,-73.981848
+5670197,West 38th Street,,1,unclassified,yes,1.17952502814,1.17952502814,40.7560896,-73.9949537,40.7560896,-73.9949537,40.7558825,-73.9944848,40.755846,-73.9943963,40.754707,-73.991633,40.753517,-73.988787,40.752893,-73.98731,40.752317,-73.985947,40.750959,-73.982724
+5672760,East 65th Street,,3,secondary,yes,0.155589227519,0.466767682558,40.768025,-73.970281,40.768025,-73.970281,40.7679823,-73.9701798,40.7673977,-73.9687943,40.7673451,-73.9686697
+5673276,12th Avenue,4,4,trunk,yes,0.0907886940234,0.363154776094,40.7619572,-74.0010621,40.7619572,-74.0010621,40.7620677,-74.0009248,40.7625412,-74.0003097
+5670719,West 28th Street,,1,unclassified,yes,1.94701989446,1.94701989446,40.7530892,-74.0072934,40.7530892,-74.0072934,40.7529928,-74.0070523,40.7520155,-74.0047377,40.7510799,-74.0024878,40.750828,-74.001882,40.749638,-73.999035,40.749618,-73.99899,40.7496084,-73.9989643,40.749561,-73.998838,40.749521,-73.998685,40.749495,-73.998515,40.749486,-73.998366,40.749491,-73.998197,40.749495,-73.998146,40.749492,-73.997947,40.749476,-73.997799,40.749448,-73.99765,40.749405,-73.997497,40.74934,-73.99733,40.749264,-73.997187,40.749189,-73.997073,40.7491,-73.996965,40.7490534,-73.9969129,40.748968,-73.996853,40.748851,-73.996783,40.748748,-73.996697,40.748647,-73.996587,40.748559,-73.996459,40.748482,-73.996308,40.7484275,-73.996204,40.747235,-73.993359,40.746038,-73.990518,40.745286,-73.988729,40.744682,-73.987298
+5670221,East Drive,,1,unclassified,,0.314014756343,0.628029512686,40.7650956,-73.9731196,40.7650956,-73.9731196,40.7652801,-73.97307,40.7653086,-73.9730623,40.7655552,-73.9729478,40.7657076,-73.9728488,40.7660274,-73.9726251,40.7661535,-73.9725938,40.7662444,-73.9725969,40.7663321,-73.9726188,40.7664582,-73.9726846,40.7667522,-73.9728852,40.7669825,-73.9729996,40.7672786,-73.9731046,40.7675669,-73.9731672,40.767762,-73.9731938
+5670225,East 46th Street,,3,secondary,yes,0.62146853542,1.86440560626,40.756032,-73.979024,40.756032,-73.979024,40.7553543,-73.9774168,40.7549743,-73.9765158,40.7547747,-73.9760424,40.7547048,-73.9758767,40.7546163,-73.9756668,40.754566,-73.9755476,40.7539937,-73.9741902,40.753318,-73.972588
+5670740,,,4,motorway_link,yes,0.080252623625,0.3210104945,40.7529012,-73.9639852,40.7529012,-73.9639852,40.7523811,-73.964645
+22941526,West 55th Street,,1,unclassified,yes,1.92976612512,1.92976612512,40.761667,-73.974915,40.761667,-73.974915,40.763023,-73.9781397,40.7634894,-73.9792454,40.7637693,-73.979909,40.764219,-73.9809839,40.7647366,-73.9822148,40.7654145,-73.9838267,40.7665825,-73.9866044,40.76661,-73.9866698,40.7678054,-73.9895128,40.7684306,-73.9910236,40.768543,-73.9912988,40.7689943,-73.992362,40.769834,-73.9943825,40.7699071,-73.9945737,40.7699762,-73.994799,40.7700168,-73.9949545
+22898530,Broadway,,1,unclassified,yes,0.0719160587246,0.0719160587246,40.7676798,-73.9818825,40.7676798,-73.9818825,40.7676697,-73.9818277,40.7676514,-73.9817754,40.7676371,-73.9817539,40.7676204,-73.981731,40.7675504,-73.9816827,40.7675291,-73.9816702,40.767503,-73.9816652,40.7674911,-73.981663,40.7674348,-73.981662,40.7673933,-73.9816654,40.7671685,-73.9817018,40.7671189,-73.9817098
+22941539,,,1,service,yes,0.0966071295832,0.0966071295832,40.7627282,-74.0008391,40.7627282,-74.0008391,40.7627645,-74.0010592,40.7626313,-74.0011717,40.7623782,-74.001416,40.762176,-74.0015501
+23048548,1st Avenue,,3,primary,yes,0.425380553846,1.27614166154,40.748678,-73.9699544,40.748678,-73.9699544,40.7520073,-73.9674633
+5669226,,1,4,motorway_link,yes,0.0890549915437,0.356219966175,40.7590428,-73.9980915,40.7590428,-73.9980915,40.7589751,-73.9980007,40.7589365,-73.9979664,40.7588735,-73.9979518,40.7588319,-73.9979586,40.7587932,-73.9979963,40.7587656,-73.9980498,40.7587567,-73.9981233,40.7587586,-73.9982006,40.7587624,-73.9982983,40.7587704,-73.9983824,40.758788,-73.998646
+5673323,West 41st Street,,1,unclassified,yes,0.274960683296,0.274960683296,40.754177,-73.984596,40.754177,-73.984596,40.755035,-73.986639,40.755373,-73.987447
+5671276,9th Avenue,,3,secondary,yes,1.28411327345,3.85233982035,40.7692182,-73.9847694,40.7692182,-73.9847694,40.7685835,-73.9852319,40.7679183,-73.9857166,40.7672246,-73.986222,40.76661,-73.9866698,40.7659937,-73.9871254,40.7653543,-73.9875847,40.7647219,-73.9880455,40.7641124,-73.9884895,40.7634796,-73.9889506,40.7628513,-73.9894083,40.7622326,-73.9898591,40.7616057,-73.9903158,40.7609858,-73.9907674,40.7603553,-73.9912267,40.7597281,-73.9916837,40.7591031,-73.992139
+5670253,Central Park South,,3,secondary,no,0.251346903195,1.50808141917,40.76457,-73.973636,40.76457,-73.973636,40.765675,-73.976234
+5671288,Central Park-Center Drive,,1,unclassified,yes,0.205829875026,0.205829875026,40.765675,-73.976234,40.765675,-73.976234,40.7658183,-73.9761954,40.7659114,-73.9761879,40.765974,-73.9762047,40.7660249,-73.9762337,40.7661059,-73.9763368,40.7663043,-73.9767034,40.7664213,-73.9768459,40.7665146,-73.9769297,40.7666016,-73.9769883,40.7667327,-73.9770154,40.7668141,-73.9770139,40.7669002,-73.9769976,40.7669713,-73.976959,40.7670316,-73.9769167,40.7671254,-73.9768206,40.7672029,-73.9767288
+5670275,Lincoln Tunnel Approach,,3,secondary,yes,0.101188049318,0.303564147955,40.7522336,-73.9994669,40.7522336,-73.9994669,40.7519492,-73.9996333,40.75187,-73.9996806,40.7518272,-73.9996903,40.7517534,-73.9996785,40.7516927,-73.9996545,40.7516532,-73.9996332,40.7516046,-73.9996019,40.7515516,-73.9995645,40.7514831,-73.9994687,40.7514153,-73.9994271
+5669218,,1,4,motorway_link,yes,0.177891358737,0.711565434949,40.7571333,-73.9970778,40.7571333,-73.9970778,40.7571134,-73.9968704,40.7570959,-73.9967529,40.757071,-73.9966216,40.7570489,-73.9965335,40.7570255,-73.9964434,40.7569929,-73.9963454,40.7568953,-73.9960804,40.7568281,-73.9959146,40.7568078,-73.9958422,40.7567956,-73.9957644,40.7567956,-73.9956973,40.7567976,-73.9956169,40.756816,-73.9955391,40.7568415,-73.9954753,40.7568772,-73.9954221,40.7569148,-73.9953804,40.7569734,-73.9953351,40.7570939,-73.9952445
+5670803,Penn Plaza,,3,secondary,yes,0.164032566115,0.492097698345,40.7509969,-73.9906194,40.7509969,-73.9906194,40.7503099,-73.9911047,40.749706,-73.991563
+5670297,West 27th Street,1,1,unclassified,yes,0.266154292393,0.266154292393,40.748801,-74.0009006,40.748801,-74.0009006,40.7490863,-74.0007383,40.7491386,-74.0005061,40.7492687,-74.0004546,40.7493922,-74.0004718,40.7495121,-74.0006178,40.750209,-74.002332
+5670846,7th Avenue,,3,secondary,yes,0.892035222923,2.67610566877,40.766876,-73.979076,40.766876,-73.979076,40.7662134,-73.9795321,40.765521,-73.980036,40.7648393,-73.9805314,40.764219,-73.9809839,40.7635954,-73.9814328,40.7629646,-73.9818975,40.7623343,-73.9823574,40.7617189,-73.9828071,40.7611533,-73.9832136,40.7610991,-73.9832592,40.761029,-73.9833038,40.7605273,-73.9836778,40.7604662,-73.9837233,40.7604121,-73.9837619,40.7599049,-73.9841232,40.759841,-73.984174
+5672383,East 38th Street,,1,unclassified,yes,1.06683770786,1.06683770786,40.750959,-73.982724,40.750959,-73.982724,40.750282,-73.981123,40.7496555,-73.979629,40.7495561,-73.9794009,40.748921,-73.977888,40.748245,-73.976288,40.747882,-73.975422,40.747296,-73.974044,40.746941,-73.973193,40.7465238,-73.9722121,40.746297,-73.971679
+5669879,East 63rd Street,,2,tertiary,yes,0.446046366102,0.892092732204,40.761175,-73.957888,40.761175,-73.957888,40.762115,-73.96015,40.7626804,-73.9614898,40.763113,-73.962515
+5670867,West 50th Street,,3,secondary,yes,0.31146207605,0.934386228149,40.7599106,-73.9804176,40.7599106,-73.9804176,40.7590983,-73.9785288,40.7590651,-73.9784499,40.7590229,-73.9783509,40.7588726,-73.9779902,40.758538,-73.977201
+5669332,,,1,service,yes,0.0800476588429,0.0800476588429,40.7573468,-73.9950445,40.7573468,-73.9950445,40.7573831,-73.9949646,40.7574114,-73.9949089,40.7574292,-73.994867,40.7574438,-73.9948279,40.757451,-73.9948001,40.757458,-73.9947621,40.7574616,-73.9947225,40.7574622,-73.9946875,40.7574545,-73.9946476,40.7574424,-73.9946128,40.7574237,-73.9945759,40.7574057,-73.9945515,40.7573835,-73.9945269,40.7573518,-73.9945023,40.7573246,-73.9944877,40.7572946,-73.9944823,40.7572396,-73.9944845,40.7571359,-73.9945639
+5670873,Grand Army Plaza,,3,secondary,yes,0.0749547835049,0.224864350515,40.7650956,-73.9731196,40.7650956,-73.9731196,40.7650674,-73.9732273,40.765056,-73.9732432,40.7650309,-73.973278,40.76457,-73.973636
+5670874,Grand Army Plaza,,3,secondary,,0.0615918123203,0.369550873922,40.764279,-73.973015,40.764279,-73.973015,40.7643435,-73.973153,40.7645184,-73.9735259,40.76457,-73.973636
+22941661,,,1,service,no,0.534851333097,1.06970266619,40.7685537,-73.9959555,40.7685537,-73.9959555,40.768635,-73.9959861,40.768677,-73.99601,40.7687016,-73.9960355,40.768719,-73.996063,40.7687315,-73.9960944,40.7687372,-73.9961264,40.7687354,-73.9961604,40.7687266,-73.9961943,40.7687079,-73.9962288,40.768683,-73.9962498,40.7686582,-73.9962596,40.7686341,-73.9962606,40.7686129,-73.996256,40.7685889,-73.9962431,40.768565,-73.9962225,40.7684988,-73.9961569,40.7684651,-73.9961356,40.7684276,-73.996129,40.7682603,-73.9962308,40.7682364,-73.9962451,40.7681313,-73.9963222,40.766974,-73.99721,40.7669141,-73.9972507,40.7656957,-73.9981091,40.7656228,-73.9981628,40.7652007,-73.9984302,40.7651546,-73.9984653,40.7651227,-73.9984975,40.7651139,-73.9985169,40.7651077,-73.9985382,40.7651046,-73.998563,40.7651056,-73.9985842,40.7651129,-73.9986122,40.7651281,-73.9986329,40.7651502,-73.9986509,40.7651752,-73.9986554,40.7651945,-73.9986524,40.7652163,-73.9986411,40.7652362,-73.9986175,40.7652529,-73.9985646,40.7652728,-73.9984713,40.7652927,-73.9983991
+32946656,East 53rd Street,,3,secondary,yes,0.635043903762,1.90513171129,40.7549217,-73.962821,40.7549217,-73.962821,40.755756,-73.964786,40.756766,-73.967152,40.7577,-73.969394
+32939511,FDR Drive,3,4,motorway,yes,0.475971633245,1.90388653298,40.7516116,-73.965163,40.7516116,-73.965163,40.7482862,-73.9680026,40.7480124,-73.9682231
+32939516,,,4,motorway_link,yes,0.19673746915,0.786949876599,40.7522801,-73.966537,40.7522801,-73.966537,40.751851,-73.9655413,40.7517924,-73.9653525,40.7517794,-73.9651808,40.751825,-73.9649148,40.7518965,-73.964786,40.7521251,-73.9645592
+5670891,East 51st Street,,1,residential,,0.0314213061725,0.062842612345,40.7538,-73.96402,40.7538,-73.96402,40.753935,-73.964347
+5669356,,1,4,motorway_link,yes,0.0968345307432,0.387338122973,40.7571333,-73.9970778,40.7571333,-73.9970778,40.7570655,-73.9968672,40.7570379,-73.9967507,40.7569991,-73.9966158,40.7569648,-73.9965035,40.7569267,-73.9964041,40.7567698,-73.9960389
+32939517,FDR Drive,3,4,motorway,yes,0.370715743168,1.48286297267,40.7543558,-73.9626667,40.7543558,-73.9626667,40.7541201,-73.9628806,40.7537755,-73.963181,40.7529012,-73.9639852,40.7522476,-73.9646058,40.7519615,-73.964889,40.7516116,-73.965163
+5670899,Sutton Place South,,3,secondary,yes,0.0968317228861,0.290495168658,40.7554418,-73.9620783,40.7554418,-73.9620783,40.7550008,-73.9624325,40.7549164,-73.9624974,40.7548939,-73.9625429,40.7548875,-73.9626019,40.7548945,-73.9626995,40.7549217,-73.962821
+5673461,East 62nd Street,,1,residential,yes,0.930663934958,0.930663934958,40.766143,-73.971648,40.766143,-73.971648,40.7655184,-73.9701659,40.7654664,-73.9700424,40.7654231,-73.9699396,40.7648769,-73.9686436,40.764823,-73.9685157,40.7647284,-73.9682912,40.7641054,-73.9668127,40.7634317,-73.9652142,40.7624875,-73.9629737,40.7620753,-73.9620111
+5672951,East 58th Street,,1,residential,yes,0.914520082947,0.914520082947,40.763659,-73.973465,40.763659,-73.973465,40.7629781,-73.9718586,40.7623299,-73.9703295,40.7622364,-73.9701089,40.7616111,-73.9686338,40.761241,-73.9677607,40.7609338,-73.967036,40.7599854,-73.9647985,40.759649,-73.964005
+32939513,FDR Drive,3,4,motorway,yes,0.453861072971,1.81544429188,40.748114,-73.9678744,40.748114,-73.9678744,40.751538,-73.96494
+5672954,East 54th Street,,3,secondary,yes,0.155073546507,0.465220639521,40.76104,-73.975373,40.76104,-73.975373,40.7603636,-73.9737663
+32939515,,,4,motorway_link,yes,0.175895989893,0.703583959574,40.7521251,-73.9645592,40.7521251,-73.9645592,40.7531188,-73.9636187,40.7534052,-73.9633327
+5671932,West 31st Street,,3,secondary,yes,1.12543687429,3.37631062287,40.746536,-73.985949,40.746536,-73.985949,40.7471998,-73.9875144,40.747535,-73.988305,40.7478958,-73.9891568,40.749101,-73.992006,40.7502935,-73.9948451,40.7504677,-73.9952596,40.7514268,-73.9975414,40.7514523,-73.9976021
+22941693,,,1,service,yes,0.615052932886,0.615052932886,40.766974,-73.99721,40.766974,-73.99721,40.7670465,-73.9973822,40.7671162,-73.9974007,40.7671614,-73.9974885,40.7683194,-74.0001761,40.7683259,-74.0002619,40.7682414,-74.0003477,40.7681894,-74.000322,40.7669141,-73.9972507
+46334593,West 41st Street,,3,secondary,yes,0.127159416234,0.381478248703,40.7578265,-73.9930688,40.7578265,-73.9930688,40.7583702,-73.9943941
+36806658,West 30th Street,,3,secondary,yes,0.122856247925,0.368568743776,40.7514153,-73.9994271,40.7514153,-73.9994271,40.7508794,-73.9981544
+36806659,West 30th Street,,3,secondary,yes,0.550176767648,1.65053030294,40.7508794,-73.9981544,40.7508794,-73.9981544,40.7508421,-73.9980781,40.7496708,-73.9952986,40.748469,-73.992463
+46443639,,,1,service,yes,0.0241339889832,0.0241339889832,40.7669012,-73.9971564,40.7669012,-73.9971564,40.7668813,-73.9971103,40.7668489,-73.9970354,40.7667938,-73.9969079
+36806661,,,4,motorway_link,yes,0.134116979001,0.536467916004,40.755102,-73.9963996,40.755102,-73.9963996,40.7553346,-73.9960352,40.7555428,-73.9957062,40.7558991,-73.9952073
+46211835,East 59th Street,,3,primary,no,0.085805884487,0.514835306922,40.7599876,-73.9628591,40.7599876,-73.9628591,40.759619,-73.961966
+46443649,East 51st Street,,1,residential,yes,0.130322477635,0.130322477635,40.753935,-73.964347,40.753935,-73.964347,40.7545043,-73.9656965
+36836396,,,1,service,yes,0.0486059431735,0.0486059431735,40.757897,-73.9948142,40.757897,-73.9948142,40.7579187,-73.9947382,40.7579351,-73.9946373,40.7579484,-73.9945483,40.7579603,-73.9944321,40.7579608,-73.9942488
+36836398,car parking,,1,service,yes,0.101198458707,0.101198458707,40.7574828,-73.9960568,40.7574828,-73.9960568,40.7574135,-73.9958896,40.7573889,-73.9958133,40.7573773,-73.9957377,40.7573773,-73.995676,40.7573853,-73.9956128,40.7574001,-73.9955483,40.7574203,-73.9954948,40.757459,-73.9954304,40.7575506,-73.9952843,40.7576125,-73.9951854,40.7576656,-73.995083,40.7576882,-73.9950178
+36801164,,,4,motorway_link,yes,0.046863585755,0.18745434302,40.7588387,-73.9975963,40.7588387,-73.9975963,40.7587769,-73.9976653,40.7587446,-73.9977195,40.7587215,-73.9977726,40.7586989,-73.9978282,40.7586854,-73.9979018,40.7586757,-73.9979956,40.7586745,-73.9980805
+36801165,11th Avenue,,3,primary,,0.257337871811,1.54402723087,40.7595167,-73.9992636,40.7595167,-73.9992636,40.7589161,-73.9997231,40.7587295,-73.9998799,40.7582984,-74.0001819,40.7576858,-74.0006278,40.7575039,-74.0007721
+36806670,Lincoln Tunnel Expressway,2,4,motorway,yes,0.103955680995,0.415822723979,40.7548437,-73.9971023,40.7548437,-73.9971023,40.7549243,-73.9966928,40.755028,-73.9963602,40.7551052,-73.996151,40.7551864,-73.9959632
+36806671,Lincoln Tunnel Expressway,2,4,motorway,yes,0.138490864314,0.553963457255,40.7550005,-73.9970114,40.7550005,-73.9970114,40.7549066,-73.9972832,40.7548384,-73.9974716,40.7547723,-73.997631,40.7547137,-73.997763,40.7546345,-73.9978961,40.7545384,-73.9980324,40.7544668,-73.998131,40.7543775,-73.9982232,40.7542819,-73.9983187
+36806673,Lincoln Tunnel Expressway,2,4,motorway,yes,0.0643261529217,0.257304611687,40.7552758,-73.9963423,40.7552758,-73.9963423,40.7551374,-73.9966382,40.7550005,-73.9970114
+46435602,West 46th Street,,3,secondary,yes,0.412795000919,1.23838500276,40.7643295,-73.9987139,40.7643295,-73.9987139,40.7642389,-73.998495,40.7633783,-73.9964573,40.7625283,-73.9944373
+36836394,,,1,service,yes,0.0358777183557,0.0358777183557,40.7579608,-73.9942488,40.7579608,-73.9942488,40.757981,-73.9943328,40.7579953,-73.994424,40.7580082,-73.9945331,40.7580174,-73.9946658
+36806677,,,4,motorway_link,yes,0.0977761158979,0.391104463591,40.7558251,-73.9954816,40.7558251,-73.9954816,40.7557565,-73.9957067,40.7554018,-73.9964943
+36806678,West 37th Street,,3,secondary,yes,0.0824073002863,0.247221900859,40.7554842,-73.9954509,40.7554842,-73.9954509,40.7558397,-73.9963075
+36806679,West 37th Street,,3,secondary,yes,0.267896578807,0.80368973642,40.7558397,-73.9963075,40.7558397,-73.9963075,40.7564882,-73.9977608,40.7570259,-73.9990694
+35027224,Broadway,,1,pedestrian,no,0.182700494328,0.365400988656,40.7506639,-73.9877768,40.7506639,-73.9877768,40.7498534,-73.9879077,40.7495945,-73.9879544,40.749491,-73.987973,40.7490333,-73.9880635
+36806681,West 38th Street,,1,unclassified,yes,0.0397412259646,0.0397412259646,40.7565145,-73.9959667,40.7565145,-73.9959667,40.756336,-73.9955588
+36806682,West 38th Street,,1,unclassified,yes,0.0340666689321,0.0340666689321,40.756336,-73.9955588,40.756336,-73.9955588,40.756194,-73.9952012
+36806683,West 38th Street,,1,unclassified,yes,0.0239002252188,0.0239002252188,40.756194,-73.9952012,40.756194,-73.9952012,40.7560896,-73.9949537
+46201628,East 49th Street,,3,secondary,yes,0.192088732917,0.576266198752,40.7523811,-73.964645,40.7523811,-73.964645,40.7524947,-73.964889,40.7526767,-73.9652838,40.753244,-73.966616
+35027229,Broadway,,3,secondary,yes,0.583020906926,1.74906272078,40.755804,-73.986398,40.755804,-73.986398,40.755035,-73.986639,40.754318,-73.986865,40.753607,-73.987089,40.752893,-73.98731,40.752159,-73.987491,40.7514288,-73.9876368,40.7506639,-73.9877768
+46419222,,2,4,motorway_link,yes,0.0600800101019,0.240320040408,40.759649,-73.964005,40.759649,-73.964005,40.7601311,-73.9636821
+46226335,Lincoln Tunnel Approach,,3,primary,yes,0.0379199128793,0.113759738638,40.7518895,-73.9995692,40.7518895,-73.9995692,40.7519483,-73.9995278,40.7520646,-73.9994565,40.7521983,-73.9993779
+35027232,Broadway,,1,pedestrian,no,0.414688155772,0.829376311543,40.7593949,-73.9850691,40.7593949,-73.9850691,40.7586863,-73.9853225,40.7579667,-73.985552,40.7572592,-73.9858201,40.756581,-73.986156,40.755804,-73.986398
+44165027,Park Avenue,,3,secondary,yes,0.240940247354,0.722820742063,40.7521774,-73.9778117,40.7521774,-73.9778117,40.7515144,-73.9782897,40.7508944,-73.9787363,40.7502747,-73.9791828
+44165029,Park Avenue,,3,secondary,yes,0.129129567715,0.387388703144,40.750313,-73.9789844,40.750313,-73.9789844,40.7508261,-73.9785747,40.7513124,-73.9782029
+44165030,Park Avenue,,3,secondary,yes,0.0237328136584,0.0711984409751,40.7506192,-73.9786451,40.7506192,-73.9786451,40.7508261,-73.9785747
+44165031,Park Avenue,,3,secondary,yes,0.0630664798858,0.189199439657,40.751349,-73.9782887,40.751349,-73.9782887,40.7508944,-73.9787363
+36807208,car parking,,1,service,yes,0.0428363406927,0.0428363406927,40.7567669,-73.9946729,40.7567669,-73.9946729,40.7569003,-73.9947679,40.7569388,-73.9948001,40.7569673,-73.9948376,40.7570018,-73.994894,40.7570641,-73.9949849
+36807209,,,1,service,yes,0.0893588314747,0.0893588314747,40.7571281,-73.9949619,40.7571281,-73.9949619,40.7571553,-73.9950276,40.7571789,-73.9950736,40.7572082,-73.9951262,40.757229,-73.9951617,40.7572822,-73.9952346,40.757333,-73.9952883,40.7573797,-73.9953097,40.7574183,-73.9953124,40.7574915,-73.9953097,40.7575586,-73.9953155,40.7576266,-73.9952931,40.7576771,-73.9952594,40.7577776,-73.9951625
+36807210,car parking,,1,service,yes,0.0968774099779,0.0968774099779,40.7570688,-73.9950004,40.7570688,-73.9950004,40.75716,-73.9952208,40.7571731,-73.9952555,40.7571866,-73.9952827,40.7572011,-73.9953062,40.7572193,-73.9953272,40.7572392,-73.9953441,40.7572596,-73.9953579,40.7572878,-73.9953711,40.7573107,-73.9953769,40.757324,-73.9953777,40.7573449,-73.9953767,40.7573655,-73.9953729,40.7573877,-73.9953656,40.7574057,-73.9953554,40.7574377,-73.9953301,40.7574712,-73.9952963,40.7575119,-73.995243,40.757621,-73.9951068,40.7576882,-73.9950178
+36807211,car parking,,1,service,yes,0.0928980177092,0.0928980177092,40.7577856,-73.9948228,40.7577856,-73.9948228,40.7577556,-73.9949342,40.7577373,-73.9949906,40.7577007,-73.9950818,40.7576642,-73.9951515,40.7576134,-73.9952588,40.7575849,-73.9953339,40.7575768,-73.9953822,40.7575707,-73.9954492,40.75757,-73.9955193,40.7575747,-73.9955699,40.7575807,-73.9956099,40.757591,-73.9956504,40.7576496,-73.9958361
+36807212,car parking,,1,service,,0.148417775344,0.296835550687,40.7573174,-73.9932658,40.7573174,-73.9932658,40.7574678,-73.9934678,40.7575064,-73.9935187,40.7575511,-73.9936099,40.7577055,-73.9939881,40.7577462,-73.9941034,40.7577726,-73.9941866,40.757795,-73.9942778,40.7578112,-73.9943717,40.7578183,-73.9944511,40.7578195,-73.9945516,40.7578138,-73.9946378,40.7578045,-73.9947208,40.7577856,-73.9948228
+36807214,car parking,,1,service,yes,0.019705117216,0.019705117216,40.7576882,-73.9950178,40.7576882,-73.9950178,40.7577235,-73.9949513,40.7577856,-73.9948228
+46201629,,,1,service,yes,0.101647310117,0.101647310117,40.7516583,-73.9653495,40.7516583,-73.9653495,40.7518863,-73.9651797,40.7519074,-73.9650983,40.7519368,-73.9650499,40.7521664,-73.9648534,40.7523811,-73.964645
+36836400,car parking,,1,service,yes,0.0419100840341,0.0419100840341,40.7571359,-73.9945639,40.7571359,-73.9945639,40.7570808,-73.9946065,40.7570653,-73.9946259,40.7570563,-73.9946502,40.75705,-73.9946803,40.7570446,-73.9947141,40.7570421,-73.994753,40.7570405,-73.9948016,40.757043,-73.9948674,40.7570501,-73.9949268,40.7570641,-73.9949849,40.7570688,-73.9950004
+36185649,East 52nd Street,,1,residential,,0.202553813033,0.405107626066,40.75513,-73.96524,40.75513,-73.96524,40.7542377,-73.963148
+46334594,East 60th Street,,3,secondary,yes,0.466599450673,1.39979835202,40.762851,-73.967727,40.762851,-73.967727,40.7634774,-73.9692037,40.7635717,-73.9694261,40.7642198,-73.9709542,40.764898,-73.972553
+36836404,,,1,service,yes,0.153774771944,0.153774771944,40.7573468,-73.9950445,40.7573468,-73.9950445,40.7574413,-73.9949988,40.7575091,-73.994993,40.7575819,-73.9950325,40.757651,-73.9950942,40.7577038,-73.99518,40.7579415,-73.9957272,40.7579862,-73.9958586,40.7580085,-73.9959927,40.7579943,-73.9961107,40.7579659,-73.9961939,40.7579244,-73.9962693,40.7578895,-73.9963085
+32947509,Queensboro Bridge (Lower Level/Outer Roadway),1,4,motorway,yes,0.166000676794,0.664002707176,40.7599876,-73.9628591,40.7599876,-73.9628591,40.7601259,-73.9630642,40.7601709,-73.9631257,40.7602022,-73.9631402,40.76023,-73.963136,40.7602936,-73.9631093,40.7603213,-73.9630795,40.7603356,-73.9630293,40.7603526,-73.9629207,40.7603302,-73.9627394,40.7599605,-73.9618167
+46432182,West 39th Street,,1,unclassified,yes,0.269575920551,0.269575920551,40.7600849,-74.0025212,40.7600849,-74.0025212,40.7589161,-73.9997231
+46432183,West 39th Street,,1,unclassified,yes,0.228483339497,0.228483339497,40.7571432,-73.9955409,40.7571432,-73.9955409,40.7577413,-73.9968472,40.7581825,-73.9978758
+36801336,,,4,motorway_link,yes,0.0435109769961,0.174043907984,40.7581825,-73.9978758,40.7581825,-73.9978758,40.7583806,-73.9981255,40.7584598,-73.9982395
+46432185,,,1,service,yes,0.602717592853,0.602717592853,40.7587295,-73.9998799,40.7587295,-73.9998799,40.7586617,-74.0001816,40.7585886,-74.0003745,40.7584513,-74.0005034,40.7578178,-74.0009554,40.7571835,-74.0014261,40.7564886,-74.0018875,40.7562936,-74.0020001,40.7561676,-74.0020806,40.7560945,-74.0021664,40.7560945,-74.0022737,40.7568538,-74.0041375,40.7570969,-74.0046935
+46211829,East 60th Street,,2,tertiary,yes,0.0747255146993,0.149451029399,40.7612427,-73.9638824,40.7612427,-73.9638824,40.7609044,-73.9631174
+46435621,West 43rd Street,,1,unclassified,yes,0.43520563603,0.43520563603,40.7606435,-73.9958001,40.7606435,-73.9958001,40.7615047,-73.9978445,40.7625412,-74.0003097
+46240204,Park Avenue,,3,secondary,yes,4.13272081354,12.3981624406,40.7546163,-73.9756668,40.7546163,-73.9756668,40.7552254,-73.9752226,40.755868,-73.9747539,40.7564963,-73.9742957,40.7571208,-73.9738402,40.7577472,-73.9733833,40.7583707,-73.9729286,40.758999,-73.9724703,40.7596256,-73.9720133,40.7602506,-73.9715574,40.7608764,-73.9711009,40.7615514,-73.9706085,40.7622364,-73.9701089,40.7628587,-73.9696549,40.7634774,-73.9692037,40.7641041,-73.9687465,40.7647284,-73.9682912,40.765354,-73.9678348,40.7659807,-73.9673776,40.7666071,-73.9669207,40.76723,-73.9664663,40.7678555,-73.96601,40.7684861,-73.96555,40.7691072,-73.9650969,40.7697418,-73.9646339,40.7703607,-73.9641825,40.7710455,-73.9636829,40.7717236,-73.9631882,40.7723557,-73.962727,40.7729988,-73.9622579,40.7736344,-73.9617942,40.7742658,-73.9613336,40.7748832,-73.9608832,40.7755735,-73.9603796,40.7762614,-73.9598777,40.7768948,-73.9594155,40.7774832,-73.9589862,40.7775334,-73.9589496,40.778169,-73.9584859,40.7788039,-73.9580227,40.7794356,-73.9575618,40.7801304,-73.9570594,40.7807974,-73.9565682,40.7814189,-73.9561147,40.7820524,-73.9556525,40.7826785,-73.9551956,40.7833046,-73.9547388,40.7839274,-73.9542844,40.7845639,-73.95382,40.7851883,-73.9533644,40.7858022,-73.9529164,40.7864938,-73.9524117,40.7871611,-73.9519248
+46420287,,,1,unclassified,yes,0.0804291088712,0.0804291088712,40.7608058,-73.9628873,40.7608058,-73.9628873,40.7614216,-73.9623859
+36801355,,,4,motorway_link,yes,0.0458651975427,0.183460790171,40.7583834,-73.997795,40.7583834,-73.997795,40.7583833,-73.9979078,40.7583806,-73.9981255,40.7583716,-73.9983378
+36836395,,,1,service,,0.108183729811,0.216367459622,40.7579608,-73.9942488,40.7579608,-73.9942488,40.7579317,-73.9941218,40.7576369,-73.9934165,40.7574639,-73.9931589
+44165033,Park Avenue,,3,secondary,yes,0.415992585158,1.24797775547,40.7513124,-73.9782029,40.7513124,-73.9782029,40.7521739,-73.9775806,40.7522133,-73.9775456,40.7522389,-73.9774948,40.7522467,-73.9774503,40.7522389,-73.9773982,40.7521411,-73.9771569,40.7521284,-73.9770996,40.7521261,-73.9770555,40.7521354,-73.9770034,40.7521576,-73.9769621,40.7521838,-73.9769177,40.752221,-73.9768889,40.7537267,-73.9758108,40.7537818,-73.975792,40.7538415,-73.9757948,40.7538831,-73.9757967,40.7539577,-73.9758188,40.754012,-73.9758554,40.7540778,-73.9760057
+46226332,West 30th Street,,3,secondary,yes,0.149069398969,0.447208196908,40.752025,-74.0009997,40.752025,-74.0009997,40.7514153,-73.9994271
+46435596,West 45th Street,,3,secondary,yes,0.393719833282,1.18115949984,40.7618975,-73.9948916,40.7618975,-73.9948916,40.7627499,-73.9969249,40.7636177,-73.9989689
+36806680,West 38th Street,,1,unclassified,yes,0.25013641864,0.25013641864,40.7576207,-73.9985466,40.7576207,-73.9985466,40.7571105,-73.9973071,40.7565145,-73.9959667
+36807166,,,1,service,yes,0.0378105152467,0.0378105152467,40.7575391,-73.9945228,40.7575391,-73.9945228,40.757498,-73.9944702,40.7574598,-73.9944379,40.7574305,-73.9944192,40.7573899,-73.9944085,40.7573493,-73.9944112,40.7573185,-73.9944296,40.7572865,-73.9944518,40.7572396,-73.9944845
+46443656,West 49th Street,,3,secondary,yes,1.58897696832,4.76693090497,40.7592744,-73.9808828,40.7592744,-73.9808828,40.7600461,-73.982722,40.7604662,-73.9837233,40.7607353,-73.9843649,40.760776,-73.9844618,40.7609842,-73.984958,40.7616583,-73.9865645,40.7621607,-73.9877621,40.7623062,-73.9881091,40.7624093,-73.9883549,40.7625578,-73.9887089,40.7628288,-73.9893548,40.7628513,-73.9894083,40.7640441,-73.9922513,40.764295,-73.9928492,40.7643952,-73.993088,40.7652375,-73.9950957,40.7654411,-73.9955789,40.7661012,-73.9971547,40.7661872,-73.9973596
+32947291,,,3,primary_link,yes,0.0854877812963,0.256463343889,40.7589776,-73.9645003,40.7589776,-73.9645003,40.759649,-73.964005
+32947292,,2,4,motorway,yes,0.0353623057842,0.141449223137,40.7606074,-73.9643288,40.7606074,-73.9643288,40.7606507,-73.9641438,40.7606894,-73.9639244
+32947293,Queensboro Bridge (Upper Level),2,4,motorway_link,yes,0.300278549397,1.20111419759,40.7601311,-73.9636821,40.7601311,-73.9636821,40.7604316,-73.9634904,40.7604748,-73.9634295,40.7604976,-73.9633331,40.760496,-73.9632345,40.7604785,-73.9631562,40.7602387,-73.9626087,40.7598499,-73.9617202,40.7597025,-73.9612128,40.7595222,-73.960714
+32947295,,2,4,motorway,yes,0.227544804445,0.910179217779,40.7600748,-73.9617734,40.7600748,-73.9617734,40.7606225,-73.9630693,40.7606734,-73.9631634,40.76082,-73.9633285,40.7608762,-73.9634185,40.7610711,-73.9638341,40.7611402,-73.9638832,40.7612427,-73.9638824
+36801250,,,1,service,yes,0.0326440283513,0.0326440283513,40.7582896,-73.9973369,40.7582896,-73.9973369,40.7583575,-73.9974641,40.7583807,-73.9975092,40.7584247,-73.9975624,40.7584497,-73.9975819,40.7584711,-73.9975948,40.7584922,-73.997603
+34768995,FDR Drive,3,4,motorway,yes,0.136880896095,0.547523584381,40.7553476,-73.9617129,40.7553476,-73.9617129,40.7552119,-73.961892,40.7547608,-73.9623174,40.7545539,-73.9625193,40.7543558,-73.9626667
+32947558,,,4,motorway_link,yes,0.115969203647,0.463876814586,40.7601358,-73.961709,40.7601358,-73.961709,40.7605123,-73.9626218,40.7605989,-73.9628213,40.7606527,-73.9628992
+36807164,,1,4,motorway_link,yes,0.172155702747,0.688622810988,40.757565,-73.996758,40.757565,-73.996758,40.7574249,-73.9966751,40.7573061,-73.9965525,40.757232,-73.9964785,40.757168,-73.9963988,40.7570978,-73.9962841,40.7569538,-73.9960477,40.756907,-73.9959539,40.7568806,-73.9958868,40.7568664,-73.9958144,40.7568604,-73.9957366,40.7568584,-73.9956642,40.7568664,-73.9956025,40.7568827,-73.9955408,40.756907,-73.9954872,40.7569355,-73.9954443,40.7569995,-73.9953762,40.7570939,-73.9952445
+36271338,East 41st Street,,1,unclassified,,0.216446238864,0.432892477729,40.7501,-73.974935,40.7501,-73.974935,40.749735,-73.97407,40.7496989,-73.9739839,40.749157,-73.972692
+36806892,,,4,motorway_link,yes,0.182271993538,0.729087974154,40.7552114,-73.9966605,40.7552114,-73.9966605,40.7552192,-73.996793,40.7552124,-73.9968725,40.755192,-73.9969608,40.7551164,-73.9971374,40.7550645,-73.9972475,40.7549596,-73.9974773,40.7549012,-73.9976034,40.7548256,-73.9977442,40.7547633,-73.9978611,40.7547163,-73.9979313,40.7546432,-73.9980246,40.7545662,-73.9981117,40.7543885,-73.998263,40.7542819,-73.9983187
+46211836,East 58th Street,,3,secondary,yes,0.369130886267,1.1073926588,40.759649,-73.964005,40.759649,-73.964005,40.758981,-73.962432,40.758037,-73.960182
+36807165,,,4,motorway_link,yes,0.0328321506897,0.131328602759,40.7570939,-73.9952445,40.7570939,-73.9952445,40.7572091,-73.9951671,40.7573468,-73.9950445
+36806896,,,4,motorway_link,yes,0.0168781612441,0.0675126449762,40.7534449,-73.998498,40.7534449,-73.998498,40.7535291,-73.998518,40.7535941,-73.9985
+44165032,Park Avenue,,3,secondary,yes,0.431988778802,1.2959663364,40.7542058,-73.9763253,40.7542058,-73.9763253,40.75433,-73.9766214,40.7543468,-73.9766735,40.7543406,-73.976729,40.7543165,-73.9767725,40.754128,-73.976918,40.753641,-73.977281,40.7526785,-73.9780119,40.7526294,-73.9780292,40.7525809,-73.978029,40.7525369,-73.9780098,40.7525029,-73.9779689,40.7523729,-73.9776685,40.7523415,-73.9776372,40.7522975,-73.9776245,40.7522512,-73.9776338,40.7522023,-73.9776664,40.751349,-73.9782887
+46435657,West 41st Street,,1,unclassified,yes,0.0149603913097,0.0149603913097,40.7593876,-73.9969538,40.7593876,-73.9969538,40.759449,-73.9971115
+46139027,11th Avenue,,3,primary,yes,0.165640100874,0.496920302623,40.7608279,-73.9983286,40.7608279,-73.9983286,40.7601488,-73.9988039,40.7595167,-73.9992636
+36806901,,,4,motorway_link,yes,0.1117007799,0.4468031196,40.7545384,-73.9980324,40.7545384,-73.9980324,40.7543081,-73.9982068,40.7541729,-73.9982989,40.7540067,-73.9983918,40.7538309,-73.9984648,40.7536161,-73.9985431
+36806903,West 34th Street,6,3,primary,no,0.171174615879,1.02704769527,40.7533937,-73.9962976,40.7533937,-73.9962976,40.7539445,-73.997618,40.754135,-73.9980748
+36806905,West 39th Street,,1,unclassified,yes,0.0423465027661,0.0423465027661,40.7569544,-73.9951052,40.7569544,-73.9951052,40.7571432,-73.9955409
+36806906,West 39th Street,,1,unclassified,yes,1.13366162532,1.13366162532,40.751577,-73.982275,40.751577,-73.982275,40.7520647,-73.983429,40.752935,-73.985488,40.753607,-73.987089,40.75413,-73.988335,40.75533,-73.991177,40.7564755,-73.9939408,40.7565119,-73.9940267
+36806907,Lincoln Tunnel Expressway,2,4,motorway,reversible,0.121855772256,0.97484617805,40.757565,-73.996758,40.757565,-73.996758,40.7574122,-73.9965677,40.7573269,-73.996455,40.757268,-73.9963558,40.757209,-73.9962512,40.7571481,-73.9961144,40.7569287,-73.9955967
+36806908,Lincoln Tunnel Expressway,2,4,motorway,yes,0.150176403251,0.600705613004,40.7551864,-73.9959632,40.7551864,-73.9959632,40.7553409,-73.9957567,40.7554892,-73.995585,40.7558991,-73.9952073,40.7559735,-73.9951269,40.7560515,-73.9950567,40.7561596,-73.9949969,40.7562826,-73.9949618
+36806909,Lincoln Tunnel Expressway,1,4,motorway,yes,0.081348002982,0.325392011928,40.7579577,-73.9969416,40.7579577,-73.9969416,40.7580428,-73.9970827,40.7581145,-73.9972148,40.758173,-73.9973217,40.7582379,-73.9974532,40.7582933,-73.9975786,40.7583618,-73.997743
+36806910,,,1,service,yes,0.284406908842,0.284406908842,40.7575515,-73.993095,40.7575515,-73.993095,40.7576975,-73.9933631,40.7580124,-73.9941168,40.7580327,-73.9942027,40.7580489,-73.9942858,40.758053,-73.9943636,40.7580509,-73.9944548,40.7580428,-73.9945379,40.7580174,-73.9946658,40.7579149,-73.9951173,40.7578441,-73.9954097,40.7578072,-73.9955572,40.7577909,-73.995694,40.7577784,-73.9958407,40.7577868,-73.9959952,40.757796,-73.9961046,40.7578184,-73.9962343
+46139029,West 40th Street,,1,unclassified,yes,0.0255223055458,0.0255223055458,40.7590428,-73.9980915,40.7590428,-73.9980915,40.7589348,-73.9978247
+46520834,Park Avenue,,3,secondary,yes,0.421243115305,1.26372934592,40.7469965,-73.9814054,40.7469965,-73.9814054,40.750313,-73.9789844
+46491168,,,4,motorway_link,yes,0.118214738675,0.472858954702,40.7535941,-73.9985,40.7535941,-73.9985,40.7537917,-73.9984243,40.7539807,-73.9983467,40.7541371,-73.9982674,40.7542837,-73.9981607,40.7544105,-73.9980488,40.7545383,-73.9978958
+46491169,,,4,motorway_link,yes,0.0172142367395,0.068856946958,40.7536161,-73.9985431,40.7536161,-73.9985431,40.7535693,-73.9985813,40.7535244,-73.9986987
+66593849,Rockefeller Plaza,,1,pedestrian,no,0.733248275064,1.46649655013,40.759727,-73.978073,40.759727,-73.978073,40.7596529,-73.9778965,40.7595293,-73.9779878,40.7595021,-73.9780071,40.7594692,-73.9780319,40.7594235,-73.9780652,40.7592389,-73.9782,40.759193,-73.9782327,40.7591594,-73.9782572,40.7590229,-73.9783509,40.7588726,-73.9779902,40.7587947,-73.9780467,40.7587674,-73.9780663,40.7587447,-73.9780825,40.7586712,-73.978136,40.7586487,-73.9781522,40.7586215,-73.9781717,40.758367,-73.9775532,40.758291,-73.9773806,40.7581582,-73.9774783,40.7582302,-73.977652,40.7584844,-73.9782699,40.7584572,-73.9782894,40.7584345,-73.9783057,40.758361,-73.9783592,40.7583384,-73.9783754,40.7583112,-73.9783949,40.7582421,-73.9784451,40.7583996,-73.97882,40.7577783,-73.9792737,40.7578499,-73.9794445,40.7579179,-73.9793948,40.7583976,-73.9790447,40.7584702,-73.9789919,40.7586736,-73.9788428,40.7590983,-73.9785288,40.759151,-73.9784901,40.7596398,-73.9781354,40.759727,-73.978073
+46538335,West 51st Street,1,1,residential,yes,0.664535858613,0.664535858613,40.759165,-73.976744,40.759165,-73.976744,40.7596529,-73.9778965,40.759727,-73.978073,40.7605248,-73.9799722,40.7612593,-73.9816951,40.7617189,-73.9828071,40.7620648,-73.9836282
+46469720,East 37th Street,,3,secondary,yes,0.62183579532,1.86550738596,40.747628,-73.976735,40.747628,-73.976735,40.7482941,-73.9783444,40.7489146,-73.9798438,40.7490163,-73.9800896,40.7496412,-73.9815997,40.7503045,-73.9832025
+46520921,Vanderbilt Avenue,,1,residential,no,0.31562999489,0.63125998978,40.753099,-73.977875,40.753099,-73.977875,40.753717,-73.977432,40.754349,-73.976974,40.7549743,-73.9765158,40.7555872,-73.9760685
+46469727,East 43rd Street,,1,residential,yes,0.541048005364,0.541048005364,40.749757,-73.9699524,40.749757,-73.9699524,40.750494,-73.971713,40.751441,-73.973959,40.752116,-73.975558
+68668519,6th Avenue,,3,secondary,yes,0.718245862098,2.1547375863,40.7478958,-73.9891568,40.7478958,-73.9891568,40.7485042,-73.988708,40.7490913,-73.9882215,40.749491,-73.987973,40.7497921,-73.9877652,40.750458,-73.9872889,40.751088,-73.9868238,40.7517,-73.986399,40.752317,-73.985947,40.752935,-73.985488,40.753554,-73.985043
+46482536,West 39th Street,,1,unclassified,-1,0.0443048578408,0.0886097156816,40.7583716,-73.9983378,40.7583716,-73.9983378,40.7581825,-73.9978758
+46482537,West 40th Street,,1,unclassified,yes,0.237234431765,0.237234431765,40.7587027,-73.997268,40.7587027,-73.997268,40.7583353,-73.996414,40.7582104,-73.9961274,40.7576611,-73.9948152
+46482538,West 40th Street,,1,unclassified,yes,0.0536110302045,0.0536110302045,40.7589348,-73.9978247,40.7589348,-73.9978247,40.7588387,-73.9975963,40.7587203,-73.9973104,40.7587027,-73.997268
+46482539,West 41st Street,,1,unclassified,yes,0.462875079677,0.462875079677,40.759449,-73.9971115,40.759449,-73.9971115,40.7601488,-73.9988039,40.7613201,-74.0016372,40.7613302,-74.0017674,40.7612953,-74.0019615
+46482540,West 41st Street,,3,secondary,yes,0.020854098644,0.062562295932,40.7592985,-73.9967364,40.7592985,-73.9967364,40.7593876,-73.9969538
+46482541,West 39th Street,,1,unclassified,yes,0.131680290291,0.131680290291,40.7583716,-73.9983378,40.7583716,-73.9983378,40.7589161,-73.9997231
+68668536,12th Avenue,4,4,trunk,yes,0.389417749886,1.55767099955,40.7692494,-73.995114,40.7692494,-73.995114,40.7680419,-73.9959552,40.7679899,-73.9959895,40.7674288,-73.9964298,40.7667938,-73.9969079,40.7667483,-73.9969422,40.7661872,-73.9973596
+46521465,Park Avenue,,3,secondary,yes,0.0675515759255,0.202654727777,40.7540778,-73.9760057,40.7540778,-73.9760057,40.7541094,-73.9760193,40.7541429,-73.9760111,40.7546163,-73.9756668
+46525058,11th Avenue,,3,secondary,yes,0.164364230872,0.493092692617,40.7621219,-73.9973838,40.7621219,-73.9973838,40.7615047,-73.9978445,40.7608279,-73.9983286
+46538371,West 53rd Street,,3,secondary,yes,1.37049837778,4.11149513335,40.761771,-73.979057,40.761771,-73.979057,40.7624896,-73.9807674,40.7628407,-73.9816028,40.7629646,-73.9818975,40.7633546,-73.9828256,40.7641596,-73.9847413,40.765329,-73.9875245,40.7653543,-73.9875847,40.766548,-73.9904253,40.766928,-73.9913298,40.7670344,-73.9915783,40.7677405,-73.9932635
+46538375,West 52nd Street,1,1,residential,yes,1.89674495617,1.89674495617,40.7680419,-73.9959552,40.7680419,-73.9959552,40.7679669,-73.9957765,40.7671047,-73.9937222,40.7663408,-73.9919023,40.7662262,-73.9916293,40.7659147,-73.9908872,40.7647219,-73.9880455,40.7646979,-73.9879883,40.7635282,-73.9852016,40.7626973,-73.9832221,40.7623343,-73.9823574,40.7618672,-73.9812306,40.7611421,-73.9795173,40.7607936,-73.9786869,40.759787,-73.976289
+46521993,West 54th Street,,3,secondary,yes,0.311394263318,0.934182789954,40.762396,-73.978601,40.762396,-73.978601,40.76104,-73.975373
+46521994,East 54th Street,,3,secondary,yes,0.216085124891,0.648255374672,40.75833,-73.968936,40.75833,-73.968936,40.757381,-73.966702
+46521995,East 60th Street,,3,secondary,yes,0.15421120874,0.462633626221,40.76218,-73.966128,40.76218,-73.966128,40.762851,-73.967727
+46521998,East 53rd Street,,3,secondary,yes,0.621726855948,1.86518056784,40.7577,-73.969394,40.7577,-73.969394,40.7583747,-73.9709918,40.758836,-73.9720833,40.758999,-73.9724703,40.7590902,-73.9726864,40.7597393,-73.9742235,40.760418,-73.975831
+46522000,West 46th Street,,3,secondary,yes,0.311656518385,0.934969555155,40.7573902,-73.9822537,40.7573902,-73.9822537,40.7569769,-73.9812777,40.756032,-73.979024
+46522001,East 46th Street,,3,secondary,yes,0.451067183918,1.35320155175,40.753318,-73.972588,40.753318,-73.972588,40.752379,-73.970341,40.7513449,-73.9679193
+46522002,East 49th Street,,3,secondary,yes,0.621872957909,1.86561887373,40.755193,-73.971217,40.755193,-73.971217,40.75587,-73.97282,40.7562265,-73.9736599,40.7564963,-73.9742957,40.7565855,-73.9745087,40.757232,-73.976045,40.757912,-73.977655
+46522003,East 50th Street,,3,secondary,yes,0.216479732835,0.649439198506,40.755825,-73.97076,40.755825,-73.97076,40.754877,-73.96852
+46522005,West 37th Street,,3,secondary,yes,0.872324886283,2.61697465885,40.7517,-73.986399,40.7517,-73.986399,40.752159,-73.987491,40.752895,-73.989243,40.754091,-73.992079,40.7552269,-73.9948409,40.7552688,-73.9949319,40.7554842,-73.9954509
+46522006,West 36th Street,,3,secondary,yes,0.310006496857,0.930019490572,40.751088,-73.9868238,40.751088,-73.9868238,40.749724,-73.983621
+46522007,East 45th Street,,3,secondary,yes,0.621567083888,1.86470125166,40.752692,-73.973045,40.752692,-73.973045,40.753367,-73.974648,40.753811,-73.975702,40.7539424,-73.9760126,40.754144,-73.9764892,40.754349,-73.976974,40.754728,-73.977875,40.755405,-73.979483
+46522008,West 45th Street,,3,secondary,yes,1.15035697742,3.45107093227,40.7567712,-73.9827118,40.7567712,-73.9827118,40.7579667,-73.985552,40.7584619,-73.9867284,40.7591595,-73.9883858,40.7603283,-73.9911626,40.7603553,-73.9912267,40.7615516,-73.9940688,40.7617881,-73.9946308
+46482592,West 47th Street,,1,residential,yes,0.392296021133,0.392296021133,40.7631519,-73.993986,40.7631519,-73.993986,40.7640036,-73.9960052,40.764868,-73.9980471
+46443684,West 50th Street,,3,secondary,yes,0.0207904713077,0.0623714139232,40.7667938,-73.9969079,40.7667938,-73.9969079,40.7667144,-73.9966849
+46482600,West 45th Street,,3,secondary,yes,0.0251501196408,0.0754503589223,40.7617881,-73.9946308,40.7617881,-73.9946308,40.7618975,-73.9948916
+46482602,West 46th Street,,3,secondary,yes,1.15091413114,3.45274239343,40.7624224,-73.9941692,40.7624224,-73.9941692,40.762185,-73.9936069,40.7609858,-73.9907674,40.7609619,-73.9907107,40.7597869,-73.9879285,40.7595011,-73.9872519,40.7587509,-73.9854755,40.7586863,-73.9853225,40.7586392,-73.9852109,40.7585867,-73.9850867,40.7585383,-73.9849722,40.7576896,-73.9829647,40.7573902,-73.9822537
+46482603,West 46th Street,,3,secondary,yes,0.0255098703235,0.0765296109704,40.7625283,-73.9944373,40.7625283,-73.9944373,40.7624224,-73.9941692
+46482604,West 47th Street,,1,residential,yes,0.0239298755725,0.0239298755725,40.7630476,-73.993738,40.7630476,-73.993738,40.7631519,-73.993986
+46482609,West 44th Street,,1,unclassified,yes,0.326168720752,0.326168720752,40.7611509,-73.995063,40.7611509,-73.995063,40.7609247,-73.9945259,40.7597281,-73.9916837
+46482611,West 44th Street,,1,unclassified,yes,0.0276927387357,0.0276927387357,40.7612702,-73.995351,40.7612702,-73.995351,40.7611509,-73.995063
+46482616,West 43rd Street,,1,unclassified,yes,0.0249317073137,0.0249317073137,40.7605357,-73.9955411,40.7605357,-73.9955411,40.7606435,-73.9958001
+68325075,Lincoln Tunnel Expressway,2,4,motorway_link,yes,0.0734636226386,0.293854490554,40.7542819,-73.9983187,40.7542819,-73.9983187,40.754078,-73.9984363,40.753952,-73.9985035,40.7538287,-73.998557,40.7536603,-73.9986096
+68325079,West 42nd Street,,3,primary,,0.423948284866,2.5436897092,40.7608279,-73.9983286,40.7608279,-73.9983286,40.7600067,-73.9963814,40.7598774,-73.9960722,40.7596264,-73.9954726,40.7589791,-73.9939359
+46491363,,,1,service,,0.111479507615,0.222959015231,40.7583702,-73.9943941,40.7583702,-73.9943941,40.7582747,-73.9942761,40.7578541,-73.9932703
+46492034,Lincoln Tunnel Expressway,1,4,motorway,yes,0.192239488554,0.768957954215,40.7568545,-73.9951907,40.7568545,-73.9951907,40.7569551,-73.9953339,40.7570973,-73.9955538,40.7572132,-73.9957603,40.7573634,-73.9960232,40.7574874,-73.9962351,40.7576154,-73.996455,40.7577515,-73.9966616,40.7579577,-73.9969416
+46492035,,,1,service,yes,0.0235756194461,0.0235756194461,40.7576915,-73.9954177,40.7576915,-73.9954177,40.7577776,-73.9951625
+46492036,car parking,,1,service,yes,0.0602218960881,0.0602218960881,40.7578895,-73.9963085,40.7578895,-73.9963085,40.7577925,-73.9963809,40.7577461,-73.9963909,40.757697,-73.9963756,40.7576591,-73.9963562,40.7576215,-73.9963182,40.7575809,-73.9962726,40.7575494,-73.9962207,40.7574828,-73.9960568
+46492037,,,1,service,yes,0.102980961799,0.102980961799,40.7578895,-73.9963085,40.7578895,-73.9963085,40.7577729,-73.9963265,40.7577009,-73.9962986,40.7576315,-73.9962414,40.7575672,-73.9961331,40.7575353,-73.9960184,40.7575284,-73.995926,40.7575322,-73.9958169,40.7575466,-73.9957234,40.7575951,-73.9955901,40.7576712,-73.9954731
+60325668,Lincoln Tunnel,2,4,motorway,yes,1.2403419305,4.961367722,40.7624563,-74.009981,40.7624563,-74.009981,40.7573118,-73.9977077,40.7572547,-73.997557,40.7572044,-73.997401,40.7571619,-73.9972285,40.7571333,-73.9970778
+46522160,East 63rd Street,,1,residential,yes,0.837272996277,0.837272996277,40.763113,-73.962515,40.763113,-73.962515,40.764057,-73.9647558,40.7647323,-73.9663588,40.765354,-73.9678348,40.765449,-73.9680602,40.7660504,-73.9694881,40.7660912,-73.9695848,40.7661375,-73.9696948,40.766767,-73.971189
+46522162,2nd Avenue,,3,primary,yes,0.562831809796,1.68849542939,40.7593108,-73.965291,40.7593108,-73.965291,40.7586317,-73.9657832,40.7580071,-73.9662396,40.757381,-73.966702,40.756766,-73.967152,40.7561287,-73.9676094,40.7555037,-73.9680652,40.754877,-73.96852
+46525065,West 58th Street,,1,residential,yes,0.822663363789,0.822663363789,40.7709763,-73.9909131,40.7709763,-73.9909131,40.7697676,-73.9880799,40.7685835,-73.9852319,40.7685539,-73.985168,40.7674613,-73.9825338,40.7673981,-73.9823814
+46481738,West 37th Street,,3,secondary,yes,0.0402102883308,0.120630864992,40.7570259,-73.9990694,40.7570259,-73.9990694,40.7572021,-73.9994854
+46481739,West 37th Street,,3,secondary,yes,0.110413912839,0.331241738516,40.7572021,-73.9994854,40.7572021,-73.9994854,40.7576858,-74.0006278
+46481740,West 38th Street,,1,unclassified,yes,0.032616754768,0.032616754768,40.7577605,-73.9988863,40.7577605,-73.9988863,40.7576207,-73.9985466
+46481741,West 38th Street,,1,unclassified,yes,0.124648064981,0.124648064981,40.7582984,-74.0001819,40.7582984,-74.0001819,40.7577605,-73.9988863
+46481742,,,1,service,yes,0.031307071683,0.031307071683,40.7578178,-74.0009554,40.7578178,-74.0009554,40.7576858,-74.0006278
+46481744,11th Avenue,,3,primary,no,0.217750714944,1.30650428966,40.7575039,-74.0007721,40.7575039,-74.0007721,40.7570856,-74.0010791,40.756477,-74.0015365,40.7557925,-74.0020306
+46481747,West 36th Street,,3,secondary,yes,1.26568412161,3.79705236482,40.7566126,-73.9999328,40.7566126,-73.9999328,40.7565983,-73.9999013,40.7564073,-73.9994817,40.7558731,-73.9982091,40.7552114,-73.9966605,40.755102,-73.9963996,40.7546697,-73.9953683,40.7546287,-73.9952703,40.7534779,-73.9925251,40.7522886,-73.9896878,40.7514288,-73.9876368,40.751088,-73.9868238
+46481748,West 35th Street,,1,unclassified,yes,0.0717784363611,0.0717784363611,40.7561587,-74.0007967,40.7561587,-74.0007967,40.756477,-74.0015365
+46694752,East 55th Street,,1,unclassified,yes,0.217197060759,0.217197060759,40.756059,-73.961622,40.756059,-73.961622,40.7570079,-73.9638711
+46492007,Lincoln Tunnel Expressway,2,4,motorway,yes,0.197713994038,0.790855976151,40.7566317,-73.9951328,40.7566317,-73.9951328,40.7565236,-73.995093,40.7564424,-73.9950773,40.7563467,-73.9950727,40.7562746,-73.9950693,40.7561895,-73.9950952,40.756093,-73.9951533,40.7560272,-73.9952107,40.7559447,-73.9953059,40.7558251,-73.9954816,40.7556626,-73.9956941,40.7555079,-73.9959279,40.7553817,-73.9961325,40.7552758,-73.9963423
+46492008,Lincoln Tunnel Expressway,2,4,motorway,yes,0.0421610354638,0.168644141855,40.7562826,-73.9949618,40.7562826,-73.9949618,40.756363,-73.9949788,40.7564053,-73.9949851,40.7564735,-73.9950091,40.756542,-73.9950482,40.7566317,-73.9951328
+46492009,Lincoln Tunnel Expressway,1,4,motorway,yes,0.0686159120013,0.274463648005,40.7562826,-73.9949618,40.7562826,-73.9949618,40.7563668,-73.9949424,40.756437,-73.9949476,40.7565142,-73.9949691,40.7566097,-73.995004,40.7566848,-73.9950496,40.75676,-73.9951005,40.7568545,-73.9951907
+46492010,,,4,motorway_link,yes,0.197121505807,0.788486023227,40.7567698,-73.9960389,40.7567698,-73.9960389,40.756717,-73.9959571,40.756677,-73.9959139,40.7566229,-73.995872,40.7565233,-73.9958479,40.7563872,-73.9958425,40.7562673,-73.995864,40.7561759,-73.9958988,40.7554018,-73.9964943,40.7552993,-73.996584,40.7552114,-73.9966605
+46492012,,,4,motorway_link,yes,0.0950645754342,0.380258301737,40.7567698,-73.9960389,40.7567698,-73.9960389,40.7567013,-73.9958147,40.756689,-73.9956871,40.7567073,-73.9955665,40.7567429,-73.9954698,40.7568008,-73.9953868,40.7568793,-73.9953312,40.7570939,-73.9952445
+46492013,,,1,service,yes,0.0354215453089,0.0354215453089,40.7571359,-73.9945639,40.7571359,-73.9945639,40.7571234,-73.9945868,40.7571136,-73.9946091,40.7571019,-73.9946366,40.7570956,-73.9946627,40.7570909,-73.9947047,40.7570898,-73.9947432,40.7570933,-73.994796,40.7571029,-73.994854,40.7571118,-73.9949087,40.7571281,-73.9949619
+46492014,,,1,service,yes,0.106806284188,0.106806284188,40.7578184,-73.9962343,40.7578184,-73.9962343,40.7581447,-73.9969876,40.7582896,-73.9973369
+46492015,Lincoln Tunnel Expressway,2,4,motorway,reversible,0.0325973427758,0.260778742207,40.7569287,-73.9955967,40.7569287,-73.9955967,40.7568718,-73.9954653,40.756819,-73.9953634,40.7567635,-73.9952791
+46492016,Lincoln Tunnel Expressway,2,4,motorway,reversible,0.0192626474723,0.154101179778,40.7567635,-73.9952791,40.7567635,-73.9952791,40.7567288,-73.9952278,40.7566914,-73.9951875,40.7566531,-73.9951559,40.7566317,-73.9951328
+46492017,,1,4,motorway_link,yes,0.154971536473,0.619886145892,40.757565,-73.996758,40.757565,-73.996758,40.7574679,-73.996598,40.7572993,-73.9962386,40.7570788,-73.9957044,40.7570601,-73.9955923,40.7570663,-73.9954765,40.7570887,-73.9953739,40.7571202,-73.9952924,40.7572091,-73.9951671
+46492019,,,1,service,,0.0256860580502,0.0513721161004,40.7582104,-73.9961274,40.7582104,-73.9961274,40.7581529,-73.9961541,40.7581011,-73.9961636,40.7580616,-73.9961639,40.7579943,-73.9961107
+46492020,,,1,service,yes,0.0530978043935,0.0530978043935,40.7578895,-73.9963085,40.7578895,-73.9963085,40.7578009,-73.9963932,40.7577783,-73.996429,40.7577643,-73.9964667,40.7577628,-73.9965357,40.7577719,-73.9965784,40.7578043,-73.996624,40.7578735,-73.9966723,40.7579622,-73.9966861
+46492021,car parking,,1,service,yes,0.03879556066,0.03879556066,40.7576496,-73.9958361,40.7576496,-73.9958361,40.7577217,-73.9960619,40.7577544,-73.9961295,40.7578184,-73.9962343
+55874424,,,1,service,yes,0.0681143761769,0.0681143761769,40.7650051,-73.9985132,40.7650051,-73.9985132,40.7644651,-73.9988958
+46492028,,,1,service,yes,0.216605761169,0.216605761169,40.7573468,-73.9950445,40.7573468,-73.9950445,40.7574376,-73.9950244,40.7575067,-73.9950432,40.7575758,-73.9950808,40.7576266,-73.9951398,40.7576753,-73.9952122,40.757844,-73.9956119,40.7578948,-73.9957433,40.7579273,-73.9958398,40.7579456,-73.9959364,40.7579374,-73.9960276,40.7579105,-73.9960889,40.7578816,-73.9961285,40.7578283,-73.9961697,40.7577683,-73.9961821,40.7577273,-73.9961799,40.7576789,-73.9961591,40.7576431,-73.9961331,40.7576122,-73.9960815,40.7575857,-73.9959943,40.7575767,-73.9959399,40.7575754,-73.9958492,40.7575858,-73.9957707,40.7576082,-73.995705,40.7576484,-73.9955702,40.7576712,-73.9954731
+46482818,,,1,service,yes,0.0716417935716,0.0716417935716,40.758591,-73.9981286,40.758591,-73.9981286,40.7586524,-73.9983099,40.7586976,-73.9984791,40.7587331,-73.9986089,40.7587731,-73.998751,40.7588215,-73.9989206
+46482819,Lincoln Tunnel Expressway,1,4,motorway,yes,0.0959342039689,0.383736815876,40.758537,-73.9981632,40.758537,-73.9981632,40.7585767,-73.9982705,40.7586296,-73.9984104,40.7586783,-73.9985422,40.7587243,-73.9986967,40.7588738,-73.9992083
+46482820,,1,4,motorway_link,yes,0.0486098703043,0.194439481217,40.7584598,-73.9982395,40.7584598,-73.9982395,40.7585375,-73.9983531,40.75859,-73.9984405,40.7586493,-73.9985416,40.7587243,-73.9986967
+46482821,Lincoln Tunnel Expressway,1,4,motorway,yes,0.0404681767447,0.161872706979,40.7583618,-73.997743,40.7583618,-73.997743,40.7583834,-73.997795,40.7584539,-73.9979596,40.758537,-73.9981632
+46482822,,,1,service,yes,0.0417344165656,0.0417344165656,40.7584221,-73.9976871,40.7584221,-73.9976871,40.7585251,-73.9979523,40.758591,-73.9981286
+46482823,,,4,motorway_link,yes,0.0494783578129,0.197913431252,40.7586745,-73.9980805,40.7586745,-73.9980805,40.7586835,-73.9981428,40.7587004,-73.998236,40.7587166,-73.9983272,40.7587369,-73.9984559,40.758788,-73.998646
+46521736,East 50th Street,,1,residential,yes,0.12977996344,0.12977996344,40.753878,-73.966157,40.753878,-73.966157,40.753314,-73.964811
+46583189,Grand Army Plaza,,1,residential,yes,0.0812804111472,0.0812804111472,40.76457,-73.973636,40.76457,-73.973636,40.7643172,-73.9738207,40.7639334,-73.974111
+46490537,West 31st Street,,3,secondary,yes,0.205098492028,0.615295476085,40.7517907,-73.9984089,40.7517907,-73.9984089,40.7521983,-73.9993779,40.7522336,-73.9994669,40.7526895,-74.0005305
+46490538,West 31st Street,,3,secondary,yes,0.0778124823054,0.233437446916,40.7514523,-73.9976021,40.7514523,-73.9976021,40.7514617,-73.9976264,40.7514936,-73.9977001,40.7517907,-73.9984089
+46490540,10th Avenue,,3,secondary,yes,2.55946801211,7.67840403632,40.747023,-74.004653,40.747023,-74.004653,40.74769,-74.004168,40.748355,-74.003684,40.748974,-74.003236,40.749592,-74.002785,40.750209,-74.002332,40.750828,-74.001882,40.751445,-74.00143,40.752025,-74.0009997,40.7521006,-74.0009434,40.7526895,-74.0005305,40.7539186,-73.9996344,40.7545834,-73.9991497,40.7552565,-73.9986589,40.7558731,-73.9982091,40.7564882,-73.9977608,40.7571105,-73.9973071,40.7577413,-73.9968472,40.7579622,-73.9966861,40.7583353,-73.996414,40.758981,-73.9959432,40.7596264,-73.9954726,40.7603,-73.9949814,40.7609247,-73.9945259,40.7615516,-73.9940688,40.762185,-73.9936069,40.7628026,-73.9931565,40.7634284,-73.9927002,40.7640441,-73.9922513,40.7646694,-73.9917953,40.7653085,-73.9913292,40.7659147,-73.9908872,40.766548,-73.9904253,40.7671828,-73.9899624
+46518728,,,1,service,,0.0162954233861,0.0325908467721,40.750669,-73.968206,40.750669,-73.968206,40.7507394,-73.9683753
+46518729,,,1,service,,0.00614456156015,0.0122891231203,40.750669,-73.968206,40.750669,-73.968206,40.750616,-73.9681851
+46518730,,,1,service,,0.014751241832,0.0295024836641,40.7493444,-73.9689803,40.7493444,-73.9689803,40.7494049,-73.9691358
+46518731,1st Avenue,,3,primary,yes,0.278582555652,0.835747666955,40.7493212,-73.9694234,40.7493212,-73.9694234,40.7494674,-73.9693033,40.7500892,-73.9688366,40.7507394,-73.9683753,40.7513449,-73.9679193,40.7515074,-73.9678066
+46518733,1st Avenue,,3,primary,yes,0.1032157706,0.3096473118,40.7520073,-73.9674633,40.7520073,-73.9674633,40.7528322,-73.9669001
+46518734,1st Avenue,,3,primary,yes,0.15362510603,0.460875318091,40.7518447,-73.9673185,40.7518447,-73.9673185,40.7519412,-73.9672532,40.7523121,-73.967002,40.7525234,-73.9668357,40.7531248,-73.9666908
+46518735,1st Avenue,,3,primary,yes,0.0556966366329,0.167089909899,40.7515074,-73.9678066,40.7515074,-73.9678066,40.7518447,-73.9673185
+46518736,,,1,service,,0.0163750817703,0.0327501635406,40.7512737,-73.9677495,40.7512737,-73.9677495,40.7513449,-73.9679193
+46518737,,,1,service,yes,0.150544102467,0.150544102467,40.750669,-73.968206,40.750669,-73.968206,40.7509665,-73.9679814,40.7512737,-73.9677495,40.7518447,-73.9673185
+46518738,1st Avenue,,3,primary,yes,0.0516561975158,0.154968592547,40.7528322,-73.9669001,40.7528322,-73.9669001,40.7531248,-73.9666908,40.753244,-73.966616
+46518739,East 48th Street,,1,residential,yes,0.14094078711,0.14094078711,40.7525234,-73.9668357,40.7525234,-73.9668357,40.751942,-73.9654984,40.7519074,-73.9653782
+46518740,East 50th Street,,1,residential,,0.0357071558413,0.0714143116827,40.753314,-73.964811,40.753314,-73.964811,40.753157,-73.964442
+46492638,Dyer Avenue,,3,primary,yes,0.0869454373969,0.260836312191,40.7576611,-73.9948152,40.7576611,-73.9948152,40.7578684,-73.9947482,40.7583702,-73.9943941
+46492639,Dyer Avenue,3,3,primary,yes,0.103362890607,0.31008867182,40.7552114,-73.9966605,40.7552114,-73.9966605,40.7546052,-73.9971155,40.7544037,-73.9972688
+46492640,,,1,service,yes,0.184039845628,0.184039845628,40.7577776,-73.9951625,40.7577776,-73.9951625,40.757897,-73.9948142,40.7579066,-73.9946033,40.7579052,-73.9944724,40.7578932,-73.9943672,40.7578718,-73.9942591,40.7578496,-73.9941497,40.7576762,-73.9937086,40.7575985,-73.9935303,40.7575414,-73.9934306,40.7573846,-73.9932168
+46492641,,,1,service,yes,0.00519292698574,0.00519292698574,40.7576712,-73.9954731,40.7576712,-73.9954731,40.7576915,-73.9954177
+121257600,,,1,service,yes,0.179250430938,0.179250430938,40.7493838,-73.9684366,40.7493838,-73.9684366,40.7493552,-73.9684074,40.7493104,-73.968376,40.7492703,-73.9683591,40.7492348,-73.9683517,40.7491899,-73.9683518,40.7491507,-73.9683606,40.7491038,-73.9683826,40.7490657,-73.9684117,40.7490303,-73.9684511,40.7490024,-73.9684953,40.7489825,-73.9685397,40.7489676,-73.9685891,40.748959,-73.9686386,40.7489563,-73.9687025,40.7489626,-73.968765,40.7489708,-73.9688023,40.748983,-73.9688403,40.7489972,-73.9688732,40.7490217,-73.9689155,40.7490427,-73.968943,40.7490624,-73.9689639,40.7490949,-73.9689903,40.7491279,-73.9690091,40.7491662,-73.9690225,40.7492036,-73.969028,40.7492495,-73.9690247,40.7492948,-73.9690104,40.7493363,-73.9689864,40.7493444,-73.9689803,40.7493726,-73.9689545,40.7494025,-73.9689176,40.7494336,-73.9688622,40.7494521,-73.9688121,40.7494667,-73.968739,40.7494695,-73.9686837,40.7494627,-73.9686115,40.7494531,-73.9685703,40.7494412,-73.9685346,40.7494253,-73.9684992,40.7494074,-73.9684684,40.7493838,-73.9684366
+118113953,Herald Square,,1,pedestrian,,0.447343312168,0.894686624337,40.7490333,-73.9880635,40.7490333,-73.9880635,40.7489802,-73.9879365,40.7497921,-73.9877652,40.750458,-73.9872889,40.7506639,-73.9877768,40.7507266,-73.9879255,40.7490913,-73.9882215,40.7490333,-73.9880635
+109287832,Seagram Building Plaza,,1,pedestrian,,0.234910757053,0.469821514105,40.7583058,-73.9724634,40.7583058,-73.9724634,40.7586868,-73.9721916,40.758836,-73.9720833,40.758999,-73.9724703,40.7583707,-73.9729286,40.7582052,-73.9725342,40.7583058,-73.9724634
+127693383,8th Avenue,,3,secondary,yes,0.876139219824,2.62841765947,40.745294,-73.998486,40.745294,-73.998486,40.7459513,-73.9980073,40.74658,-73.9975495,40.7472035,-73.9970954,40.7478218,-73.9966452,40.7484275,-73.996204,40.7490521,-73.9957492,40.7496708,-73.9952986,40.7502935,-73.9948451,40.7508497,-73.99444,40.7508962,-73.9944062,40.7515147,-73.9939557,40.7521958,-73.9934597
+121257607,,,1,service,yes,0.0592997703832,0.0592997703832,40.7501091,-73.9682867,40.7501091,-73.9682867,40.7503127,-73.9681607,40.7503532,-73.9681472,40.7503914,-73.9681421,40.750446,-73.9681409,40.7505284,-73.9681505,40.750616,-73.9681851
+125479721,8th Avenue,,3,secondary,yes,0.157031361241,0.471094083724,40.75533,-73.991177,40.75533,-73.991177,40.7553883,-73.9911346,40.755951,-73.990726,40.756567,-73.990276
+125480074,8th Avenue,,3,secondary,yes,0.0487734552447,0.146320365734,40.7673981,-73.9823814,40.7673981,-73.9823814,40.7675955,-73.9822423,40.767612,-73.9822287,40.7676232,-73.9822135,40.7676347,-73.982195,40.7676556,-73.9821514,40.7676754,-73.982088,40.7676883,-73.9819972
+125480075,8th Avenue,,3,secondary,yes,0.0855986252885,0.256795875865,40.7572335,-73.9897914,40.7572335,-73.9897914,40.7579071,-73.9892986
+68668557,East 57th Street,,3,primary,,0.217345521676,1.30407313006,40.7583127,-73.9629223,40.7583127,-73.9629223,40.757364,-73.960671
+128578946,Central Park Drive,,1,unclassified,yes,0.514118142233,0.514118142233,40.7677615,-73.9787337,40.7677615,-73.9787337,40.7676542,-73.9785529,40.7674794,-73.9781971,40.7673208,-73.9777996,40.7672282,-73.9774189,40.7671891,-73.9770554,40.7671852,-73.9768778,40.7672029,-73.9767288,40.7673759,-73.9764358,40.7674647,-73.9763292,40.7675636,-73.9762437,40.7677069,-73.9761535,40.7677635,-73.9761261,40.7681983,-73.9759027,40.7683347,-73.9758143,40.7684325,-73.9757509,40.7689255,-73.9754237,40.7694107,-73.9750264,40.7696675,-73.9746803
+127693103,6th Avenue,,3,secondary,yes,1.53792925779,4.61378777338,40.753554,-73.985043,40.753554,-73.985043,40.754177,-73.984596,40.754842,-73.984118,40.7549599,-73.9840313,40.755516,-73.983624,40.7561419,-73.9831666,40.7567712,-73.9827118,40.7573902,-73.9822537,40.7580163,-73.9817975,40.7585813,-73.9813925,40.758645,-73.981341,40.7591097,-73.9810094,40.7592744,-73.9808828,40.7599106,-73.9804176,40.7605248,-73.9799722,40.7611421,-73.9795173,40.761771,-73.979057,40.762396,-73.978601,40.763023,-73.9781397,40.7636462,-73.9776851,40.764324,-73.977196,40.7650275,-73.9766802,40.765675,-73.976234
+68674960,Park Avenue,,3,secondary,yes,0.161897556861,0.485692670583,40.7508006,-73.9785035,40.7508006,-73.9785035,40.7514105,-73.9780364,40.7520707,-73.9775627
+68674961,Park Avenue,,3,secondary,yes,0.475216246732,1.4256487402,40.7470543,-73.9812221,40.7470543,-73.9812221,40.7477017,-73.9807424,40.7483097,-73.980292,40.7489146,-73.9798438,40.7495561,-73.9794009,40.7501762,-73.9789596,40.7506192,-73.9786451,40.7508006,-73.9785035
+68674962,Park Avenue,,3,secondary,yes,4.04799939482,12.1439981845,40.7866018,-73.9526675,40.7866018,-73.9526675,40.7859102,-73.9531708,40.7852953,-73.9536184,40.784671,-73.9540727,40.7840339,-73.9545364,40.7834104,-73.9549902,40.7827842,-73.9554459,40.7821577,-73.9559018,40.7815237,-73.9563633,40.7809019,-73.9568157,40.7802344,-73.957306,40.7795391,-73.9578075,40.7789071,-73.9582675,40.7782719,-73.9587297,40.7776358,-73.9591925,40.7775862,-73.9592286,40.7769971,-73.9596574,40.7763632,-73.9601187,40.775675,-73.9606194,40.7749849,-73.9611216,40.7743661,-73.9615719,40.7737343,-73.9620316,40.7730982,-73.9624945,40.7724554,-73.9629623,40.7718227,-73.9634226,40.771144,-73.9639165,40.7704589,-73.964415,40.7698389,-73.9648661,40.7692045,-73.9653277,40.7685831,-73.9657798,40.7679521,-73.966239,40.7673262,-73.9666944,40.7667029,-73.9671479,40.7660762,-73.9676039,40.765449,-73.9680602,40.764823,-73.9685157,40.7641984,-73.9689701,40.7635717,-73.9694261,40.7629524,-73.9698766,40.7623299,-73.9703295,40.7616441,-73.9708284,40.7609688,-73.9713198,40.7603425,-73.9717754,40.759717,-73.9722305,40.7590902,-73.9726864,40.7584614,-73.9731439,40.7578377,-73.9735977,40.7572106,-73.9740539,40.7565855,-73.9745087,40.7559569,-73.9749659,40.7553153,-73.9754327,40.7547048,-73.9758767
+68674968,Park Avenue,,3,secondary,yes,0.396915733993,1.19074720198,40.7502747,-73.9791828,40.7502747,-73.9791828,40.7496555,-73.979629,40.7490163,-73.9800896,40.7483975,-73.9805355,40.7477885,-73.9809743,40.7471403,-73.9814415
+121257599,,,1,service,,0.0157568173217,0.0315136346434,40.7494049,-73.9691358,40.7494049,-73.9691358,40.7494674,-73.9693033
+139919706,Dyer Avenue,4,3,primary,,0.0589063643596,0.353438186158,40.7544037,-73.9972688,40.7544037,-73.9972688,40.7539445,-73.997618
+139919714,Dyer Avenue,1,3,primary,yes,0.106883124811,0.320649374434,40.7544037,-73.9972688,40.7544037,-73.9972688,40.7545848,-73.9970673,40.7547638,-73.9968591,40.755102,-73.9963996
+153232755,,,1,pedestrian,,0.217879280897,0.435758561794,40.7684558,-73.9814075,40.7684558,-73.9814075,40.7683389,-73.9812945,40.7682563,-73.9812426,40.7681647,-73.9812054,40.7680529,-73.9811947,40.7679411,-73.9812213,40.7678897,-73.9812067,40.7678819,-73.9811883,40.7678172,-73.9810391,40.7678443,-73.9810178,40.7678988,-73.9809825,40.7679534,-73.9809709,40.7680187,-73.9809572,40.7680086,-73.9808933,40.7680668,-73.9808902,40.7681073,-73.980888,40.7682121,-73.9809093,40.7682181,-73.9808827,40.7682967,-73.980908,40.7682936,-73.9809213,40.7684004,-73.9809652,40.7683631,-73.9810569,40.7683834,-73.9810729,40.7684477,-73.9811234,40.7685112,-73.9811992,40.7685782,-73.9812971,40.7684818,-73.981384,40.7684558,-73.9814075
+166030811,,,4,motorway_link,yes,0.0327375658144,0.130950263258,40.7609028,-73.9641188,40.7609028,-73.9641188,40.7607977,-73.9641101,40.7607579,-73.9640882,40.7607206,-73.964044,40.7606894,-73.9639244
+164632299,,,1,service,,0.00886214641598,0.017724292832,40.7604303,-73.9853608,40.7604303,-73.9853608,40.7603603,-73.9854112
+164632300,,,1,service,,0.0610454296496,0.122090859299,40.7609113,-73.9850108,40.7609113,-73.9850108,40.7604303,-73.9853608
+164184349,,,1,service,,0.00924195541069,0.0184839108214,40.7609842,-73.984958,40.7609842,-73.984958,40.7609113,-73.9850108
+163455606,,,1,pedestrian,,0.395435733859,0.790871467719,40.7549596,-73.9823039,40.7549596,-73.9823039,40.7548607,-73.9823804,40.7550565,-73.9828463,40.7549775,-73.9829041,40.7548448,-73.9830016,40.7548548,-73.9830301,40.7550735,-73.983548,40.7551307,-73.9836885,40.7548914,-73.9838618,40.7549599,-73.9840313,40.755516,-73.983624,40.7549596,-73.9823039
+196116998,East 65th Street,,3,secondary,yes,0.154648483906,0.463945451718,40.7659843,-73.9654448,40.7659843,-73.9654448,40.7653085,-73.9638433
+188722435,,,1,service,,0.027098532203,0.0541970644059,40.7612233,-73.9999571,40.7612233,-73.9999571,40.7614376,-73.9998036
+188722436,,,1,service,,0.0437590537612,0.0875181075225,40.7612626,-74.0000633,40.7612626,-74.0000633,40.7612494,-74.0000924,40.7612276,-74.0001126,40.7611977,-74.0001188,40.7611794,-74.000113,40.7611631,-74.0001003,40.7611478,-74.0000758,40.7611401,-74.0000367,40.7611443,-74.0000061,40.7611578,-73.999978,40.7611798,-73.9999586,40.761204,-73.9999527,40.7612233,-73.9999571,40.7612429,-73.9999715,40.7612586,-73.9999965,40.7612657,-74.0000262,40.7612626,-74.0000633
+170293910,6½ Avenue,,1,pedestrian,no,0.0421759757688,0.0843519515375,40.7649977,-73.9791703,40.7649977,-73.9791703,40.7646606,-73.9794004
+194926854,8th Avenue,,3,secondary,yes,0.39786808221,1.19360424663,40.7521958,-73.9934597,40.7521958,-73.9934597,40.7528582,-73.9929759,40.7534779,-73.9925251,40.754091,-73.992079,40.754707,-73.991633,40.75533,-73.991177
+194926855,9th Avenue,,3,secondary,yes,0.724780974709,2.17434292413,40.7591031,-73.992139,40.7591031,-73.992139,40.7584291,-73.9926299,40.7578265,-73.9930688,40.7571456,-73.9935648,40.7565119,-73.9940267,40.7558825,-73.9944848,40.7552688,-73.9949319,40.7550366,-73.995101,40.7546697,-73.9953683,40.7540563,-73.9958149,40.7533937,-73.9962976
+194926856,9th Avenue,,3,secondary,yes,1.04032573253,3.12097719758,40.7533937,-73.9962976,40.7533937,-73.9962976,40.7528012,-73.9967244,40.7527136,-73.9967919,40.7525912,-73.9969325,40.7521299,-73.997274,40.7516024,-73.997665,40.7514936,-73.9977001,40.7510239,-73.9980482,40.7508794,-73.9981544,40.7502471,-73.9986051,40.749638,-73.999035,40.748939,-73.9995451,40.7484,-73.999938,40.747767,-74.000399,40.747147,-74.000848,40.746492,-74.001326,40.745826,-74.001812,40.745207,-74.002265
+196117001,East 65th Street,,3,secondary,yes,0.444523385688,1.33357015706,40.7653085,-73.9638433,40.7653085,-73.9638433,40.7643653,-73.9616082,40.763366,-73.95924
+170293911,6½ Avenue,,1,pedestrian,no,0.0444329160708,0.0888658321415,40.7646606,-73.9794004,40.7646606,-73.9794004,40.7644389,-73.9795628,40.7643066,-73.9794805
+170293900,6½ Avenue,,1,pedestrian,no,0.0154651161178,0.0309302322357,40.7651209,-73.9790849,40.7651209,-73.9790849,40.7649977,-73.9791703
+198924552,East 59th Street,,1,residential,yes,0.683485414205,0.683485414205,40.7635979,-73.9714037,40.7635979,-73.9714037,40.7629524,-73.9698766,40.7628587,-73.9696549,40.7622356,-73.9681807,40.7618737,-73.9673246,40.7615583,-73.9665784,40.7606074,-73.9643288
+198595470,,2,4,motorway,yes,0.198247095068,0.79298838027,40.7606894,-73.9639244,40.7606894,-73.9639244,40.7606524,-73.9634919,40.7606178,-73.963267,40.7605714,-73.9631436,40.7599976,-73.9617949
+169383512,West 43rd Street,,1,unclassified,yes,0.0214245514434,0.0214245514434,40.7625412,-74.0003097,40.7625412,-74.0003097,40.7626445,-74.000524
+194926851,8th Avenue,,3,secondary,yes,1.11834709721,3.35504129162,40.7579071,-73.9892986,40.7579071,-73.9892986,40.758532,-73.9888431,40.7591595,-73.9883858,40.7595059,-73.9881333,40.7597332,-73.9879676,40.7597869,-73.9879285,40.759847,-73.9878847,40.7604088,-73.9874753,40.7610365,-73.9870177,40.7616583,-73.9865645,40.7622893,-73.9861046,40.7629156,-73.9856481,40.7635282,-73.9852016,40.7641596,-73.9847413,40.7647981,-73.9842688,40.7654145,-73.9838267,40.7660319,-73.9833766,40.7667155,-73.9828783
+198924668,,,4,motorway_link,yes,0.0176536343209,0.0706145372838,40.7606527,-73.9628992,40.7606527,-73.9628992,40.7607437,-73.9629193,40.7608058,-73.9628873
+167922070,7th Avenue,,3,secondary,yes,0.0848032146241,0.254409643872,40.7560361,-73.9869489,40.7560361,-73.9869489,40.755373,-73.987447
+167922071,7th Avenue,,3,secondary,yes,0.483190364736,1.44957109421,40.759841,-73.984174,40.759841,-73.984174,40.7597792,-73.984215,40.7592722,-73.9845848,40.7592117,-73.9846345,40.7586553,-73.9850349,40.7585867,-73.9850867,40.7585185,-73.9851347,40.7579667,-73.985552,40.7573404,-73.986013,40.75671,-73.986458,40.7560361,-73.9869489
+167922072,West 42nd Street,,3,primary,no,0.532025345392,3.19215207235,40.755804,-73.986398,40.755804,-73.986398,40.755469,-73.9856025,40.754842,-73.984118,40.7546842,-73.9837435,40.7541219,-73.9824089,40.753481,-73.980888
+167922073,West 48th Street,,1,residential,yes,0.273616738299,0.273616738299,40.759841,-73.984174,40.759841,-73.984174,40.7594164,-73.98317,40.758645,-73.981341
+167922074,West 48th Street,,1,residential,yes,0.060983030819,0.060983030819,40.7601058,-73.9848067,40.7601058,-73.9848067,40.7600792,-73.9847433,40.759841,-73.984174
+167922075,Central Park South,,3,secondary_link,yes,0.0513939037193,0.154181711158,40.7677437,-73.9816187,40.7677437,-73.9816187,40.7677458,-73.9815514,40.7677478,-73.9815105,40.7677489,-73.9814884,40.7677534,-73.9814238,40.7677509,-73.9813597,40.7677499,-73.9813181,40.7677445,-73.9812685,40.7677377,-73.9812222,40.7677241,-73.9811345,40.7676993,-73.9810182
+167922076,West 42nd Street,,3,primary,no,0.0531835997663,0.319101598598,40.7560361,-73.9869489,40.7560361,-73.9869489,40.755804,-73.986398
+167922077,West 42nd Street,,3,primary,no,0.674471587357,4.04682952414,40.7589791,-73.9939359,40.7589791,-73.9939359,40.7584291,-73.9926299,40.7584004,-73.9925617,40.7572335,-73.9897914,40.7560361,-73.9869489
+198595461,East 61st Street,,1,residential,yes,0.837626634289,0.837626634289,40.7618593,-73.9634238,40.7618593,-73.9634238,40.7628063,-73.9656691,40.7634817,-73.9672707,40.7641041,-73.9687465,40.7641984,-73.9689701,40.7648018,-73.9704007,40.7648423,-73.9704968,40.7648941,-73.9706197,40.765518,-73.972099
+198595460,East 61st Street,,1,residential,yes,0.100214486044,0.100214486044,40.7614216,-73.9623859,40.7614216,-73.9623859,40.7618593,-73.9634238
+196116976,Broadway,,1,unclassified,yes,0.817101414547,0.817101414547,40.766287,-73.981848,40.766287,-73.981848,40.7654522,-73.9819937,40.7647366,-73.9822148,40.764037,-73.9824772,40.7633546,-73.9828256,40.7626973,-73.9832221,40.7620648,-73.9836282,40.7614894,-73.9840066,40.7614285,-73.9840467,40.7613719,-73.9840827,40.7608448,-73.984418,40.760776,-73.9844618,40.7607163,-73.9844925,40.7601757,-73.9847707,40.7601058,-73.9848067,40.7600349,-73.9848329,40.7594753,-73.9850394,40.7593949,-73.9850691
+195743190,Penn Plaza,,3,secondary,yes,0.0768992310275,0.230697693082,40.749706,-73.991563,40.749706,-73.991563,40.749101,-73.992006
+194572581,,,1,service,yes,0.0432638700124,0.0432638700124,40.7584922,-73.997603,40.7584922,-73.997603,40.758514,-73.9976098,40.7585405,-73.997616,40.758565,-73.9976162,40.7585882,-73.9976098,40.7586118,-73.9976002,40.7586343,-73.9975858,40.7586579,-73.9975685,40.758679,-73.9975427,40.758695,-73.9975113,40.7587097,-73.9974685,40.7587188,-73.9974308,40.7587239,-73.9973726,40.7587203,-73.9973104
+169269031,12th Avenue,4,4,trunk,yes,0.479815994051,1.9192639762,40.7661872,-73.9973596,40.7661872,-73.9973596,40.7655741,-73.9977997,40.7654858,-73.9978611,40.7654053,-73.9979207,40.7643295,-73.9987139,40.7642326,-73.9987876,40.7638756,-73.9990426,40.7637087,-73.9991712,40.7635938,-73.99927,40.7634955,-73.9993686,40.7632899,-73.9996116,40.7631515,-73.9997912,40.7630715,-73.9999071,40.7627118,-74.0004249,40.7626445,-74.000524
+196117084,West 57th Street,,3,primary,no,0.822994690502,4.93796814301,40.7667155,-73.9828783,40.7667155,-73.9828783,40.7672731,-73.9841758,40.767888,-73.9856515,40.7679183,-73.9857166,40.7691032,-73.9885656,40.7702886,-73.9914181
+198924551,East 59th Street,,1,residential,yes,0.141909274567,0.141909274567,40.7606074,-73.9643288,40.7606074,-73.9643288,40.7599876,-73.9628591
+211731500,East Drive,,1,unclassified,,0.0434093024845,0.086818604969,40.767762,-73.9731938,40.767762,-73.9731938,40.7681529,-73.9731948
+196117039,Lexington Avenue,,3,secondary,yes,3.36229943807,10.0868983142,40.7659843,-73.9654448,40.7659843,-73.9654448,40.7653573,-73.9658998,40.7647323,-73.9663588,40.7641054,-73.9668127,40.7634817,-73.9672707,40.762851,-73.967727,40.7622356,-73.9681807,40.7616111,-73.9686338,40.7609292,-73.9691318,40.7602528,-73.9696237,40.7596271,-73.9700795,40.7590024,-73.970533,40.7583747,-73.9709918,40.7577482,-73.9714516,40.7571246,-73.9719073,40.756498,-73.972362,40.75587,-73.97282,40.755243,-73.973276,40.7545964,-73.9737519,40.7539937,-73.9741902,40.753367,-73.974648,40.752741,-73.975102,40.752116,-73.975558,40.7514368,-73.9760403,40.7507747,-73.9765352,40.7501558,-73.9769869,40.7495393,-73.9774355,40.748921,-73.977888,40.7482941,-73.9783444,40.747684,-73.978788,40.747068,-73.979238,40.746402,-73.979724,40.745734,-73.980209,40.745131,-73.9806552,40.744498,-73.981109,40.743882,-73.98156,40.743265,-73.982009,40.742645,-73.982462,40.742026,-73.982912,40.741408,-73.983362,40.74079,-73.983812,40.740172,-73.984261,40.7395069,-73.9847562
+195743152,Central Park South,,3,secondary,no,0.187746106817,1.1264766409,40.766876,-73.979076,40.766876,-73.979076,40.7669209,-73.9791827,40.7670343,-73.9794512,40.7676993,-73.9810182
+195743304,11th Avenue,,3,secondary,,0.796995383467,4.7819723008,40.7683937,-73.9927954,40.7683937,-73.9927954,40.7677405,-73.9932635,40.7671047,-73.9937222,40.766505,-73.994173,40.7658627,-73.9946486,40.7652375,-73.9950957,40.7650732,-73.9952174,40.7646309,-73.9955449,40.7640036,-73.9960052,40.7633783,-73.9964573,40.7627499,-73.9969249,40.7621219,-73.9973838
+186202420,Central Park South,,3,secondary_link,yes,0.0505957962262,0.151787388679,40.7676993,-73.9810182,40.7676993,-73.9810182,40.7677712,-73.9811738,40.7677913,-73.9812013,40.7678104,-73.981227,40.7678504,-73.9812725,40.7678829,-73.9813047,40.7679323,-73.9813448,40.7679587,-73.9813649,40.7679932,-73.9813863,40.7680307,-73.9814067
+195743326,2nd Avenue,,3,secondary,yes,2.84320773283,8.52962319849,40.7842389,-73.9470669,40.7842389,-73.9470669,40.7835456,-73.9476028,40.7829443,-73.9480373,40.7823112,-73.9485053,40.78168,-73.9489676,40.7810592,-73.949421,40.7804348,-73.9498809,40.7798089,-73.9503368,40.7791759,-73.9507943,40.778551,-73.951248,40.777887,-73.9517388,40.7771924,-73.9522412,40.7765623,-73.9527041,40.7759238,-73.9531654,40.7752903,-73.9536285,40.7746458,-73.9540995,40.7740155,-73.9545593,40.7733322,-73.9550869,40.7726201,-73.9555782,40.7720257,-73.9560108,40.7713964,-73.9564729,40.7707623,-73.9569342,40.770106,-73.9574143,40.7694751,-73.9578726,40.7688015,-73.9583631,40.7681151,-73.9588646,40.7675129,-73.9593042,40.7668653,-73.959779,40.7662424,-73.9602312,40.7656116,-73.9606918,40.7649877,-73.9611475,40.7643653,-73.9616082,40.7637382,-73.9620616,40.763113,-73.962515,40.7624875,-73.9629737,40.7618593,-73.9634238
+195743345,8th Avenue,,3,secondary,yes,0.0845734770656,0.253720431197,40.756567,-73.990276,40.756567,-73.990276,40.7572335,-73.9897914
+198924727,2nd Avenue,,3,secondary,yes,0.0427015335068,0.128104600521,40.7612427,-73.9638824,40.7612427,-73.9638824,40.7609815,-73.9640613,40.7609028,-73.9641188
+195743166,East 65th Street,,3,secondary,yes,0.311405865039,0.934217595118,40.7673451,-73.9686697,40.7673451,-73.9686697,40.767306,-73.9685769,40.7667029,-73.9671479,40.7666071,-73.9669207,40.7659843,-73.9654448
+195743167,East 68th Street,,1,residential,yes,1.12877036113,1.12877036113,40.7692257,-73.9673032,40.7692257,-73.9673032,40.7691823,-73.9672003,40.7685831,-73.9657798,40.7684861,-73.96555,40.7679146,-73.9641952,40.7678636,-73.9640743,40.7678186,-73.9639677,40.7671877,-73.962472,40.7662424,-73.9602312,40.7657671,-73.9591044,40.765245,-73.9578668,40.7642941,-73.955613
+171574337,Columbus Circle,,3,secondary,yes,0.25746657567,0.772399727009,40.7684096,-73.981987,40.7684096,-73.981987,40.768403,-73.9820236,40.7683919,-73.982068,40.7683775,-73.9821108,40.7683601,-73.9821515,40.7683399,-73.9821899,40.7683169,-73.9822255,40.7682973,-73.9822511,40.7682763,-73.9822746,40.7682541,-73.9822961,40.7682128,-73.9823279,40.7681688,-73.9823523,40.7681227,-73.9823691,40.7680754,-73.9823778,40.7680276,-73.9823784,40.7679802,-73.9823708,40.7679339,-73.9823552,40.7678896,-73.9823318,40.7678479,-73.982301,40.7678095,-73.9822633,40.7677845,-73.9822325,40.7677618,-73.9821988,40.7677416,-73.9821625,40.7677239,-73.9821238,40.7677091,-73.9820831,40.7676972,-73.9820408,40.7676883,-73.9819972,40.7676832,-73.9819593,40.7676803,-73.981921,40.7676798,-73.9818825,40.7676822,-73.9818358,40.7676881,-73.9817897,40.7676972,-73.9817445,40.7677096,-73.9817006,40.7677252,-73.9816586,40.7677437,-73.9816187,40.767767,-73.9815782,40.7677934,-73.9815412,40.7678226,-73.981508,40.7678542,-73.981479,40.7678827,-73.9814585,40.7679221,-73.9814355,40.7679575,-73.9814211,40.7679938,-73.9814115,40.7680307,-73.9814067,40.7680708,-73.9814071,40.7681106,-73.9814132,40.7681497,-73.981425,40.7681876,-73.9814423,40.7682239,-73.981465,40.768258,-73.9814928,40.768287,-73.9815222,40.7683137,-73.9815553,40.7683377,-73.9815918,40.7683589,-73.9816312,40.768377,-73.9816732,40.7683919,-73.9817173,40.7684033,-73.9817632,40.7684099,-73.9817998,40.7684142,-73.9818371,40.7684164,-73.9818746,40.7684163,-73.9819123,40.7684141,-73.9819498,40.7684096,-73.981987
+195743301,10th Avenue,,3,secondary,yes,0.243696168321,0.731088504962,40.7671828,-73.9899624,40.7671828,-73.9899624,40.7678054,-73.9895128,40.7684306,-73.9890597,40.7691032,-73.9885656
+169381958,East 55th Street,,1,unclassified,yes,0.59952966584,0.59952966584,40.7570079,-73.9638711,40.7570079,-73.9638711,40.7580071,-73.9662396,40.7589518,-73.9684787,40.7596271,-73.9700795
+169381960,1st Avenue,,3,primary,yes,0.166024655886,0.498073967659,40.7583127,-73.9629223,40.7583127,-73.9629223,40.758981,-73.962432,40.759619,-73.961966
+207542284,Lincoln Tunnel Expressway,2,4,motorway,yes,0.0760277555159,0.304111022063,40.7545383,-73.9978958,40.7545383,-73.9978958,40.7546502,-73.9977184,40.7547155,-73.9975651,40.7547717,-73.9974085,40.7548181,-73.9972395,40.7548437,-73.9971023
+169381962,1st Avenue,,3,primary,yes,0.0792873805047,0.237862141514,40.7570079,-73.9638711,40.7570079,-73.9638711,40.7576322,-73.9634155
+198924630,Queensboro Bridge (Upper Level),2,4,motorway_link,yes,0.347097093908,1.38838837563,40.7595848,-73.9606698,40.7595848,-73.9606698,40.7597283,-73.9609389,40.7598618,-73.9611696,40.7600535,-73.9614875,40.7604033,-73.9623167,40.7605009,-73.9625056,40.7606179,-73.9626257,40.7607158,-73.9626887,40.7608341,-73.9627351,40.760969,-73.9627359,40.7611447,-73.962693,40.7618045,-73.9622034
+195743182,Madison Avenue,,3,secondary,yes,2.1725662337,6.51769870111,40.746494,-73.9838932,40.746494,-73.9838932,40.7465503,-73.9838512,40.747098,-73.983443,40.747765,-73.982957,40.748432,-73.982473,40.74905,-73.982024,40.7496412,-73.9815997,40.750282,-73.981123,40.7509034,-73.9806752,40.7515213,-73.9802215,40.7521385,-73.9797698,40.7528022,-73.9792861,40.753481,-73.978783,40.7541,-73.978332,40.754728,-73.977875,40.7553543,-73.9774168,40.7559713,-73.9769665,40.756606,-73.976504,40.757232,-73.976045,40.75786,-73.975591,40.7584861,-73.9751347,40.7591101,-73.9746829,40.7597393,-73.9742235,40.7603636,-73.9737663,40.7609894,-73.9733087,40.7616152,-73.9728511,40.7622894,-73.9723599,40.7629781,-73.9718586,40.7635979,-73.9714037
+195743183,Madison Avenue,,3,secondary,yes,0.238589330635,0.715767991906,40.7673451,-73.9686697,40.7673451,-73.9686697,40.7674072,-73.9686244,40.7679124,-73.9682555,40.7679674,-73.9682154,40.7680382,-73.968164,40.7685471,-73.9677946,40.768594,-73.9677605,40.7686452,-73.9677235,40.7691671,-73.9673456,40.7692257,-73.9673032
+169267536,1st Avenue,,3,primary,yes,0.031664568566,0.094993705698,40.7526752,-73.9672131,40.7526752,-73.9672131,40.7528322,-73.9669001
+169267537,1st Avenue,,3,primary,yes,0.477953326911,1.43385998073,40.753244,-73.966616,40.753244,-73.966616,40.75335,-73.966536,40.753878,-73.966157,40.7545043,-73.9656965,40.75513,-73.96524,40.755756,-73.964786,40.756381,-73.964325,40.7570079,-73.9638711
+169267538,West 42nd Street,,3,primary,no,0.262680106886,1.57608064131,40.7619572,-74.0010621,40.7619572,-74.0010621,40.7614376,-73.9998036,40.7608279,-73.9983286
+169267539,12th Avenue,4,4,trunk,yes,0.559478308573,2.23791323429,40.7625412,-74.0003097,40.7625412,-74.0003097,40.7626073,-74.0002124,40.7629779,-73.9996888,40.7630545,-73.9995869,40.7631534,-73.9994571,40.7633094,-73.9992854,40.7634394,-73.9991395,40.7636177,-73.9989689,40.7638425,-73.998779,40.7641415,-73.9985644,40.7642389,-73.998495,40.764868,-73.9980471,40.7652877,-73.9977548,40.7654017,-73.9976585,40.7654896,-73.9975938,40.7661012,-73.9971547,40.7666573,-73.9967277,40.7667144,-73.9966849
+169267540,East 48th Street,,1,residential,yes,0.214899850407,0.214899850407,40.753624,-73.969431,40.753624,-73.969431,40.7526752,-73.9672131
+169267541,2nd Avenue,,3,primary,yes,0.158996215155,0.476988645465,40.754877,-73.96852,40.754877,-73.96852,40.754251,-73.968978,40.753624,-73.969431
+169267542,2nd Avenue,,3,primary,yes,0.890935640198,2.6728069206,40.753624,-73.969431,40.753624,-73.969431,40.752956,-73.9699167,40.752379,-73.970341,40.751748,-73.970804,40.751122,-73.971263,40.750494,-73.971713,40.7498059,-73.9722156,40.749157,-73.972692,40.7485336,-73.9731443,40.7479204,-73.973591,40.747296,-73.974044,40.7466699,-73.9744848,40.7466024,-73.9745343
+169267543,East 50th Street,,3,secondary,yes,0.228312354398,0.684937063193,40.754877,-73.96852,40.754877,-73.96852,40.753878,-73.966157
+169267544,East 49th Street,,3,secondary,yes,0.444757474777,1.33427242433,40.753244,-73.966616,40.753244,-73.966616,40.754251,-73.968978,40.755193,-73.971217
+198924587,Madison Avenue,,3,secondary,yes,0.475864520059,1.42759356018,40.7635979,-73.9714037,40.7635979,-73.9714037,40.7642198,-73.9709542,40.7648423,-73.9704968,40.7649045,-73.9704515,40.7654092,-73.9700841,40.7654664,-73.9700424,40.7660335,-73.969627,40.7660912,-73.9695848,40.7661511,-73.9695411,40.7666573,-73.9691718,40.7667187,-73.969127,40.7667792,-73.9690828,40.7672861,-73.9687127,40.7673451,-73.9686697
+169383514,12th Avenue,4,4,trunk,yes,0.0928673971496,0.371469588598,40.7626445,-74.000524,40.7626445,-74.000524,40.7621773,-74.0011633,40.7620687,-74.0013215
+196117083,West 57th Street,,3,primary,no,0.0991539391492,0.594923634895,40.766287,-73.981848,40.766287,-73.981848,40.7667155,-73.9828783
+166030812,,,4,motorway_link,yes,0.0853205248254,0.341282099301,40.7606734,-73.9631634,40.7606734,-73.9631634,40.7609611,-73.9638136,40.7609873,-73.9638928,40.760997,-73.9639702,40.7609815,-73.9640613
+198595549,2nd Avenue,,3,secondary,yes,0.0786640398974,0.235992119692,40.7618593,-73.9634238,40.7618593,-73.9634238,40.7612427,-73.9638824
+194920158,West 50th Street,3,3,secondary,yes,1.56763174973,4.70289524919,40.7667144,-73.9966849,40.7667144,-73.9966849,40.7658627,-73.9946486,40.7650277,-73.992652,40.7649039,-73.992356,40.7646694,-73.9917953,40.7634796,-73.9889506,40.7634572,-73.9888971,40.7629287,-73.9876334,40.7627852,-73.9872902,40.7622893,-73.9861046,40.7614844,-73.9841803,40.7614285,-73.9840467,40.7613921,-73.9839597,40.7613567,-73.983875,40.7611565,-73.9833963,40.7610991,-73.9832592,40.7610508,-73.9831437,40.7606769,-73.9822497,40.7599106,-73.9804176
+194920159,12th Avenue,4,4,trunk,yes,0.333768341425,1.3350733657,40.7667144,-73.9966849,40.7667144,-73.9966849,40.7673464,-73.9962298,40.7679119,-73.9958093,40.7679669,-73.9957765,40.76916,-73.994908,40.7692786,-73.9948335,40.7693529,-73.9947945
+196117041,Lexington Avenue,,3,secondary,yes,4.14420864813,12.4326259444,40.7986157,-73.9416251,40.7986157,-73.9416251,40.7979309,-73.9421296,40.7960891,-73.9434711,40.7954473,-73.9439398,40.7948104,-73.9444042,40.79418,-73.9448653,40.7935499,-73.9453255,40.7929177,-73.9457864,40.792248,-73.9462785,40.7915682,-73.9467668,40.7909323,-73.9472339,40.7903168,-73.9476849,40.7896812,-73.9481484,40.7890556,-73.9486045,40.7884298,-73.9490632,40.787792,-73.9495277,40.7871716,-73.949982,40.7865321,-73.9504398,40.7858671,-73.9509262,40.7851747,-73.9514388,40.7845645,-73.9518834,40.783937,-73.952341,40.7833024,-73.9528059,40.782682,-73.95326,40.782055,-73.9537187,40.7814292,-73.9541758,40.7807949,-73.9546347,40.7801739,-73.9550916,40.7795072,-73.9555814,40.7788122,-73.9560833,40.7781812,-73.9565451,40.7775459,-73.9570093,40.7769107,-73.9574722,40.7762703,-73.9579394,40.7756382,-73.9584018,40.7749576,-73.9589252,40.7742552,-73.959411,40.773644,-73.9598562,40.7730129,-73.9603164,40.7723778,-73.9607795,40.7717304,-73.9612503,40.7710998,-73.9617136,40.7704245,-73.9622107,40.769737,-73.9627055,40.7691229,-73.9631538,40.7684845,-73.9636198,40.7679474,-73.964013,40.7678636,-73.9640743,40.7678017,-73.9641192,40.7672321,-73.9645324,40.7666073,-73.9649892,40.7659843,-73.9654448
+196117089,3rd Avenue,,3,primary,yes,4.14388783831,12.4316635149,40.7653085,-73.9638433,40.7653085,-73.9638433,40.7659323,-73.9633881,40.766557,-73.9629323,40.7671877,-73.962472,40.7678094,-73.9620184,40.7684519,-73.9615495,40.7690611,-73.9611049,40.769747,-73.9606044,40.7704223,-73.9601116,40.7710532,-73.9596512,40.7717042,-73.9591761,40.7723386,-73.9587132,40.7729692,-73.9582529,40.7735731,-73.9578122,40.7742707,-73.9573031,40.7749613,-73.9567991,40.7755929,-73.9563381,40.776235,-73.9558695,40.7768695,-73.9554065,40.7775056,-73.9549422,40.778137,-73.9544814,40.7788316,-73.953979,40.7794971,-73.9534887,40.7801202,-73.953034,40.7807525,-73.9525725,40.7813783,-73.9521157,40.7820071,-73.9516568,40.7826258,-73.9512052,40.7832595,-73.9507426,40.78389,-73.9502824,40.7844958,-73.9498403,40.785194,-73.9493307,40.7858573,-73.9488464,40.7864975,-73.9483792,40.7871093,-73.9479326,40.7877536,-73.9474623,40.7883833,-73.9470027,40.7890027,-73.9465505,40.7896375,-73.9460871,40.7902593,-73.9456333,40.7908925,-73.945171,40.791572,-73.944675,40.7922463,-73.9441827,40.7928745,-73.9437242,40.7935046,-73.9432642,40.7941324,-73.9428059,40.794776,-73.942336,40.7954144,-73.94187,40.7959838,-73.9414543,40.797258,-73.940524,40.7979386,-73.9400272
+196117092,8th Avenue,,3,secondary,yes,0.0866377419347,0.259913225804,40.7667155,-73.9828783,40.7667155,-73.9828783,40.7673981,-73.9823814
+166031462,East 60th Street,,2,tertiary,yes,0.15407829454,0.308156589079,40.7609044,-73.9631174,40.7609044,-73.9631174,40.7608058,-73.9628873,40.760231,-73.961522
+195743208,West 34th Street,6,3,primary,no,0.548436896827,3.29062138096,40.7509969,-73.9906194,40.7509969,-73.9906194,40.7519078,-73.9927775,40.7519826,-73.9929545,40.7521958,-73.9934597,40.7526776,-73.9946011,40.7533618,-73.996222,40.7533937,-73.9962976
+195743209,West 41st Street,,1,unclassified,yes,0.273223794625,0.273223794625,40.755373,-73.987447,40.755373,-73.987447,40.756567,-73.990276
+195743210,West 41st Street,,1,unclassified,yes,0.275112878162,0.275112878162,40.756567,-73.990276,40.756567,-73.990276,40.7576042,-73.9927446,40.7576579,-73.9928226,40.7577211,-73.9929,40.7577902,-73.9930007,40.7578265,-73.9930688
+195743211,West 54th Street,4,3,secondary,yes,0.54791606714,1.64374820142,40.7683937,-73.9927954,40.7683937,-73.9927954,40.7683328,-73.9926529,40.7672414,-73.9900996,40.7671828,-73.9899624,40.7671306,-73.9898412,40.7660511,-73.9872626,40.7659937,-73.9871254
+198595548,2nd Avenue,,3,secondary,yes,0.116939234841,0.350817704524,40.7609028,-73.9641188,40.7609028,-73.9641188,40.7606074,-73.9643288,40.7599854,-73.9647985
+195743342,5th Avenue,,3,secondary,yes,0.475701569694,1.42710470908,40.768646,-73.969825,40.768646,-73.969825,40.768583,-73.9698713,40.7680917,-73.970232,40.768025,-73.970281,40.7679612,-73.9703262,40.767394,-73.970728,40.766767,-73.971189,40.766143,-73.971648,40.765518,-73.972099,40.764898,-73.972553
+195743344,7th Avenue,,3,secondary,yes,0.554927301014,1.66478190304,40.755373,-73.987447,40.755373,-73.987447,40.75475,-73.987892,40.75413,-73.988335,40.753517,-73.988787,40.752895,-73.989243,40.7522886,-73.9896878,40.7516588,-73.9901341,40.7509969,-73.9906194
+195743336,5th Avenue,,3,secondary,yes,2.0111267193,6.03338015789,40.764279,-73.973015,40.764279,-73.973015,40.7640471,-73.9731813,40.763659,-73.973465,40.762967,-73.973968,40.762293,-73.974457,40.761667,-73.974915,40.76104,-73.975373,40.760418,-73.975831,40.759787,-73.976289,40.759165,-73.976744,40.758538,-73.977201,40.758291,-73.9773806,40.7581582,-73.9774783,40.757912,-73.977655,40.757284,-73.978116,40.7566543,-73.9785655,40.756032,-73.979024,40.755405,-73.979483,40.7547823,-73.9799375,40.754155,-73.980395,40.753481,-73.980888,40.752814,-73.981372,40.752197,-73.981822,40.751577,-73.982275,40.750959,-73.982724,40.7503045,-73.9832025,40.749724,-73.983621,40.749102,-73.984076,40.748439,-73.98456
+182690803,,,4,motorway_link,yes,0.112145404627,0.448581618508,40.7550366,-73.995101,40.7550366,-73.995101,40.7549506,-73.9952722,40.7549246,-73.9953615,40.7549148,-73.9954159,40.7549147,-73.995483,40.7549211,-73.9955398,40.7549386,-73.9956007,40.7550812,-73.995944,40.7551074,-73.9959926,40.7551284,-73.9960284,40.7551601,-73.9960535,40.7551945,-73.9960694,40.7552309,-73.9960709,40.7552708,-73.9960614,40.7553346,-73.9960352
+218330656,News Corp. Plaza,,1,pedestrian,,0.126405976548,0.252811953096,40.7582787,-73.9818064,40.7582787,-73.9818064,40.7586206,-73.9815645,40.7587059,-73.9817714,40.7586381,-73.9818219,40.758368,-73.9820186,40.7582787,-73.9818064
+198924667,,,4,motorway_link,yes,0.0334782649945,0.133913059978,40.7606527,-73.9628992,40.7606527,-73.9628992,40.7608236,-73.9630491,40.7609044,-73.9631174
+196116988,Central Park South,,3,secondary,no,0.274528616165,1.64717169699,40.765675,-73.976234,40.765675,-73.976234,40.7668373,-73.9789845,40.766876,-73.979076
+198924778,5th Avenue,,3,secondary,yes,0.079036596432,0.237109789296,40.764898,-73.972553,40.764898,-73.972553,40.7645594,-73.9728057,40.764279,-73.973015
+194926846,West 43rd Street,,1,unclassified,yes,0.274165465678,0.274165465678,40.7579071,-73.9892986,40.7579071,-73.9892986,40.7590753,-73.992073,40.7591031,-73.992139
+194926847,West 43rd Street,,1,unclassified,yes,0.274357892488,0.274357892488,40.7591031,-73.992139,40.7591031,-73.992139,40.7603,-73.9949814
+223694351,,,4,motorway_link,yes,0.0399138920086,0.159655568034,40.7573468,-73.9950445,40.7573468,-73.9950445,40.7576611,-73.9948152
+223694352,,1,4,motorway_link,yes,0.0250321692367,0.100128676947,40.7588215,-73.9989206,40.7588215,-73.9989206,40.7588334,-73.9989965,40.7588445,-73.9990872,40.7588738,-73.9992083
+226092571,1st Avenue,,3,primary,yes,0.0862852110342,0.258855633103,40.7576322,-73.9634155,40.7576322,-73.9634155,40.7583127,-73.9629223
+226092572,1st Avenue,,3,primary,yes,0.140369475438,0.421108426314,40.7515074,-73.9678066,40.7515074,-73.9678066,40.7519959,-73.9676719,40.7521536,-73.9675921,40.7526752,-73.9672131
+226092573,2nd Avenue,,3,primary,yes,0.0856827823228,0.257048346969,40.7599854,-73.9647985,40.7599854,-73.9647985,40.7593108,-73.965291
+226040999,East 39th Street,,1,unclassified,yes,0.154629690992,0.154629690992,40.7488648,-73.9758337,40.7488648,-73.9758337,40.7495393,-73.9774355
+221915945,,,1,pedestrian,,0.244095271263,0.488190542527,40.7519826,-73.9929545,40.7519826,-73.9929545,40.7517047,-73.9931399,40.7517837,-73.9933292,40.7516303,-73.9934381,40.7515414,-73.993228,40.7512808,-73.9934019,40.751213,-73.9932414,40.7519078,-73.9927775,40.7519826,-73.9929545
+226041002,East 40th Street,,1,unclassified,yes,0.153382614098,0.153382614098,40.7508261,-73.9785747,40.7508261,-73.9785747,40.7508006,-73.9785035,40.7501558,-73.9769869
+226041004,East 40th Street,,1,unclassified,yes,0.159064468534,0.159064468534,40.7515213,-73.9802215,40.7515213,-73.9802215,40.7508944,-73.9787363,40.7508261,-73.9785747
+226041005,East 40th Street,,1,unclassified,yes,0.371166837818,0.371166837818,40.7501558,-73.9769869,40.7501558,-73.9769869,40.7497073,-73.975922,40.7494797,-73.9753854,40.7491137,-73.9745184,40.7485336,-73.9731443
+226041006,East 48th Street,,1,residential,yes,0.371150076155,0.371150076155,40.755243,-73.973276,40.755243,-73.973276,40.7549249,-73.9725203,40.75457,-73.971677,40.753624,-73.969431
+226041007,East 48th Street,,1,residential,yes,0.311791647011,0.311791647011,40.756606,-73.976504,40.756606,-73.976504,40.7559569,-73.9749659,40.755868,-73.9747539,40.7555973,-73.9741137,40.755243,-73.973276
+226041008,East 51st Street,,1,residential,yes,1.06684645689,1.06684645689,40.7545043,-73.9656965,40.7545043,-73.9656965,40.7555037,-73.9680652,40.7564522,-73.9703136,40.7571246,-73.9719073,40.7577472,-73.9733833,40.7578377,-73.9735977,40.758076,-73.9741627,40.7581898,-73.9744323,40.7584861,-73.9751347,40.759165,-73.976744
+226041009,East 54th Street,,3,secondary,yes,0.445893981911,1.33768194573,40.757381,-73.966702,40.757381,-73.966702,40.756381,-73.964325,40.7554418,-73.9620783
+226041011,East 54th Street,,3,secondary,yes,0.466218029363,1.39865408809,40.7603636,-73.9737663,40.7603636,-73.9737663,40.759717,-73.9722305,40.7596256,-73.9720133,40.7590024,-73.970533,40.75833,-73.968936
+226041012,East 55th Street,,1,unclassified,yes,0.303172158633,0.303172158633,40.7603425,-73.9717754,40.7603425,-73.9717754,40.7609894,-73.9733087,40.761667,-73.974915
+226041013,East 55th Street,,1,unclassified,yes,0.163762131763,0.163762131763,40.7596271,-73.9700795,40.7596271,-73.9700795,40.7602506,-73.9715574,40.7603425,-73.9717754
+226041021,West 39th Street,,1,unclassified,yes,0.103503394173,0.103503394173,40.7565119,-73.9940267,40.7565119,-73.9940267,40.7567669,-73.9946729,40.7569544,-73.9951052
+226041022,West 40th Street,,1,unclassified,yes,0.310962254263,0.310962254263,40.753554,-73.985043,40.753554,-73.985043,40.7533975,-73.9846716,40.7528405,-73.9833495,40.752197,-73.981822
+226041023,West 40th Street,,1,unclassified,yes,0.822765394282,0.822765394282,40.7571456,-73.9935648,40.7571456,-73.9935648,40.7571121,-73.9934851,40.755951,-73.990726,40.75475,-73.987892,40.754318,-73.986865,40.753554,-73.985043
+226041024,West 43rd Street,,1,unclassified,yes,0.0540245842289,0.0540245842289,40.7603,-73.9949814,40.7603,-73.9949814,40.7605357,-73.9955411
+226041025,West 43rd Street,,1,unclassified,yes,0.547836361911,0.547836361911,40.755516,-73.983624,40.755516,-73.983624,40.7561341,-73.9850935,40.756581,-73.986156,40.75671,-73.986458,40.7579071,-73.9892986
+226041026,West 44th Street,,1,unclassified,yes,0.567821697919,0.567821697919,40.7572592,-73.9858201,40.7572592,-73.9858201,40.7561419,-73.9831666,40.7547823,-73.9799375
+226041027,West 44th Street,,1,unclassified,yes,0.565971702309,0.565971702309,40.7597281,-73.9916837,40.7597281,-73.9916837,40.7596998,-73.9916164,40.758532,-73.9888431,40.7578357,-73.9871893,40.7573404,-73.986013,40.7572592,-73.9858201
+226041028,West 48th Street,,1,residential,yes,0.213393419015,0.213393419015,40.7610365,-73.9870177,40.7610365,-73.9870177,40.7603603,-73.9854112,40.7601612,-73.9849383,40.7601058,-73.9848067
+226041029,West 48th Street,,1,residential,yes,0.311457128724,0.311457128724,40.758645,-73.981341,40.758645,-73.981341,40.7578499,-73.9794445,40.7577783,-73.9792737,40.757284,-73.978116
+226041030,West 51st Street,,1,residential,yes,0.194974413934,0.194974413934,40.7620648,-73.9836282,40.7620648,-73.9836282,40.7629156,-73.9856481
+226041031,West 51st Street,3,1,residential,yes,1.03924697473,1.03924697473,40.7629156,-73.9856481,40.7629156,-73.9856481,40.7640831,-73.9884386,40.7641124,-73.9884895,40.7653085,-73.9913292,40.765556,-73.991917,40.7656829,-73.9922186,40.766505,-73.994173,40.7673464,-73.9962298,40.7674288,-73.9964298
+226041032,West 54th Street,,3,secondary,yes,0.273707096199,0.821121288597,40.7635954,-73.9814328,40.7635954,-73.9814328,40.7631352,-73.9803314,40.7628583,-73.9796972,40.762396,-73.978601
+226041033,West 54th Street,2,3,secondary,yes,0.0653058766509,0.195917629953,40.7652688,-73.9853887,40.7652688,-73.9853887,40.7649844,-73.9847117
+226041034,,,1,service,yes,0.227790001149,0.227790001149,40.7627048,-74.0006826,40.7627048,-74.0006826,40.7627249,-74.0008168,40.7627282,-74.0008391,40.7623309,-74.0013883,40.762176,-74.0015501,40.7620726,-74.0016451,40.7615867,-74.0020269,40.7615663,-74.0020173,40.7614974,-74.0019848,40.7614363,-74.0018554,40.7614356,-74.001719,40.7614718,-74.0015286
+228996438,,,1,service,no,0.0196864929743,0.0393729859486,40.7652927,-73.9983991,40.7652927,-73.9983991,40.7653444,-73.9982909,40.7653975,-73.998212
+221157083,3rd Avenue,,3,primary,yes,3.27757757953,9.83273273859,40.739497,-73.982665,40.739497,-73.982665,40.740115,-73.982211,40.740733,-73.981762,40.741351,-73.981312,40.74197,-73.980859,40.742587,-73.98041,40.743205,-73.979959,40.743825,-73.979508,40.74446,-73.9790542,40.745058,-73.978607,40.745726,-73.978121,40.746392,-73.977636,40.74701,-73.977188,40.747628,-73.976735,40.748245,-73.976288,40.7488648,-73.9758337,40.7494797,-73.9753854,40.7497098,-73.9752183,40.7501,-73.974935,40.7507556,-73.9744567,40.751441,-73.973959,40.752065,-73.973503,40.752692,-73.973045,40.753318,-73.972588,40.7539144,-73.9721573,40.75457,-73.971677,40.755193,-73.971217,40.755825,-73.97076,40.7564522,-73.9703136,40.7570731,-73.9698501,40.7577,-73.969394,40.75833,-73.968936,40.7589518,-73.9684787,40.7595777,-73.9680243,40.7602554,-73.9675327,40.7609338,-73.967036,40.7615583,-73.9665784,40.76218,-73.966128,40.7628063,-73.9656691,40.7634317,-73.9652142,40.764057,-73.9647558,40.7646823,-73.9642995,40.7653085,-73.9638433
+258619238,,,1,service,,0.00609889535687,0.0121977907137,40.7592281,-73.9874367,40.7592281,-73.9874367,40.7591763,-73.9874607
+258619239,,,1,service,,0.100516774828,0.201033549656,40.7595059,-73.9881333,40.7595059,-73.9881333,40.7594472,-73.9879861,40.7592281,-73.9874367,40.7594165,-73.9873091,40.7595011,-73.9872519
+226041001,East 39th Street,,1,unclassified,yes,0.467170301875,0.467170301875,40.7495393,-73.9774355,40.7495393,-73.9774355,40.7501762,-73.9789596,40.7502747,-73.9791828,40.7509034,-73.9806752,40.751577,-73.982275
+259913668,6½ Avenue,,1,pedestrian,no,0.0603593216607,0.120718643321,40.7630435,-73.9803637,40.7630435,-73.9803637,40.762568,-73.98071
+259913669,6½ Avenue,,1,pedestrian,no,0.0191479831791,0.0382959663582,40.762568,-73.98071,40.762568,-73.98071,40.7624896,-73.9807674,40.7624108,-73.9808004
+259914622,6½ Avenue,,1,pedestrian,no,0.0555067726357,0.111013545271,40.7617781,-73.9813162,40.7617781,-73.9813162,40.7613411,-73.9816353
+259914621,6½ Avenue,,1,pedestrian,no,0.010392890692,0.0207857813841,40.7613411,-73.9816353,40.7613411,-73.9816353,40.7612593,-73.9816951
+260910569,6½ Avenue,,1,pedestrian,no,0.0612238044607,0.122447608921,40.7624108,-73.9808004,40.7624108,-73.9808004,40.7621251,-73.9810055,40.7619263,-73.9811464
+260910570,6½ Avenue,,1,pedestrian,no,0.021928964653,0.0438579293061,40.7619263,-73.9811464,40.7619263,-73.9811464,40.7618672,-73.9812306,40.7617781,-73.9813162
+260942915,6½ Avenue,,1,pedestrian,no,0.0299523556341,0.0599047112681,40.7643066,-73.9794805,40.7643066,-73.9794805,40.764071,-73.9796532
+260942917,6½ Avenue,,1,pedestrian,no,0.0152620638292,0.0305241276585,40.7638434,-73.9798564,40.7638434,-73.9798564,40.7637693,-73.979909,40.7637226,-73.9799426
+264211595,,,1,unclassified,yes,0.0884033685405,0.0884033685405,40.7672731,-73.9841758,40.7672731,-73.9841758,40.7665762,-73.9846819
+265147737,6½ Avenue,,1,pedestrian,no,0.0317459678097,0.0634919356195,40.764071,-73.9796532,40.764071,-73.9796532,40.7640569,-73.9797091,40.7638434,-73.9798564
+265150618,6½ Avenue,,1,pedestrian,no,0.0641737645759,0.128347529152,40.7637226,-73.9799426,40.7637226,-73.9799426,40.7632163,-73.980309
+265150619,6½ Avenue,,1,pedestrian,no,0.0197446638986,0.0394893277973,40.7632163,-73.980309,40.7632163,-73.980309,40.7631352,-73.9803314,40.7630435,-73.9803637
+265356028,West 56th Street,,1,residential,yes,1.78583867452,1.78583867452,40.7700638,-73.9929745,40.7700638,-73.9929745,40.7696238,-73.9919069,40.7692855,-73.9911388,40.769176,-73.9908776,40.7684306,-73.9890597,40.7672246,-73.986222,40.7671966,-73.9861569,40.7665762,-73.9846819,40.7660319,-73.9833766,40.7654522,-73.9819937,40.7654174,-73.9819106,40.7651899,-73.9813679,40.7648393,-73.9805314,40.7644389,-73.9795628,40.7636462,-73.9776851,40.762293,-73.974457
+273019810,West 34th Street,6,3,primary,no,0.309917322187,1.85950393312,40.7542954,-73.9984594,40.7542954,-73.9984594,40.7545834,-73.9991497,40.7551504,-74.0005091,40.7556376,-74.0016771
+273019812,West 35th Street,,1,unclassified,yes,0.0534295535733,0.0534295535733,40.7546525,-73.9972277,40.7546525,-73.9972277,40.754886,-73.9977809
+273019814,West 35th Street,,1,unclassified,yes,0.291258799026,0.291258799026,40.754886,-73.9977809,40.754886,-73.9977809,40.7552565,-73.9986589,40.7558116,-73.9999743,40.7560169,-74.0004607,40.7561587,-74.0007967
+275301518,,,1,service,,0.0811738110479,0.162347622096,40.7501091,-73.9682867,40.7501091,-73.9682867,40.7499835,-73.9683645,40.7498229,-73.968487,40.7495867,-73.9686819,40.7494667,-73.968739
+273895447,,1,4,motorway_link,yes,0.0234840669714,0.0939362678857,40.758788,-73.998646,40.758788,-73.998646,40.7588215,-73.9989206
+273895448,West 41st Street,,3,secondary,yes,0.22303995274,0.66911985822,40.7583702,-73.9943941,40.7583702,-73.9943941,40.758981,-73.9959432,40.7592985,-73.9967364
+273895449,Dyer Avenue,,3,primary,yes,0.0779048937452,0.233714681236,40.7583702,-73.9943941,40.7583702,-73.9943941,40.7589791,-73.9939359
+273895450,West 40th Street,,1,unclassified,yes,0.120107891862,0.120107891862,40.7576611,-73.9948152,40.7576611,-73.9948152,40.7575391,-73.9945228,40.7571456,-73.9935648
+273019803,West 33rd Street,,1,unclassified,yes,0.318461881442,0.318461881442,40.753547,-73.9987459,40.753547,-73.9987459,40.7539186,-73.9996344,40.7549213,-74.0020558
+273019805,West 33rd Street,,1,unclassified,yes,0.0354483022887,0.0354483022887,40.7533864,-73.9983838,40.7533864,-73.9983838,40.7534449,-73.998498,40.7535244,-73.9986987,40.753547,-73.9987459
+273019807,West 34th Street,6,3,primary,no,0.0370421008826,0.222252605295,40.754135,-73.9980748,40.754135,-73.9980748,40.7542954,-73.9984594
+289360194,,,1,service,,0.0830739395374,0.166147879075,40.750349,-73.9734972,40.750349,-73.9734972,40.7496989,-73.9739839
+291195833,Lincoln Tunnel Expressway,2,4,motorway_link,yes,0.1240707593,0.496283037199,40.7535072,-73.9984372,40.7535072,-73.9984372,40.7536352,-73.9983969,40.753755,-73.9983594,40.7538662,-73.9983178,40.7539964,-73.9982615,40.7541163,-73.9981955,40.7542743,-73.9980941,40.754389,-73.998008,40.7545383,-73.9978958
+291195834,Lincoln Tunnel Expressway,2,4,motorway_link,yes,0.176055623016,0.704222492065,40.7536603,-73.9986096,40.7536603,-73.9986096,40.7535443,-73.9986185,40.7534036,-73.9986466,40.753271,-73.9987166,40.7531085,-73.9988358,40.752536,-73.999254,40.7522336,-73.9994669
+291294418,,,1,pedestrian,,0.10027782418,0.20055564836,40.7583782,-73.9742965,40.7583782,-73.9742965,40.7582569,-73.9743842,40.7581898,-73.9744323,40.758076,-73.9741627,40.7581461,-73.97411,40.7581711,-73.9740918,40.7581949,-73.9740745,40.7582086,-73.9740645,40.7582452,-73.9740379,40.7582655,-73.9740231,40.7583475,-73.9742211,40.7583782,-73.9742965
+292149035,,,1,service,,0.0676209418517,0.135241883703,40.7654411,-73.9955789,40.7654411,-73.9955789,40.7653836,-73.9956199,40.7652755,-73.9957004,40.7651385,-73.9953794,40.7650732,-73.9952174
+296677061,,,1,service,yes,0.0812421275895,0.0812421275895,40.7514268,-73.9975414,40.7514268,-73.9975414,40.7515528,-73.997532,40.7520747,-73.9971286
+297275230,,,1,service,yes,0.0277265443406,0.0277265443406,40.7519074,-73.9653782,40.7519074,-73.9653782,40.7518732,-73.9653423,40.7518296,-73.9653358,40.7516712,-73.9653807
+296780157,,,1,service,,0.0201213754614,0.0402427509228,40.7521299,-73.997274,40.7521299,-73.997274,40.752099,-73.9971925,40.7520747,-73.9971286,40.7520487,-73.997061
+308322448,Broadway,,1,unclassified,yes,0.0931159684213,0.0931159684213,40.7671189,-73.9817098,40.7671189,-73.9817098,40.767057,-73.9817201,40.7667393,-73.9817729,40.766287,-73.981848
+308322446,West 58th Street,,1,residential,yes,0.0646265813575,0.0646265813575,40.7673981,-73.9823814,40.7673981,-73.9823814,40.7671189,-73.9817098
+308322447,West 58th Street,,1,residential,yes,0.732654869812,0.732654869812,40.7671189,-73.9817098,40.7671189,-73.9817098,40.7662134,-73.9795321,40.7650275,-73.9766802,40.7639334,-73.974111
+320888283,Lincoln Tunnel,2,4,motorway,reversible,1.24542763438,9.96342107505,40.7629212,-74.009677,40.7629212,-74.009677,40.7589394,-74.0001769,40.7588659,-73.9999739,40.7588089,-73.9997524,40.7587587,-73.9995053,40.758699,-73.9992492,40.7586202,-73.9990166,40.7578911,-73.9972646,40.7578244,-73.9971237,40.757741,-73.9969854,40.7576472,-73.9968521,40.757565,-73.996758
+320888292,Lincoln Tunnel,2,4,motorway,yes,0.99205203287,3.96820813148,40.7588738,-73.9992083,40.7588738,-73.9992083,40.7589243,-73.9994257,40.7589891,-73.9996343,40.7590705,-73.9998381,40.759151,-74.0000328,40.7631315,-74.0095299
+324118556,West 54th Street,2,3,secondary,yes,0.0427392276612,0.128217682984,40.7649844,-73.9847117,40.7649844,-73.9847117,40.7648611,-73.9844134,40.7647981,-73.9842688
+324118557,West 54th Street,3,3,secondary,yes,0.167282570865,0.501847712595,40.7659937,-73.9871254,40.7659937,-73.9871254,40.7659648,-73.9870607,40.765933,-73.9869888,40.7652688,-73.9853887
+324118555,West 54th Street,3,3,secondary,yes,0.0398840342639,0.119652102792,40.763769,-73.9818463,40.763769,-73.9818463,40.7636543,-73.9815692,40.7635954,-73.9814328
+324118554,West 54th Street,2,3,secondary,yes,0.0454377385443,0.136313215633,40.764037,-73.9824772,40.764037,-73.9824772,40.7639826,-73.9823527,40.7638361,-73.9820084
+329988122,,,1,pedestrian,,0.0913508819842,0.182701763968,40.7671685,-73.9817018,40.7671685,-73.9817018,40.7671457,-73.9816338,40.7672741,-73.9816151,40.7674626,-73.981584,40.7674909,-73.9815762,40.7675062,-73.9815824,40.7675133,-73.9816011,40.7675097,-73.9816229,40.767503,-73.9816652,40.7674348,-73.981662,40.7673933,-73.9816654,40.7671685,-73.9817018
+324118553,West 54th Street,3,3,secondary,yes,0.0155837836775,0.0467513510324,40.7638361,-73.9820084,40.7638361,-73.9820084,40.763769,-73.9818463
+319773434,,,1,pedestrian,,0.14314636367,0.28629272734,40.7506855,-73.9917358,40.7506855,-73.9917358,40.7506382,-73.9916171,40.7511113,-73.9912733,40.7511627,-73.9913871,40.7506855,-73.9917358
+320480539,,,1,service,,0.0799997050455,0.159999410091,40.7565983,-73.9999013,40.7565983,-73.9999013,40.7560169,-74.0004607
+320480540,,,1,service,,0.225305662367,0.450611324734,40.7546893,-74.0009008,40.7546893,-74.0009008,40.7551504,-74.0005091,40.7558116,-73.9999743,40.7564073,-73.9994817
+323384218,7th Avenue,,3,primary,yes,0.721109578079,2.16332873424,40.765521,-73.980036,40.765521,-73.980036,40.7648393,-73.9805314,40.764219,-73.9809839,40.7635954,-73.9814328,40.7629646,-73.9818975,40.7623343,-73.9823574,40.7617189,-73.9828071,40.7611533,-73.9832136,40.7610991,-73.9832592,40.761029,-73.9833038,40.7605273,-73.9836778,40.7604662,-73.9837233,40.7604121,-73.9837619,40.7599049,-73.9841232,40.759841,-73.984174
+324118558,West 54th Street,,3,secondary,yes,0.173283216816,0.519849650447,40.7647981,-73.9842688,40.7647981,-73.9842688,40.764739,-73.9841332,40.7640905,-73.9826034,40.764037,-73.9824772
+329988123,,,1,pedestrian,,0.161691321011,0.323382642021,40.7670326,-73.9816524,40.7670326,-73.9816524,40.767057,-73.9817201,40.7667393,-73.9817729,40.7666191,-73.9817644,40.7663776,-73.9818064,40.7663587,-73.9817675,40.7667345,-73.9817038,40.7669207,-73.9816789,40.7670326,-73.9816524
+332054904,,,1,pedestrian,,0.495406581543,0.990813163086,40.7617196,-73.9844098,40.7617196,-73.9844098,40.7620411,-73.9851769,40.7620517,-73.9851692,40.7620631,-73.9851966,40.7620156,-73.9852309,40.7615482,-73.9841002,40.7620378,-73.9837767,40.7624964,-73.9848804,40.7624449,-73.9849176,40.762434,-73.9848914,40.7624449,-73.9848834,40.7621229,-73.9841152,40.7617196,-73.9844098
+330177547,,,1,pedestrian,,0.385812828546,0.771625657092,40.7590587,-73.9820665,40.7590587,-73.9820665,40.7588049,-73.9814606,40.7592771,-73.9811212,40.759729,-73.9822111,40.7596272,-73.9822846,40.7593042,-73.9815056,40.7590117,-73.981717,40.7591341,-73.9820121,40.7590587,-73.9820665
+330177550,,,1,pedestrian,,0.345563467132,0.691126934264,40.7600479,-73.9805334,40.7600479,-73.9805334,40.7605501,-73.981763,40.7606123,-73.9817147,40.7601458,-73.9806062,40.7604094,-73.9804117,40.7604538,-73.9805155,40.760486,-73.9804921,40.7603959,-73.9802773,40.7600479,-73.9805334
