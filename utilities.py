@@ -3,12 +3,13 @@ import parseExcel
 from geopy.distance import vincenty
 
 # change here to change the file you want to edit, make sure it is under data/
-filename = "Quito"
+filename = "madridcentral"
 
 NUMBER_DIM = 30;
 
 
-grids, neighbors = parseExcel.parse_grid()
+# grids, neighbors = parseExcel.parse_grid_5cities("New York City")
+grids, neighbors, average_lat_diff, average_lon_diff = parseExcel.parse_grid_madrid()
 # grid = [lat, lon, distance, road_capacity]
 
 def same_point(p1, p2):
@@ -58,7 +59,7 @@ def points_to_grids(start_point, end_point, total_proportion):
 		truth_value, lat_or_lon, value = share_an_edge(lat_lon_to_grid(start_point), lat_lon_to_grid(end_point))
 		if truth_value == True:
 			# Then it becomes the intersection of two lines problem.
-			slope = (start_point[0] - end_point[0]) / (start_point[1] - end_point[1])
+			slope = (start_point[0] - end_point[0]) / (start_point[1] - end_point[1] + 0.0000000001)
 			y_intercept = start_point[0] - slope * start_point[1]
 			
 			if lat_or_lon == "lat":				
@@ -86,16 +87,27 @@ def points_to_grids(start_point, end_point, total_proportion):
 			return [(grid1, prop1 * total_proportion), (grid2, prop2 * total_proportion)]
 		else:
 			mid_point = [(start_point[0] + end_point[0])/2.0, (start_point[1] + end_point[1])/2.0]
-			return points_to_grids(start_point, mid_point, total_proportion / 2.0) + points_to_grids(mid_point, end_point, total_proportion / 2.0)
+			firstHalf = points_to_grids(start_point, mid_point, total_proportion / 2.0)
+			secondHalf = points_to_grids(mid_point, end_point, total_proportion / 2.0)
+			if firstHalf == None and secondHalf == None:
+				return None
+			elif firstHalf == None:
+				return secondHalf
+			elif secondHalf == None:
+				return firstHalf
+			else:
+				return firstHalf + secondHalf
 
 
 def share_an_edge(grid1, grid2):
 	lat_diff = abs(grids[grid1][0] - grids[grid2][0])
 	lon_diff = abs(grids[grid1][1] - grids[grid2][1])
 
-	if (0.98 < lat_diff / 1.0 and lat_diff/1.0 < 1.02) and (lon_diff / 1.0 < 0.02):
+	print lat_diff, lon_diff, average_lat_diff, average_lon_diff
+
+	if (0.98 < lat_diff / average_lat_diff and lat_diff/ average_lat_diff < 1.02) and (lon_diff / average_lon_diff < 0.02):
 		return [True, "lat", (grids[grid1][0] + grids[grid2][0])/2.0]
-	if (lat_diff / 1.0 < 0.02) and (0.98 < lon_diff / 1.0 and lon_diff/1.0 < 1.02):
+	if (lat_diff / average_lat_diff < 0.02) and (0.98 < lon_diff/ average_lon_diff and lon_diff/ average_lon_diff < 1.02):
 		return [True, "lon", (grids[grid1][1] + grids[grid2][1])/2.0]
 	return [False, "", ""]
 
@@ -132,7 +144,7 @@ def grid_road():
 				distance = vincenty(last_point, current_point).km
 				road_capacity = distance * road_capacity_from_conversion
 				if oneway != "yes":
-					road_capacity *= 2
+					road_capacity *= 1
 
 				# This method gives the proportion that the line segment lies in each grid it crosses
 				distribution = points_to_grids(last_point, current_point, 1.0)
@@ -140,15 +152,18 @@ def grid_road():
 					for (grid, proportion) in distribution:
 						grids[grid][3] += road_capacity * proportion
 						grids[grid][2] += distance * proportion
+						# For knowing what roads are counted
+						grids[grid][4].add(name)
+
 	print grids
 
-	with open('processed/roads_' + filename + 'grid_capacity.csv', 'w') as f:
+	with open('processed/roads_' + filename + '_grid_capacity.csv', 'w') as f:
 		writer = csv.writer(f)
-		writer.writerow(["FID", "Lat", "Lon", "Total_Distance", "Total_Capacity"])
+		writer.writerow(["FID", "Lat", "Lon", "Total_Distance", "Total_Capacity", "Roads in Grid"])
 		for row in grids:
 			line = [row]+grids[row]
 			writer.writerow(line)
-grid_road()
+
 
 
 def find_roads_same_name():
@@ -167,15 +182,6 @@ def find_roads_same_name():
 			if len(stored[roads]) > 1:
 				print stored[roads]
 				writer.writerow(stored[roads])
-			# for i in range(len(stored[roads])):
-			# 	id, start_lat, start_lon, end_lat, end_lon = stored[roads][i]
-			# 	for j in range(i+1, len(stored[roads])):
-			# 		other_id, other_start_lat, other_start_lon, other_end_lat, other_end_lon = stored[roads][j]
-			# 		if (vincenty([start_lat, start_lon], [other_start_lat, other_start_lon].meters) < 1.0):
-
-
-
-# find_roads_same_name()
 
 def find_roads_closeby():
 	stored = {}

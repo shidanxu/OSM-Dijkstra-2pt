@@ -5,7 +5,7 @@ import utilities
 
 
 # change here to change the file you want to edit, make sure it is under data/
-filename = "newyorkmidtown"
+filename = "madridcentral"
 
 
 # This is the road conversion, feel free to modify or add
@@ -68,7 +68,7 @@ def parseWays(ways):
 		# They also include some places, for now if an entry has 'highway' and 'name' we know for sure it is a road.
 		if ('highway' in description):
 			# uncomment this line to see what a description looks like
-			# print description
+			# print description, coordinates
 			reference[id] = description
 
 			
@@ -81,7 +81,7 @@ def parseWays(ways):
 
 			oneway = description['oneway'] if 'oneway' in description else ""
 
-			road_capacity_from_conversion = 1
+			road_capacity_from_conversion = 0
 			highway = ""
 
 			if 'highway' in description:
@@ -90,35 +90,29 @@ def parseWays(ways):
 					# Road capacity conversion, if applicable
 					road_capacity_from_conversion = road_capacity_conversion[description['highway']]
 				else:
-					continue
+					pass
 					# Uncomment this line to see which highway type is not included
 					# print description['highway']
 			
 			mapping[id] = [id, name, lanes, road_capacity_from_conversion, highway, oneway]
 
 			if coordinates[0] in reference:
-				current_point = reference[coordinates[0]][1]
-				starting_point = current_point
+				if type(reference[coordinates[0]]) != dict:
+					current_point = reference[coordinates[0]][1]
+					starting_point = current_point
+					if not starting_point:
+						continue
 			else:
 				print "MISSING"
 				continue
 
-			# current_point = reference[coordinates[0]][1]
 
-			# if coordinates[-1] in reference:
-			# 	last_point = reference[coordinates[-1]][1]
-			# else:
-			# 	print "MISSING"
-			# 	break
-
-			# distance = vincenty(last_point, current_point).km
-
-			# if len(coordinates) > 10:
-			# 	print name
 			for identity in coordinates:
 				if (identity in reference):
 					# print reference[identity]
 					if isinstance(reference[identity], tuple):
+						if current_point == None:
+							continue
 						last_point = current_point
 						points_of_way.append(last_point)
 						current_point = reference[identity][1]
@@ -129,19 +123,17 @@ def parseWays(ways):
 						distance += vincenty(last_point, current_point).km
 
 						plotting_points.append((name, identity,reference[identity][1][0], reference[identity][1][1]))
-					else:
-						continue
 						# print reference[identity]
 				else:
 					# print len(reference)
-					# continue
+					# pass
 					print "MISSING", identity
 
 			points_of_way.append(current_point)
 			# print distance, road_capacity_from_conversion
 			capacity = distance * road_capacity_from_conversion
 			if oneway != "yes":
-				capacity *= 2
+				capacity *= 1
 			
 			road_capacity[id] = capacity
 			mapping[id].append(distance)
@@ -171,7 +163,7 @@ p.parse('data/' + filename)
 # print len(reference)
 
 
-print "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+print "Starting Second Round"
 
 # Write headers, then parse again
 with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
@@ -182,18 +174,20 @@ with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
 
 
 p.parse('data/' + filename)
-# print len(reference)
 total_road_capacity = 0
 for item in road_capacity:
 	# print road_capacity[item]
 	total_road_capacity += road_capacity[item]
 print "Total road capacity: ", total_road_capacity, "km2"
 
-# print "Total nodes missing: ", num_missing
 
 with open ('processed/roads_' + filename + '_coordinates.csv', 'wb') as f:
 	writer = csv.writer(f)
 	for coordinate in plotting_points:
 		writer.writerow([unicode(s).encode("utf-8") for s in coordinate])
 
-# print array
+utilities.grid_road()
+ai = utilities.share_an_edge(16, 26)
+print ai
+bi = utilities.share_an_edge(16,182)
+print bi

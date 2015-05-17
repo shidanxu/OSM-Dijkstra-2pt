@@ -1,0 +1,519 @@
+name,lanes,road_capacity_from_conversion,highway,oneway
+,,1,residential,
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Pan-Island Expressway,,4,motorway,yes
+,2,4,motorway_link,yes
+Pioneer Road North,,3,primary,yes
+Upper Jurong Road,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road,,3,primary,yes
+Kian Teck Way,,1,residential,
+Kian Teck Cresent,,1,residential,
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 61,,1,residential,yes
+Boon Lay Way,,3,primary,yes
+Upper Jurong Road,,3,primary,yes
+Lien Ying Chow Drive,,1,residential,no
+Nanyang Drive,,1,residential,
+Nanyang Circle,,1,residential,no
+Jurong West Avenue 4,,3,secondary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Jurong West Avenue 5,,1,residential,yes
+Pioneer Road North,,3,primary,yes
+Jurong West Street 62,,1,residential,yes
+,2,4,motorway_link,yes
+Jurong West Street 93,,1,residential,
+,2,4,motorway_link,yes
+Jurong West St 92,,1,residential,
+Jurong West Street 91,,1,residential,
+Pioneer Road North,1,3,primary,yes
+,2,4,motorway_link,yes
+Pan-Island Expressway,,4,motorway,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Nanyang Valley,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Jurong West Street 81,,1,residential,
+Yunnan Drive 1,,1,residential,
+Yunnan Drive 2,,1,residential,
+,,1,service,
+Yunnan Crescent,,1,residential,
+,,1,service,
+Yunnan Road,,1,residential,
+Jurong West Street 72,,1,residential,
+,,1,service,
+Jurong West Street 71,,1,residential,yes
+,,1,service,
+,,1,service,
+Jurong West Street 61,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Yunnan Walk 2,,1,residential,
+Yunnan Crescent,,1,residential,
+Yunnan Crescent,,1,residential,
+Yunnan Walk 1,,1,residential,
+,,1,service,
+Yunnan Walk 3,,1,residential,
+,,1,service,
+Jurong West Street 64,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Pioneer Road North,,3,primary,yes
+,,1,service,
+,,1,service,
+Yunnan Drive 3,,1,residential,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Kian Teck Avenue,,1,residential,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,residential,
+Jurong West Street 65,,1,residential,yes
+Jurong West Street 65,,1,residential,
+,,1,service,
+Jurong West Street 65,,1,residential,
+,,1,service,
+,,1,service,
+Jurong West Avenue 5,,1,residential,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+,,1,service,
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Street 62,,1,residential,yes
+Jurong West Street 71,,1,residential,yes
+Jurong West Street 62,,1,residential,yes
+Jurong West Street 63,,1,residential,yes
+Pioneer Road North,,3,primary,yes
+,,1,service,
+,,1,service,
+Pioneer Road,,3,primary,yes
+Pioneer Road,,3,primary,yes
+Nanyang Avenue,,1,residential,
+Upper Jurong Road,,3,primary,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Jurong West Street 93,,1,residential,yes
+Jurong West Street 93,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+Boon Lay Way,,3,primary,yes
+Boon Lay Way,,3,primary,yes
+,,1,residential,yes
+,,1,residential,yes
+,,1,service,
+,,1,service,
+Jurong West Street 71,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,yes
+,,1,service,
+,,1,service,
+,,1,service,
+Jurong West Street 71,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Nanyang Circle,,1,residential,no
+Nanyang Circle,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,residential,
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Pan-Island Expressway,,4,motorway,yes
+,2,4,motorway_link,yes
+Pioneer Road North,,3,primary,yes
+Upper Jurong Road,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road,,3,primary,yes
+Kian Teck Way,,1,residential,
+Kian Teck Cresent,,1,residential,
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 61,,1,residential,yes
+Boon Lay Way,,3,primary,yes
+Upper Jurong Road,,3,primary,yes
+Lien Ying Chow Drive,,1,residential,no
+Nanyang Drive,,1,residential,
+Nanyang Circle,,1,residential,no
+Jurong West Avenue 4,,3,secondary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Jurong West Avenue 5,,1,residential,yes
+Pioneer Road North,,3,primary,yes
+Jurong West Street 62,,1,residential,yes
+,2,4,motorway_link,yes
+Jurong West Street 93,,1,residential,
+,2,4,motorway_link,yes
+Jurong West St 92,,1,residential,
+Jurong West Street 91,,1,residential,
+Pioneer Road North,1,3,primary,yes
+,2,4,motorway_link,yes
+Pan-Island Expressway,,4,motorway,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Nanyang Valley,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Jurong West Street 81,,1,residential,
+Yunnan Drive 1,,1,residential,
+Yunnan Drive 2,,1,residential,
+,,1,service,
+Yunnan Crescent,,1,residential,
+,,1,service,
+Yunnan Road,,1,residential,
+Jurong West Street 72,,1,residential,
+,,1,service,
+Jurong West Street 71,,1,residential,yes
+,,1,service,
+,,1,service,
+Jurong West Street 61,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Yunnan Walk 2,,1,residential,
+Yunnan Crescent,,1,residential,
+Yunnan Crescent,,1,residential,
+Yunnan Walk 1,,1,residential,
+,,1,service,
+Yunnan Walk 3,,1,residential,
+,,1,service,
+Jurong West Street 64,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Pioneer Road North,,3,primary,yes
+,,1,service,
+,,1,service,
+Yunnan Drive 3,,1,residential,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Kian Teck Avenue,,1,residential,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,residential,
+Jurong West Street 64,,1,residential,yes
+Boon Lay Way,,3,primary,yes
+Jurong West Avenue 5,,1,residential,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Street 71,,1,residential,yes
+Enterprise Road,,1,residential,
+Pioneer Road North,,3,primary,yes
+Jurong West Street 91,,1,residential,
+Jurong West Street 91,,1,residential,
+Jurong West Avenue 5,,1,residential,yes
+Jurong West Avenue 5,,1,residential,yes
+Jurong West Avenue 5,,1,residential,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 4,,3,secondary,yes
+Jurong West Avenue 5,,1,residential,
+Jurong West Avenue 5,,1,residential,yes
+Jurong West Street 61,,1,residential,yes
+Jurong West Street 61,,1,residential,yes
+Jurong West Street 61,,1,residential,yes
+Jurong West Street 62,,1,residential,yes
+Jurong West Street 62,,1,residential,yes
+Jurong West Street 62,,1,residential,yes
+Jurong West Street 62,,1,residential,yes
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 63,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+Pioneer Road,,3,primary,yes
+Jurong West Street 64,,1,residential,yes
+Jurong West Street 71,,1,residential,yes
+Jurong West Street 71,,1,residential,yes
+Jurong West Street 71,,1,residential,yes
+Jurong West Street 71,,1,residential,yes
+Jurong West Street 71,,1,residential,yes
+Jurong West Street 71,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+Nanyang Crescent,,1,residential,
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+Pioneer Road North,,3,primary,yes
+,,1,service,
+,,1,service,
+,,1,residential,yes
+,,1,residential,yes
+,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+,,3,secondary_link,yes
+,,1,residential,yes
+Kian Teck Lane,,1,residential,yes
+Kian Teck Lane,,1,residential,
+,,1,residential,yes
+,,1,residential,yes
+Jurong West Street 64,,1,residential,yes
+,,3,primary_link,yes
+,,3,primary_link,yes
+,,1,residential,yes
+,,1,residential,yes
+Soon Lee Drive,,1,residential,
+Soon Lee Street,,1,residential,yes
+,,3,secondary_link,yes
+Jurong West Street 65,,1,residential,
+,,1,service,
+,,1,service,
+,,1,service,
+Pioneer Road,,3,primary,yes
+Nanyang Avenue,,1,residential,
+Upper Jurong Road,,3,primary,yes
+Jurong West Street 65,,1,residential,yes
+Jurong West Street 65,,1,residential,
+,,1,service,
+Jurong West Street 62,,1,residential,yes
+Jurong West Street 62,,1,residential,yes
+Soon Lee Street,,1,residential,
+Jurong West Street 63,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Jurong West Street 93,,1,residential,yes
+Jurong West Street 93,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+Boon Lay Way,,3,primary,yes
+Boon Lay Way,,3,primary,yes
+,,1,residential,yes
+,,1,residential,yes
+,,1,service,
+,,1,service,
+Jurong West Street 71,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,yes
+,,1,service,
+,,1,service,
+,,1,service,
+Jurong West Street 71,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+Nanyang Circle,,1,residential,no
+Nanyang Circle,,1,residential,yes
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
+,,1,service,
