@@ -163,6 +163,8 @@ if __name__ == "__main__":
 	FID_index = 2
 	verbose = False
 
+	if len(args) < 2:
+		raise Exception("Too few arguments. Must specify at least the osm file and grid center file.")
 	if len(args) >= 2:
 		filename = args[1]
 	if len(args) >= 3:
