@@ -10,6 +10,7 @@ Takes in a shape file (can modify in the top of imposmParser.py), a file for the
 Note that the Imposm parser has many installation dependnecies, let me know if you experience any trouble. I can try to help.
 
 Usage:
+
     python imposmParser.py [name of the osm file] [name of the grid center file] [verbose] [sheet name] [x_coordinate_index] [y_coordinate_index] [FID_index]
     
     Example:
@@ -21,6 +22,7 @@ Usage:
         python imposmParser.py Quito UIO_Establishments_RoadNetwork_268km2_forShidan.xlsx
 
 Notes:
+
     verbose == True: road distribution will be printed in the final output
 
     name of the osm file and gird center files are required, rest are optional.
@@ -36,3 +38,6 @@ Notes:
     By Default x_coordinate_index = 0, y_coordinate_index = 1, FID_index = 2.
 
     Please have the data files under data/ instead of root.
+
+
+The road capacity conversions are under imposmParser.py, you may modify it directly.
