@@ -22,10 +22,15 @@ Usage:
 
 Notes:
     verbose == True: road distribution will be printed in the final output
+
     name of the osm file and gird center files are required, rest are optional.
+
     verbose is by default False
+
     sheet name is the name of the Excel sheet that we print, by default it is 'Sheet1'
+
     x_coordinate_index is the Excel column that has the x_coordinates, counting columns from index 0
+
     Similarly for y_coordinate_index and FID_index
 
     By Default x_coordinate_index = 0, y_coordinate_index = 1, FID_index = 2.
