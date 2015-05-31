@@ -1,11 +1,9 @@
 from imposm.parser.xml.parser import XMLParser
 from geopy.distance import vincenty
 import csv
+import parseExcel
 import utilities
-
-
-# change here to change the file you want to edit, make sure it is under data/
-filename = "madridcentral"
+import sys
 
 
 # This is the road conversion, feel free to modify or add
@@ -154,40 +152,65 @@ def parseWays(ways):
 			writer.writerow([unicode(s).encode("utf-8") for s in mapping[element]])
 	return 
 
+if __name__ == "__main__":
 
-# Here ways_callback tells us which method we are calling for the ways we found. Change to nodes_callback = yourmethod if want to process stores
-p = XMLParser(ways_callback=parseWays, nodes_callback = parseNodes, coords_callback = coords_callback)
+	## 1st item osmfile, 2nd item filename of grids, 3rd item sheet name, if necessary
+	args = sys.argv
+	# Default sheet name and indices
+	sheetName = 'Sheet1'
+	x_index = 0
+	y_index = 1
+	FID_index = 2
+	verbose = False
+
+	if len(args) >= 2:
+		filename = args[1]
+	if len(args) >= 3:
+		gridDataFilename = args[2]
+	if len(args) >= 4:
+		verbose = args[3]
+		if verbose == "True":
+			verbose = True
+		else:
+			verbose = False
+	if len(args) >= 5:
+		sheetName = args[4]
+	if len(args) >= 6:
+		x_index = int(args[5])
+	if len(args) >= 7:
+		y_index = int(args[6])
+	if len(args) >= 8:
+		FID_index = int(args[7])
+	# Here ways_callback tells us which method we are calling for the ways we found. Change to nodes_callback = yourmethod if want to process stores
+	p = XMLParser(ways_callback=parseWays, nodes_callback = parseNodes, coords_callback = coords_callback)
 
 
-p.parse('data/' + filename)
-# print len(reference)
+	p.parse('data/' + filename)
+	# print len(reference)
 
 
-print "Starting Second Round"
+	print "Starting Second Round"
 
-# Write headers, then parse again
-with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
-	writer = csv.writer(f)
-	header = ["id", "name", "lanes", "road_capacity_from_conversion", "highway", "oneway", "distance", "road_capacity", "point_lat", "point_lon"]
-	w = writer.writerow(header)
-
-
-
-p.parse('data/' + filename)
-total_road_capacity = 0
-for item in road_capacity:
-	# print road_capacity[item]
-	total_road_capacity += road_capacity[item]
-print "Total road capacity: ", total_road_capacity, "km2"
+	# Write headers, then parse again
+	with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
+		writer = csv.writer(f)
+		header = ["id", "name", "lanes", "road_capacity_from_conversion", "highway", "oneway", "distance", "road_capacity", "point_lat", "point_lon"]
+		w = writer.writerow(header)
 
 
-with open ('processed/roads_' + filename + '_coordinates.csv', 'wb') as f:
-	writer = csv.writer(f)
-	for coordinate in plotting_points:
-		writer.writerow([unicode(s).encode("utf-8") for s in coordinate])
 
-utilities.grid_road()
-ai = utilities.share_an_edge(16, 26)
-print ai
-bi = utilities.share_an_edge(16,182)
-print bi
+	p.parse('data/' + filename)
+	total_road_capacity = 0
+	for item in road_capacity:
+		# print road_capacity[item]
+		total_road_capacity += road_capacity[item]
+	print "Total road capacity: ", total_road_capacity, "km2"
+
+
+	with open ('processed/roads_' + filename + '_coordinates.csv', 'wb') as f:
+		writer = csv.writer(f)
+		for coordinate in plotting_points:
+			writer.writerow([unicode(s).encode("utf-8") for s in coordinate])
+
+	grids, neighbors, average_lat_diff, average_lon_diff = parseExcel.parse_grid(gridDataFilename, sheetName, x_index, y_index, FID_index)
+	utilities.grid_road(filename, grids, average_lat_diff, average_lon_diff, neighbors, verbose)
