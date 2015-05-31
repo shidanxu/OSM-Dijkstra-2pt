@@ -33,11 +33,15 @@ def parse_grid(gridDataFilename, worksheet, x_coord_index = 0, y_coord_index = 1
 	num_rows = worksheet.nrows - 1
 
 	## Initialize neighbors to My point, left boundary, right, up, down
-	for i in range(num_rows):
+	for i in range(num_rows+1):
 		row = worksheet.row(i)
 		FID_2 = row[FID_index].value
-		neighbors[FID_2] = [(0.0, 0.0), "", "", "", ""]
-		my_neighbors[FID_2] = []
+		try:
+			float(FID_2)
+			neighbors[FID_2] = [(0.0, 0.0), "", "", "", ""]
+			my_neighbors[FID_2] = []
+		except ValueError:
+			pass
 
 	curr_row = -1
 	while curr_row < num_rows:
