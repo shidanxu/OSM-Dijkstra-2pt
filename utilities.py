@@ -109,7 +109,8 @@ def grid_road(filename, grids, average_lat_diff, average_lon_diff, neighbors, ve
 			way_coordinates = []
 			id, name, lanes, road_capacity_from_conversion, highway, oneway, distance, road_capacity = row[:8]
 
-			coordinates = row[8:-1]
+			coordinates = row[8:]
+			# print coordinates
 
 			road_capacity_from_conversion = float(road_capacity_from_conversion)
 			for i in range(len(coordinates) / 2):
@@ -120,6 +121,7 @@ def grid_road(filename, grids, average_lat_diff, average_lon_diff, neighbors, ve
 				last_point = current_point
 				current_point = (lat, lon)
 
+				# print "p1, p2: ", last_point, current_point
 				
 				distance = vincenty(last_point, current_point).km
 				road_capacity = distance * road_capacity_from_conversion
@@ -136,21 +138,29 @@ def grid_road(filename, grids, average_lat_diff, average_lon_diff, neighbors, ve
 						if name in grids[grid][4]:
 							grids[grid][4][name][0] += distance
 							grids[grid][4][name][1] += road_capacity
+							if (len(grids[grid]) < 6):
+								grids[grid][5] = []
+							current_point = [lat, lon]
+							grids[grid][5] += name + "\n" + str(lat) + " " + str(lon) + "\n"
+							# grids[grid][4][name][2].append(current_point)
 						else:
+							last_point = [lat, lon]
 							grids[grid][4][name]= [distance, road_capacity]
+							grids[grid][5] += name + "\n" + str(lat) + " " + str(lon) + "\n"
+
 
 	# print grids
 
 	with open('processed/roads_' + filename + '_grid_capacity.csv', 'w') as f:
 		writer = csv.writer(f)
 		if verbose == True:
-			writer.writerow(["FID", "Lat", "Lon", "Total_Distance", "Total_Capacity", "Roads in Grid"])
+			writer.writerow(["FID", "Lat", "Lon", "Total_Distance", "Total_Capacity", "Roads in Grid", "Coords"])
 		else:
 			writer.writerow(["FID", "Lat", "Lon", "Total_Distance", "Total_Capacity"])
 		for row in grids:
 			line = [row]+grids[row]
 			if verbose == False:
-				line = line[:-1]
+				line = line[:-2]
 			writer.writerow(line)
 
 ####################################################

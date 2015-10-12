@@ -56,7 +56,7 @@ def parse_grid(gridDataFilename, worksheet, x_coord_index = 0, y_coord_index = 1
 		# Avoid header
 		try:
 			float(x_coord)	
-			grid[FID_2] = [float(y_coord), float(x_coord), 0.0, 0.0, {}]
+			grid[FID_2] = [float(y_coord), float(x_coord), 0.0, 0.0, {}, "The coordinates: \n"]
 			# print grid[FID_2]
 			coordinates.append((float(y_coord), float(x_coord)))
 		except ValueError:

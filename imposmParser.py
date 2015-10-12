@@ -25,6 +25,10 @@ road_capacity_conversion['road'] = 1
 road_capacity_conversion['living_street'] = 1
 road_capacity_conversion['service'] = 1
 
+
+road_capacity_conversion['footway'] = 1
+road_capacity_conversion['path'] = 1
+road_capacity_conversion['cycleway'] = 1
 # The ones missing are cycleway and footway (for boston datasets)
 
 reference = {}
@@ -32,6 +36,7 @@ plotting_points = []
 array = []
 
 road_capacity = {}
+mapping = {}
 
 regions = {}
 
@@ -55,7 +60,7 @@ def parseNodes(nodes):
 
 # This is the main method to parse roads.
 def parseWays(ways):
-	mapping = {}
+	# mapping = {}
 	
 	
 	# Each entry in ways is in this format: id, {some description dictionary}, [coordinates]
@@ -79,7 +84,7 @@ def parseWays(ways):
 
 			oneway = description['oneway'] if 'oneway' in description else ""
 
-			road_capacity_from_conversion = 0
+			road_capacity_from_conversion = 1
 			highway = ""
 
 			if 'highway' in description:
@@ -144,12 +149,7 @@ def parseWays(ways):
 			# print description
 
 
-	# Write to output file when done
-	with open('processed/roads_' + globals()["filename"] +'.csv', 'a') as f:
-		writer = csv.writer(f)
-		for element in mapping:
-			# Encode for utf-8 chars
-			writer.writerow([unicode(s).encode("utf-8") for s in mapping[element]])
+	
 	return 
 
 if __name__ == "__main__":
@@ -191,7 +191,7 @@ if __name__ == "__main__":
 	# print len(reference)
 
 
-	print "Starting Second Round"
+	print "Starting Second Round for map"
 
 	# Write headers, then parse again
 	with open ('processed/roads_' + filename+ '.csv', 'wb') as f:
@@ -202,9 +202,19 @@ if __name__ == "__main__":
 
 
 	p.parse('data/' + filename)
+
+	# Write to output file when done
+	with open('processed/roads_' + globals()["filename"] +'.csv', 'a') as f:
+		writer = csv.writer(f)
+		for element in mapping:
+			# Encode for utf-8 chars
+			writer.writerow([unicode(s).encode("utf-8") for s in mapping[element]])
+
+
 	total_road_capacity = 0
 	for item in road_capacity:
-		# print road_capacity[item]
+		if road_capacity[item] == 0.0:
+			print road_capacity[item], mapping[item]
 		total_road_capacity += road_capacity[item]
 	print "Total road capacity: ", total_road_capacity, "km2"
 
@@ -212,7 +222,10 @@ if __name__ == "__main__":
 	with open ('processed/roads_' + filename + '_coordinates.csv', 'wb') as f:
 		writer = csv.writer(f)
 		for coordinate in plotting_points:
-			writer.writerow([unicode(s).encode("utf-8") for s in coordinate])
+			writer.writerow([unicode(s).encode("utf-8")	 for s in coordinate])
 
+	print("I am figuring out grid boundaries")
 	grids, neighbors, average_lat_diff, average_lon_diff = parseExcel.parse_grid(gridDataFilename, sheetName, x_index, y_index, FID_index)
+	
+	print("I am grid roading")
 	utilities.grid_road(filename, grids, average_lat_diff, average_lon_diff, neighbors, verbose)
